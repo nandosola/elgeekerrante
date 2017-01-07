@@ -17,6 +17,7 @@ Bienvenidos a la edición 07 del Geek Errante. Hoy es 27 de Julio de 2007, 8-Aca
 Tras la horripilante experiencia de la semana pasada, MrSolo y El Doctor decidimos intentar tranquilizarnos por lo que saqué de la Tardis unas cuantas botellas de tequila adquiridas durante mi reciente viaje a tierras mexicanas. Al volver a la conciencia nos dimos cuenta que habíamos bebido y dormido durante una semana entera y que ya era momento de grabar nuestra siguiente transmisión, así que hemos optado por unas inyecciones intravenosas de cafeína pura para estar a la altura; esta vez sí que no tenemos idea de dónde estamos, a dónde vamos ni nos interesa demasiado, lo que sí que nos interesa es saber si en esta nave habrá unos cuantos Alka-Seltzer.
 
 ## Show notes
+
 ### Rincón del oyente
 - [arroz](https://twitter.com/arrozconnori) sobre el [episodio 05](http://web.archive.org/web/20071031062600/http://elgeekerrante.com/podcast-ep05/#comments)
 - Gracias a [PinPodcast](https://twitter.com/pinpodcast) por su [review](http://web.archive.org/web/20071207205327/http://www.pinpodcast.com/2007/07/24/pin-59/)
@@ -31,6 +32,7 @@ Tras la horripilante experiencia de la semana pasada, MrSolo y El Doctor decidim
 - Aparecen los primeros dispositivos que utilizan USB inalámbrico [link](ihttp://web.archive.org/web/20080907095722/http://www.macsimumnews.com/index.php/archive/first_six_wireless_usb_products_arrive) [link](http://web.archive.org/web/20071116020726/http://www.macbidouille.com/news/2007-07-25/#14729)
 
 ### Noticias
+
 ##### Culebrón iPhone
 - Continúan los rumores del proveedor del iPhone en Europa [link](http://www.pocket-lint.com/news/81648-o2-gets-iphone-rumours-again) [link](http://web.archive.org/web/20071121073647/http://www.macbidouille.com/news/2007-07-14/#14688)
 - Las tiendas alemanas Karstadt y MediaMarkt ya lo anuncian [link](http://www.reuters.com/article/us-iphone-germany-karstadt-idUSL2388966920070723) [link](https://hipertextual.com/archivo/2007/07/el-iphone-en-mediamarkt-alemania/)
@@ -54,6 +56,7 @@ Tras la horripilante experiencia de la semana pasada, MrSolo y El Doctor decidim
 - Mientras que los jesuítas ven a SL (y los mundos virtuales) como un terreno de misión [link](http://povcrystal.blogspot.com.es/2007/07/jesuits-and-second-life.html)
 
 ### Developers y UNIX
+
 ##### Follow-ups
 - `sshd` habilitado en el iPhone, habemus toolchain, servidor web, Python y aplicaciones de línea de comando [link](https://www.engadget.com/2007/07/23/ssh-on-iphone/) [link](http://gizmodo.com/282139/iphone-can-now-serve-web-pages-run-python-open-source-apps)
 
@@ -69,6 +72,7 @@ Tras la horripilante experiencia de la semana pasada, MrSolo y El Doctor decidim
 - Intel libera los Thread Building Blocks para la programación multinúcleo [link](http://barrapunto.com/article.pl?sid=07/07/25/1124218) [link](https://developers.slashdot.org/story/07/07/25/1324221/intel-releases-threading-library-under-gpl-2) [link](http://web.archive.org/web/20080107034832/http://softwareblogs.intel.com/2006/12/18/threading-building-blocks-solution-looking-for-a-problem/)
 
 ### P2P y Derecho digital
+
 ##### Follow-ups
 - Follow-up eterno: La presidenta de Microsoft Ibérica, en contra del canon digital [link](http://tecnologia.elpais.com/tecnologia/2007/07/24/actualidad/1185265684_850215.html)
 - El “impuesto iPod” por hacerse realidad en Canadá [link](https://hipertextual.com/archivo/2007/07/el-impuesto-ipod-por-hacerse-realidad-en-canada/)

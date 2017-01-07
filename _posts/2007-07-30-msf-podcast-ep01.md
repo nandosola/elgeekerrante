@@ -9,6 +9,7 @@ tags:
 Bienvenidos a Mondo Sci-Fi, el spin-off de El Geek Errante. En esta primera edición del 21 de Julio de 2007, queremos dar la importancia que merece a uno de nuestros temas favoritos: todo lo que tenga que ver con el mundo de la Ciencia Ficción, así que acomódense en sus butacas. La holosala se activará en breves momentos.
 
 ## Show notes
+
 ### Series
 - Farscape vuelve como serie Web - [link](http://www.sliceofscifi.com/2007/07/16/all-new-farscape-returns/)
 - BSG: Habrá 8 semanas de mini-episodios de 2-3 min antes de Razor - [link](http://www.sliceofscifi.com/2007/07/16/sci-fi-development-slate-unveiled/)

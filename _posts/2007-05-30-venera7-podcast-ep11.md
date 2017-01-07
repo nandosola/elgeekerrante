@@ -1,0 +1,62 @@
+---
+layout: post
+title: "El podcast de Venera7: transmisión #11"
+date: 2007-05-30 00:11:42
+tags:
+ - v7-podcast
+---
+
+# Pasión de Gavilanes
+Tras algunos problemas con nuestra computadora cuántica, esta vez hemos elegido como lugar de grabación ni más ni menos que la Tardis. El Doctor manejó sus controles en medio del habitual caos para llevarnos a la tercera luna de un planeta clase Daemon en el corazón del cuadrante beta de la Galaxia Sombrero, donde pudimos recolectar gran cantidad de especímenes. Durante los momentos de inactividad científica y relax en el arboretum, decidimos grabar una nueva tertulia.
+
+En casi media hora terrestre nos ha dado tiempo a tratar un montón de temas, englobados en nuesta estructura de siempre:
+
+## Show notes
+
+### Noticias
+- Fiji: el primer Service Pack de Vista
+- Un CEO de 13 años
+- Nueve polacos arrestados por subtitular series
+
+### Second Life
+- Terrorismo, PP y PSOE
+- Presencias corporativas: HP, Sun e IBM
+
+### Java ONE
+- ¿Java es lento? Comparación entre Java y Perl
+- Modularidad de GlassFish y Java 7
+- WorldWind vs Google Earth
+- Blue-ray Disk Java
+- JavaFX
+- SunSpots
+- Java GPL
+
+### Follow-up: Microsoft vs Linux
+- Guerra termonuclear de patentes
+- ¿Quién es el propietario de Linux? Los 204 Linux
+- Mark Shuttleworth (Debian): *“A quien peor le viene esto es a M$ - Les van a llover las demandas”*
+- Empresas de s/w libre se pelean por ser el primer demandado
+
+### El culebrón del iPhone
+- Un rumor en Engadget hace bajar la cotización de Apple en US$4.000M en 10 minutos
+- ¿Quién es el culpable?
+
+### Las series más geek
+- Finales de LOST y Heroes
+- Origins:spin-off de Heroes
+- Caprica: spin-off de Battlestar Galactica
+- Star Trek: Data en el Robot Hall of Fame, Las cenizas de Scotty, la NASA en busca de Spock
+- Aniversarios: 30 años de Star Wars, 25 años de Tron y Blade Runner.
+- Dos nuevas series de Star Wars
+- Tron y Blade Runner se reeditarán en DVD
+- Remake de Barbarella: Rodríguez
+- Rumor: Half Life dirigida por Tarantino
+
+### Series geek: la temporada de otoño en EEUU
+- NBC: Bionic Woman, Journeyman, Chuck, Area 57, The (american) IT Crowd
+- CBS: Moonlight, Babylon Fields, The Big-Bang theory, la muerte de Jericho
+- Fox: The Sarah Connor Chronicles, New Amsterdam, Them, 24
+- ABC: Pushing Daisies
+- CW Network: Reaper, Smallville (nueva), Supernatural (nueva)
+- Para el verano: Los 4400, KLXY y Eureka (10 de julio)
+

@@ -1,0 +1,37 @@
+---
+layout: post
+title: "El podcast de Venera7: transmisión #10"
+date: 2007-05-20 20:12:42
+tags:
+ - v7-podcast
+---
+
+# Descontrolados
+El podcast de venera7 es más grande que todos nosotros. Por eso mismo lo hemos rescatado del incómodo período de alta impedancia en el que lo dejaron las últimas incursiones hostiles a nuestra estación espacial. Nuestros equipos de transmisión ya están reparados y en un estado de operación óptimo, dirigidos hacia el planeta Tierra.
+
+El reporte de daños registra la baja de Javi, capturado en acción y trasladado por el enemigo a las minas de dilitio de Rura Penthe. La operación de rescate es inminente. Hemos perdido también a David, que ha decidido regresar a Sol-3 para culminar su formación como oficial en la Academia de la Flota Estelar.
+
+## Show notes
+
+En esta edición tratamos los siguientes temas:
+
+### Noticias
+
+- Se vende: goatse.cx - ([link](https://news.slashdot.org/story/07/04/22/0134257/goatsecx-is-for-sale))
+- Ad-Wars: MS compra ValueClick, rumores compra de Yahoo; Google y DoubleClick - ([link1](http://news.bbc.co.uk/2/hi/business/6670227.stm), [link2](http://web.archive.org/web/20070602112602/http://www.venera7.com/tecnologia/compra-google-doubleclick-consecuencias), ~~[link3](http://web.archive.org/web/20070625093247/http://www.venera7.com/software/microsoft-quiere-comprar-yahoo)~~)
+- Día de Internet: el no-evento del mes - ([link](https://es.wikipedia.org/wiki/D%C3%ADa_de_Internet))
+- Dell: Ubuntu, XP: the OS that wouldn’t die (ZombieXP) - ([link1](http://web.archive.org/web/20070702154939/http://apcmag.com/5835/vendors_in_no_rush_to_ditch_xp_for_vista), [link2](http://web.archive.org/web/20070625144708/http://direct2dell.com/one2one/archive/2007/05/01/13147.aspx), [link3](https://web-beta.archive.org/web/20070428164653/http://news.yahoo.com/s/nf/20070420/tc_nf/51655), ~~[link4](http://web.archive.org/web/20070625093247/http://news.yahoo.com/s/nf/20070507/bs_nf/52072)~~)
+- Vista vende 40M de licencias, 244 de ellas en China - ([link1](http://web.archive.org/web/20070705185944/http://news.com.com/Gates+40+million+Vista+copies+sold/2100-1016_3-6183890.html?), [link2](https://tech.slashdot.org/story/07/04/18/1512216/only-244-genuine-windows-vistas-sold-in-china))
+- Patentes: Linux vs. Windows y .NET - (~~[link1](http://web.archive.org/web/20070529114828/http://news.yahoo.com/s/infoworld/20070421/tc_infoworld/87908)~~)
+- Más europeos que americanos en Second Life (61% de uzooarios) - ([link1](http://web.archive.org/web/20070509070545/http://news.yahoo.com/s/nm/20070504/tc_nm/secondlife_residents_dc), [link2](http://web.archive.org/web/20080603195627/http://abcnews.go.com/TheLaw/story?id=3159871), [link3](http://elpais.com/elpais/2007/05/13/actualidad/1179044223_850215.html))
+- Migración de bombillas incandescentes a LEDs: California y Canadá pioneras. La UE se lo plantea - ([link](http://web.archive.org/web/20070513032209/http://news.yahoo.com/s/ap/20070510/ap_on_hi_te/led_lighting))
+- IPRED2: no a la ley europea de propiedad intelectual - ([link](http://web.archive.org/web/20070629230620/http://www.copycrime.eu/))
+
+### Series Geek
+
+- BSG: 4ª temporada el 1 de enero de 2008 - (~~[link1](http://web.archive.org/web/20070625093247/http://www.venera7.com/entretenimiento/vuelve-battlestar-galactica)~~, [link2](http://web.archive.org/web/20070515033234/http://www.patriotresource.com/bg/insights/spoilers/season4.html))
+- Heroes y Lost terminan esta semana.
+- Eureka y The IT Crowd vuelven en julio.
+- Web Scabs: Sanctuary, Stranger Things - ([link1](http://sanctuary.wikia.com/wiki/Webisode_Guide), [link2](http://strangerthings.tv/episodes))
+- Nueva peli X-Files - ([link](http://www.sliceofscifi.com/2007/04/23/x-files-film-sequel-in-the-works/))
+

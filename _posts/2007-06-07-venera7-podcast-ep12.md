@@ -1,0 +1,45 @@
+---
+layout: post
+title: "El podcast de Venera7: transmisión #12"
+date: 2007-06-07 19:20:42
+tags:
+ - v7-podcast
+---
+
+# Save The Developer, Save The World
+Bienvenidos a la decimosegunda edición de nuestra Tertulia Digital. Despues de nuestra misión de exploración en la Galaxia Sombrero, el Doctor ha perdido, como de costumbre, el control de la Tardis y nos hemos materializado en el interior de lo que parece ser una nave abandonada. Por el momento el retorno a Venus parece imposible ya que no sabemos ni dónde ni cuándo estamos. Afortunadamente nuestro enlace subespacial con la Tierra sigue activo gracias al Servicio de Roaming Universal de la Tardis. Nos encontramos con ustedes: Nando, nuestro Oficial Científico, Jorge, nuestro Camisa Roja, y, como siempre, El Doctor
+
+## Show notes
+Esta semana tenemos:
+
+### Noticias
+- [Bancarrota de e-mail](http://www.dvorak.org/blog/2007/05/29/man-goes-into-e-mail-bankruptcy/)
+- [Microsoft Surface](http://www.microsoft.com/surface)
+
+### Apple
+- [Conversación Jobs-Gates](https://www.engadget.com/2007/05/30/steve-jobs-and-bill-gates-historic-discussion-live-from-d-2007/)
+- “Spoilers”: iPhone v2 con 3G desvelado por Quanta
+- iTunes Plus: AAC 128Kbps, inclusión de información personal ¿Desincentivar la piratería?
+- YouTube en AppleTV
+
+### Crónica: Google Developer Day
+- [Gears](http://web.archive.org/web/20070625031943/http://code.google.com/apis/gears/), [Gadgets](http://web.archive.org/web/20070621042058/http://code.google.com/apis/gadgets/) y [AJAX Search](http://web.archive.org/web/20070629051834/http://code.google.com/apis/ajaxsearch/)
+- [Amnesty™ Generator](http://web.archive.org/web/20070611141232/http://amnesty.mesadynamics.com/GeneratorMac.html)
+
+### Derecho Digital
+- [“Hacking Tools” declaradas ilegales en Alemania](https://politics.slashdot.org/story/07/05/31/1629259/germany-declares-hacking-tools-illegal)
+- [Crackeo de DVDs en Finlandia es legal](http://web.archive.org/web/20070626221618/http://www.boingboing.net/2007/05/25/breaking_dvd_drm_is_.html)
+- [LiveJournal borra cuentas según palabras clave](http://web.archive.org/web/20070702155046/http://liz-marcs.livejournal.com/266024.html)
+- [Homeland Security y los escritores de Sci-Fi](http://web.archive.org/web/20070703100436/http://www.boingboing.net/2007/05/30/sf_writers_advise_on.html)
+
+### Geek & Sci-fi
+- Fantastic Four: The Rise of the Silver Surfer
+- [40K monedas de cuarto de dólar con la efigie del Silver Surfer](http://www.foxnews.com/story/2007/05/26/us-mint-silver-surfer-coin-is-breaking-law.html#)
+- Microsoft contacta con Peter Jackson con un guión para la película de Halo
+- The Summer of Sci-fi chicks: Michelle Ryan, [Katie Sackoff](http://www.sliceofscifi.com/2007/05/15/sackoff-is-the-original-bionic-woman/) y [Summer Glau](http://www.sliceofscifi.com/2007/03/05/summer-glau-is-a-terminator/)
+- La muerte de Jericho
+- Heroes Season 2: Generations comienza en septiembre, Origins en el mid-season de 2008
+
+### Spoiler alert! ([Heroes](https://heroeswiki.com/Main_Page))
+- La temporada 2 al descubierto - Uluru, HRG, Mr Bennett? Hiro? Peter?
+- Season Finale de la temporada 1

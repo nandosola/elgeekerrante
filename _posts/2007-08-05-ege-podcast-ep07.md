@@ -29,7 +29,7 @@ Tras la horripilante experiencia de la semana pasada, MrSolo y El Doctor decidim
 ### Quickies
 - Secuestran a un usuario de un MMORPG para robarle su contraseña [link](https://www.destructoid.com/top-gamer-lured-into-date-kidnapped-and-forced-to-transfer-gunbound-account-35679.phtml)
 - Vista decepciona a toda la industria [link](http://web.archive.org/web/20071116020726/http://www.macbidouille.com/news/2007-07-25/#14729) [link](https://techcrunch.com/2007/07/24/vista-disappoints-pc-industry-me/)
-- Aparecen los primeros dispositivos que utilizan USB inalámbrico [link](ihttp://web.archive.org/web/20080907095722/http://www.macsimumnews.com/index.php/archive/first_six_wireless_usb_products_arrive) [link](http://web.archive.org/web/20071116020726/http://www.macbidouille.com/news/2007-07-25/#14729)
+- Aparecen los primeros dispositivos que utilizan USB inalámbrico [link](http://web.archive.org/web/20080907095722/http://www.macsimumnews.com/index.php/archive/first_six_wireless_usb_products_arrive) [link](http://web.archive.org/web/20071116020726/http://www.macbidouille.com/news/2007-07-25/#14729)
 
 ### Noticias
 

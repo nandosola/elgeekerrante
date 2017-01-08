@@ -12,10 +12,6 @@ Bienvenidos al podcast del Geek Errante, en ésta su decimoprimera transmisión.
 ## Diario del Oficial Científico
 Llevamos una semana sin señales del Doctor. Esperemos que su estancia en el espacio fluídico llegue pronto a su fin - porque la verdad, me resultan bastante extrañas las costumbres de mi anfitrión. Cada 43 horas debe retornar a su enloquecedora y protoplásmica forma original durante un par de horas, tiempo en el que evito acercarme a su camarote para no formar parte de su aporte proteínico. Por lo demás, IKEA3 es una nave en la que no me siento cómodo, y en más de una ocasión he tenido que escapar de la familia de Aliens de la cubierta 17.
 
-Hemos recibido la visita de un par de naves comerciales pertenecientes al conglomerado hegemónico de R’lieh - lo que ha sido una oportunidad única para recavar información sobre el cuadrante.
-
-*Nota personal*: si el doctor no vuelve en 56 horas, comenzaré a plantearme formar parte del harén de la Emperatriz de Lesbos-5, aprovechando que ayer establecimos contacto con los tratantes de esclavos de Orión.
-
 ## Show notes
 
 ### Rincón del oyente

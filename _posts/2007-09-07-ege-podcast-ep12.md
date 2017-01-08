@@ -10,16 +10,7 @@ tags:
 Bienvenidos a la duodécima edición del podcast del Geek Errante - hoy es 31 de agosto de 2007 o lo que es lo mismo, 17 de Elul, del año 5767 de la Diáspora.
 
 ## Diario de un HoloGrama
-
 Por fin puedo disponer de un momento para actualizarte. He sufrido alguna que otra aventura desde la huida del Teletubbi-Cthulhu que me han impedido aparecer antes.
-
-En primer lugar he aprendido a programar algunas rutinas del lenguaje de programación del sistema de control holográfico. Después de hacer algunos pinitos con el módulo de control visual, no quiero alarmar a mis compañeros, pero la visión de rayos X en esta nave desvela que no solo no estamos solos, sino que además podríamos estar a punto de observar el nacimiento de una nueva civilización altamente cualificada en la sección de Almacenamiento. También he descubierto que el sistema de Inteligencia Artificial de la despensa se debate en una cuestión religiosa que podría dejarles sin sus raciones de agua o de chile. O de ambas dos.
-
-A nivel técnico, hay mucho curro en la nave, y no os creáis que por ser una representación antropoholográfica me voy a escapar de trabajar. Después de huir al ver al teletubbi-Cthulhu gigante, tuve una conversación con la computadora de abordo, TheScheduler o algo así. Mas o menos traducido a lenguaje humano, la conversación trató sobre que si no iba al puente a seguir vigilando que Mr Solo o el Doctor no tocaban ciertos botones asociados con la autodestrucción de la nave, algo tendría que hacer para mantener mi propia existencia. Así que he llevado a cabo ciertas tareas asistiendo a un androide, con dos brazos derechos, en su importante labor de dar de comer al placton del gimnasio inundado con reciclado fertilizante. Debido a mi nueva situación ahora convivo en el area de los starving processes.
-
-Mientras tanto no he sabido nada de Mr Solo, pero al Doctor le he oido proferir gritos de varios tipos, desde sorpresa a risas histéricas, casi rozando las cinco exclamaciones características de la locura.
-
-Umm. Parece que el Doctor necesita ayuda, vamos, al menos está gritando mi nombre. TheScheduler acaba de enviarme una interrupción no enmascable para que asista al puente y recupere entre otras cosas mi aspecto corporeo. Por fin se acaba este calvario. No es que vaya a apreciarlo tanto como un mes en el summer of code de Google, pero me ha mantenido ocupado. 
 
 ## Cuaderno de Bitácora
 Llevo días intentando salir del espacio fluídico. He intentado todo: he recorrido todo el directorio de juegos del ordenador de a bordo del Geek Errante, reconfigurar el condensador de fluzo con los conversores de antimateria, utilizar el destornillador sónico como palanca dimensional, pero nada. Sigo atrapado en este entorno. Sólo me queda una última opción desesperada.

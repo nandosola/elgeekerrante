@@ -66,7 +66,7 @@ Mientras tanto en IKEA3 MrSolo y FuTuR3 esperamos a que los sensores nos confirm
 ##### Quickies
 - La policía de Mumbai planea instalar keyloggers en todos los cibercafés - ([link](http://indiauncut.com/iublog/article/indias-cops-get-orwellian/))
 - El Banco de España alerta sobre el fraude en Internet - ([link](http://www.elmundo.es/navegante/2007/09/13/tecnologia/1189694955.html))
-- El tribunal de la UE cofirma el multazo de 497,2M€ a M$ - ([link](http://tecnologia.elpais.com/tecnologia/2007/09/17/actualidad/1190017678_850215.html)) - ([link](http://tecnologia.elpais.com/tecnologia/2007/09/17/actualidad/1190017684_850215.html)) - ([link](https://www.engadget.com/2007/09/17/microsoft-contritely-responds-to-eu-decision/)) - ([link](http://tecnologia.elpais.com/tecnologia/2007/09/17/actualidad/1190017685_850215.html))
+- El tribunal de la UE confirma el multazo de 497,2M€ a M$ - ([link](http://tecnologia.elpais.com/tecnologia/2007/09/17/actualidad/1190017678_850215.html)) - ([link](http://tecnologia.elpais.com/tecnologia/2007/09/17/actualidad/1190017684_850215.html)) - ([link](https://www.engadget.com/2007/09/17/microsoft-contritely-responds-to-eu-decision/)) - ([link](http://tecnologia.elpais.com/tecnologia/2007/09/17/actualidad/1190017685_850215.html))
 
 ##### Follow-ups
 - La ley §202c en funcionamiento: Arrestado un admin de un nodo TOR en Alemania - ([link](https://www.cnet.com/news/tor-anonymity-server-admin-arrested/)) - ([link](http://arstechnica.com/tech-policy/2007/09/tor-node-operator-after-run-in-with-police-i-cant-do-this-any-more/))

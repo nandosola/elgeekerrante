@@ -6,7 +6,7 @@ tags:
  - ege-podcast
 ---
 
-# (Yet another) standard podcast
+# El Grial francés
 ¡Hola amigos! Esto es el podcast de El Geek Errante en su décimo octava entrega, correspondiente al 12 de octubre de 2007 (Istiqlal, Sharaf Mashiyyat, Javab, 9 de Vahid, Primero de Kull-i-Shaÿ)
 
 Aunque llevamos una semana de retraso, don’t panic! Las obligaciones en el Mundo Real™ hacen mella en la tripulación, pero seguimos grabando con la misma frecuencia. No obstante, este fin de semana postearemos el capítulo 19, restableciendo así el equilibrio climático en la Tierra. Pasamos a las show notes:

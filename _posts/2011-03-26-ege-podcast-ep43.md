@@ -47,3 +47,6 @@ En esta ocasión, os introduciremos al mundo del sabor más nuevo de Lisp: [Cloj
 
 ### Licencia
 El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 de España. Para más información, visita [http://www.creativecommons.es](http://www.creativecommons.es)
+
+### Feedback
+Escríbenos un [Correo Electrónico](podcast@elgeekerrante.com)

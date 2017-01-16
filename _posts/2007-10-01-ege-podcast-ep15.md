@@ -86,3 +86,6 @@ Mientras tanto en IKEA3 MrSolo y FuTuR3 esperamos a que los sensores nos confirm
 ### Sci-Fi to Sci-Fact:
 - Misteriosa enfermedad aqueja a una aldea peruana tras el impacto de un  meteorito - ([link](http://web.archive.org/web/20071012224738/http://www.physorg.com/news109322080.html)) - ([link](http://web.archive.org/web/20071016173336/http://physorg.com/news109397961.html))
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

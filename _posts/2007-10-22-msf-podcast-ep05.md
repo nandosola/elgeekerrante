@@ -63,3 +63,6 @@ Esto es Mondo Sci-Fi #05, grabado el 21 de septiembre de 2007. Hace más de un m
 - The Doctor: [Gunnerkrigg Court](http://www.gunnerkrigg.com/) (webcomic de Tom Siddell)
 - Mr.Solo: [worldswithoutend.com](https://worldswithoutend.com/) (repositorio de ciencia ficción en inglés)
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

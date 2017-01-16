@@ -82,3 +82,6 @@ Grabamos el podcast tranquilamente HoloJorge, futur3 y Mr.Solo. El Doctor se enc
 - [“El juego de Ender”](https://www.ciencia-ficcion.com/opinion/op00023.htm) será un videojuego… WTF?
     - [La noticia](http://www.reuters.com/article/us-videogames-endersgame-idUSN2959643420080129) (miëdo)
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

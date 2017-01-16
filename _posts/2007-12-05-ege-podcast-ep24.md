@@ -103,3 +103,6 @@ Gracias a que FutuR3 se ha transformado en vegetal, tenemos aire. Como siempre, 
 - [¿A quién llamar si vienen los aliens?](http://pinktentacle.com/2007/11/who-to-notify-when-aliens-call/)
     - [Manifold: Space](https://en.wikipedia.org/wiki/Manifold:_Space), [Contact](http://www.imdb.com/title/tt0118884/), [Esfera](http://www.imdb.com/title/tt0120184/).
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

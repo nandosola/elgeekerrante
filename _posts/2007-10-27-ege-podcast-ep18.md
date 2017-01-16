@@ -92,3 +92,6 @@ Obviamente, teníamos que hablar sobre los [premios IgNobel 2007](http://www.ign
 - [Star Trek entra en el negocio funerario](http://web.archive.org/web/20071111185623/http://www.syfyportal.com/news424160.html)
 - [Un asteroide llamado Takei](http://web.archive.org/web/20071011051933/http://news.yahoo.com/s/ap/20071002/ap_on_sc/takei_asteroid)
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

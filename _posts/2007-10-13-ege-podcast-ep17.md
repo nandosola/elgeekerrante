@@ -81,3 +81,6 @@ Office wars revisited: Zoho y Buzzword (episodio 15) [link](http://arstechnica.c
 - El nacimiento de la propulsión fotónica (Tierra-Marte en una semana) [link](https://science.slashdot.org/story/07/09/13/2328233/photonic-laser-thruster-promises-earth-to-mars-in-a-week) [link](http://www.eetimes.com/document.asp?doc_id=1167027) [link](http://web.archive.org/web/20071104131154/http://www.baeinstitute.com/pr1.html)
 - La NASA busca astronautas [link](https://science.slashdot.org/story/07/09/19/1223213/your-chance-to-be-an-astronaut)
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

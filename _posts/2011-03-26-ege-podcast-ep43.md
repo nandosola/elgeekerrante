@@ -46,3 +46,6 @@ En esta ocasión, os introduciremos al mundo del sabor más nuevo de Lisp: [Cloj
 ### Sci-fi to Sci-fact
 - [Conviértete en tu propio heredero tras ser congelado](https://idle.slashdot.org/story/09/11/16/189255/Become-Your-Own-Heir-After-Being-Frozen)
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

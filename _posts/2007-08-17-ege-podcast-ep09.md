@@ -68,3 +68,6 @@ Las negociaciones empezarán una vez le presente al Doctor mi informe tecnológi
 ### Sci-fi to Sci-fact
 - William Gibson se rinde al Futuro - [link](https://slashdot.org/story/07/08/06/1848220/william-gibson-gives-up-on-the-future)
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

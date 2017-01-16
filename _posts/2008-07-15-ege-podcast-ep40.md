@@ -52,3 +52,6 @@ La tripulación está de licencia en los jardines del club de Eccentrica Gallumb
 ### Sci-Fi to Sci-Fact
 - Primeros pasos hacia SkyNet: el ejército de EEUU [amplía](https://www.engadget.com/2008/02/29/army-orders-24-new-sentry-bots-judgment-day-moved-up-two-months/) su programa de robots autónomos
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

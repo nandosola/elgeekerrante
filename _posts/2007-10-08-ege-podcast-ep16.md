@@ -82,3 +82,6 @@ Tras una semana de merecidas vacaciones en el Planeta de Rigley, en el que nuest
 ### Sci-Fi to Sci-Fact
 - Los universos paralelos existen - ([link](http://www.microsiervos.com/archivo/ciencia/matematicas-sugieren-universos-paralelos-existen.html))
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

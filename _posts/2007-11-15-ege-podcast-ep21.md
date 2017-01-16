@@ -71,3 +71,6 @@ Un pueblo de Escocia utiliza el whisky como [fuente de energía](http://web.arch
     - [“The Second Angel”](https://en.wikipedia.org/wiki/The_Second_Angel) de Philip Kerr
     - [“The Southern Vampire Mysteries”](https://en.wikipedia.org/wiki/The_Southern_Vampire_Mysteries) de Charlene Harris
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

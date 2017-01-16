@@ -90,3 +90,6 @@ Tras la horripilante experiencia de la semana pasada, MrSolo y El Doctor decidim
 - Los japoneses estudian usar los dedos como tarjetas de crédito [link](http://pinktentacle.com/2007/07/hitachi-finger-vein-money/)
 - Una mosca robótica que vuela [link](http://www.elmundo.es/navegante/2007/07/23/tecnologia/1185189355.html)
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

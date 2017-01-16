@@ -66,3 +66,6 @@ Vamos a comenzar una serie de especiales sobre mecanismos de autenticación, emp
 ### Sci-fi to Sci-fact
 - [Lentillas cibernéticas](http://web.archive.org/web/20080619085633/http://uwnews.washington.edu/ni/article.asp?articleID=39094): hacia la súper-visión
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

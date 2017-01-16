@@ -55,3 +55,6 @@ Un fallo en el sistema de restore de holopersonalidades provoca la violación de
 - La Universitat Politécnica de Valencia [inventa la psicohistoria](http://www.20minutos.es/noticia/354312/0/ecuaciones/matematicas/elecciones/).
     - Referencias: [Novelas de la Fundación](https://en.wikipedia.org/wiki/Foundation_series), de Isaac Asimov.
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

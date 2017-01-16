@@ -67,3 +67,6 @@ Mr.Solo y futur3, encerrados en la bodega de carga, a merced de la psicosis para
 - El [“Rayo Tractor”](https://www.eurekalert.org/pub_releases/2007-10/miot-md103007.php) del MIT
     - La entrada de Wikipedia está llena de [referencias sci-fi](https://en.wikipedia.org/wiki/Tractor_beam#Fiction).
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

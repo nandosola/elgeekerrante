@@ -48,3 +48,6 @@ Pero pasemos a las noticias de la semana que nos han llegado a través de nuestr
 - X edición de Viñetas desde El Atlántico: vienen Tim Sale, Jeff Smith (Bone) - [link](http://www.lacarceldepapel.com/2007/06/12/10-anos-de-vinetas-desde-o-atlantico/)
 - Los Soprano y su final: los fans, cabreados - [link](http://web.archive.org/web/20071110072046/http://www.deadlinehollywooddaily.com/thats-what-we-were-waiting-for-angry-fans-crash-hbo-website/)
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

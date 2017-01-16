@@ -54,3 +54,6 @@ Como recordarán, la semana pasada nos encontrábamos en el club de Eccentrica G
 ### Sci-Fi to Sci-Fact
 - [MAHEM](https://www.engadget.com/2008/04/24/darpa-turns-arthur-c-clarkes-stiletto-into-mahem/): El Stiletto de Clarke se hace realidad.
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

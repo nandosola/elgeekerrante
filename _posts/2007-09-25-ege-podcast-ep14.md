@@ -76,3 +76,6 @@ Tras finalizar la PlasmaCon con interesantes resultados y muchos contactos nuevo
 - Rusia planea una base permanente en la Luna - ([link](http://web.archive.org/web/20071012015248/http://www.todo-linux.com/modules.php?name=News&file=article&sid=6793)) ([link](https://mundo.sputniknews.com/noticias/2007083175931846/))
 - Google financiará la segunda edición de la X-Prize: misión Luna ([link](http://googlesystem.blogspot.com.es/2007/09/google-lunar-x-prize.html))
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

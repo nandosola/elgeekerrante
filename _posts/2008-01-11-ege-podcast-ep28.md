@@ -76,3 +76,6 @@ FuTuR3 desaparecido. Juegos con el Sputnik y realidades alternas. El fin de la c
 > ***Fe de Erratas***
 > *En la sección “Derecho Digital”, Mr.Solo se equivoca al decir que David Byrne es director de la disquera Putumayo. El ex-Talking Heads está a cargo de Luaka Bop. Disculpen las molestias.*
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

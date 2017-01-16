@@ -64,3 +64,6 @@ Les recordamos a todos nuestros oyentes que ninguno de los tripulantes del Geek 
 ### Sci-Fi to Sci-Fact
 - Científicos de la Universidad de Alberta experimentan con Holodecks [link](http://www.sliceofscifi.com/2007/06/29/star-trek-tech-will-let-people-meet-virtually/)
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

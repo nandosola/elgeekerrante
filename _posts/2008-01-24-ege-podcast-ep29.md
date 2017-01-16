@@ -78,3 +78,6 @@ Universos paralelos, Steampunk y la fiesta de té de HoloJorge en el País de la
 - Un [sustituto para el sueño en spray](http://archive.wired.com/science/discoveries/news/2007/12/sleep_deprivation) nasal.
     - Juez Dredd ([máquinas de sueño](https://en.wikipedia.org/wiki/List_of_technology_in_Judge_Dredd#Sleep_machines)) , X-Files ([Sleepless](http://www.imdb.com/title/tt0751204/))
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

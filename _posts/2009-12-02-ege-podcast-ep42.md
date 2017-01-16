@@ -68,3 +68,6 @@ Después de todo este espaciotiempo lejos del Multiverso Bariónico, HoloJorge l
 ### Sci-Fi to Sci-Fact
 - [WikiReader](https://github.com/wikireader/wikireader): hacia [THHGTTG](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

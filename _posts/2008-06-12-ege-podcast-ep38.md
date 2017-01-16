@@ -63,3 +63,6 @@ Los científicos quieren cambiar de era geológica: [bienvenidos al Antropoceno]
 ### Sci-fi to Sci-fact
 - Simpsons to Fact: [El robo de grasa se hace realidad](http://www.nytimes.com/2008/05/30/us/30grease.html).
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

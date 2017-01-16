@@ -72,3 +72,6 @@ Una vez que MrSolo ha tomado la lanzadera para ir a la PlasmaCon, HoloJorge y yo
 ### Sci-fi to Sci-fact
 - Los secretos del traje de Spidey, revelados - ([link](http://www.sliceofscifi.com/2007/08/29/sci-fi-to-sci-fact-a-working-spider-man-suit/))
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

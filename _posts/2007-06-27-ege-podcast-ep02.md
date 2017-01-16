@@ -50,3 +50,6 @@ Lo que no sabemos es a qué hora de cenar se refiere. En fin, no intentéis comp
 - Follow-up: Marvel Studios producira sus propias peliculas: [link](https://news.slashdot.org/story/07/06/18/1443239/marvel-studios-to-produce-its-own-movies)
 - Follow-up: Samuel L Jackson sera Nick Fury en “Iron Man”: [link](https://www.comicbookmovie.com/iron_man/samuel-l-jackson-is-nick-fury-a3690)
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

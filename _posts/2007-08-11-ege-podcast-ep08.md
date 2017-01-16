@@ -65,3 +65,6 @@ Una vez disipados los efectos del consumo masivo de alcohol de la semana pasada,
 > ***Addendum***
 > *Kudos a nuestro viejo camarada futur3, que años después de nuestro último encuentro, va y a aparece por la red gracias al podcast. Podéis seguirle en su blog, [SoyGeek.com](http://web.archive.org/web/20071104140951/http://www.soygeek.com/). Merece la pena una visita; son buena gente, aunque mantendremos a nuestras hermanas alejadas de ellos ;-)*
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

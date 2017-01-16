@@ -61,3 +61,6 @@ El Juicio a FuTuR3, segunda y última parte
 ### Sci-fi to Sci-fact
 - [Top 5 de Súper-poderes Marvel](http://www.cracked.com/article_16400_5-superpowers-science-will-give-us-in-our-lifetime.html) al alcance de la Ciencia.
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

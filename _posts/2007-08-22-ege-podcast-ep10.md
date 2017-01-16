@@ -74,3 +74,6 @@ La semana pasada, mientras Mr. Solo negociaba con FuTuR3, intenté pasar el rato
 ### Sci-fi to Sci-fact
 - Investigadores desarrollan una mano robótica con interfaz neural - ([link](https://www.engadget.com/2007/07/26/researchers-show-off-robot-hand-neural-interface/))
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

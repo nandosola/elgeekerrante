@@ -94,3 +94,6 @@ Los misteriosos habitantes de Kamino secuestran a HoloJorge y quieren llevarse a
 ### Sci-Fi to Sci-Fact
 - [Gérmenes en el espacio](http://scienceblogs.com/aetiology/2007/10/31/salmonella-species-are-frequen/).
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

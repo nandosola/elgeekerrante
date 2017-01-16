@@ -65,3 +65,6 @@ Seguimos con el concurso “Apple Apesta”. ¡Escríbenos!
 - EEUU: Los [tests de ADN obligatorios](http://www.nytimes.com/2008/02/24/health/24dna.html) han provocado que determinadas personas paguen por falsificar los resultados.
     - Referencias: [GATTACA](http://www.imdb.com/title/tt0119177/), [Brave New World](https://www.huxley.net/) y demás distopías futuras.
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

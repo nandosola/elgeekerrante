@@ -71,3 +71,6 @@ Bienvenidos a bordo de El Geek Errante. Ésta es la vigésimo-segunda edición d
 ### SCI-FI TO SCI-FACT
 - [Bombas termonucleares](https://science.slashdot.org/story/07/08/07/0052240/nukes-against-earth-impacting-asteroids) para desviar asteroides en rumbo de colisión con la Tierra
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

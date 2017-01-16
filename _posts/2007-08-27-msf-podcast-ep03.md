@@ -50,3 +50,6 @@ tags:
 - futur3: “El sueño del rey rojo” de Rodolfo Martinez - ([link](http://web.archive.org/web/20071030041953/http://www.soygeek.com/index.php/2007/08/21/el-sueno-del-rey-rojo/))
 - Mr.Solo: manga de terror japonés: Suehiro Maruo y Hideshi Hino - ([link1](https://en.wikipedia.org/wiki/Suehiro_Maruo), [link2](https://en.wikipedia.org/wiki/Hideshi_Hino))
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

@@ -56,3 +56,6 @@ Bienvenidos a Mondo Sci-Fi #04, grabado el 2 de Septiembre de 2007.
 ### Recomendaciones:
 - Civil War [link](https://www.amazon.com/gp/richpub/listmania/fullview/R2P7K8Y6O1T2VL/ref=cm_srch_res_rpli_alt/104-6576999-1679136)
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

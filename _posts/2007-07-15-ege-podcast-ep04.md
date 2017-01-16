@@ -51,3 +51,6 @@ Por otra parte hemos tenido éxito en restaurar la matriz de personalidad de Hol
 - Impresionante estreno de Heroes en Francia: [link](http://web.archive.org/web/20071208062339/http://www.vertele.com/noticias/detail.php?id=15813)
 - Más datos sobre “The Dark Night” (sin spoilers): [link](https://www.comicbookmovie.com/batman/batman_the_dark_knight/a-spoiler-free-update-of-the-dark-knight-a3729)
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

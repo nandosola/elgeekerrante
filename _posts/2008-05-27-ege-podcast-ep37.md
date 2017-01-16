@@ -105,3 +105,6 @@ De momento, futur3 permanece confinado en el calabozo, a la espera de juicio.
 - [Se ensayan métodos de hibernación](http://web.archive.org/web/20081004002425/http://dsc.discovery.com/news/2008/04/04/space-hibernation.html) para viajes a Marte y más allá.
     - [La respuesta más prometedora](https://science.slashdot.org/story/08/03/25/2136206/suspended-animation-in-mice-without-freezing) puede ser algo desagradable.
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

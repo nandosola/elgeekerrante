@@ -72,3 +72,6 @@ Llevamos una semana sin señales del Doctor. Esperemos que su estancia en el esp
 ### Sci-fi to Sci-fact
 - Predicción de crímenes a lo Minority Report: sistemas biométricos - ([link](https://www.eurekalert.org/pub_releases/2007-08/ns-cyc080807.php), [link2](http://arstechnica.com/security/2007/08/homeland-security-tests-automated-hostile-intent-detector/))
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

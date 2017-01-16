@@ -61,3 +61,6 @@ Por lo demás, nuestro viaje aleatorio continúa y recibimos de los sensores de 
 - Galaxiki: Wiki para crear un universo - ([link](http://www.galaxiki.org/))
 - Follow-up: Shatner confirma que no estará en Star Trek XI - ([link](http://www.sliceofscifi.com/2007/07/11/bill-confirms-his-omission-from-trek-film/))
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

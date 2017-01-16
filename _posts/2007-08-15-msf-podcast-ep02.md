@@ -41,3 +41,6 @@ Como sabréis, del 26 al 28 de Julio se ha celebrado en San Diego, EEUU la Comic
 ### Spoilers
 - Algunas cosas sobre la Temporada 2 de Heroes - [link](http://www.sliceofscifi.com/2007/07/31/kaito-has-hero-powers/) [link](http://web.archive.org/web/20071103005235/http://www.heroes-spain.com/spoilers/spoilers.php)
 
+## Licencia
+El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
+

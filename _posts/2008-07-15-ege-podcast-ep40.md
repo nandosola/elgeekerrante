@@ -6,15 +6,15 @@ tags:
  - ege-podcast
 ---
 
-# Transmisión 40
+# De 8 a 64 en 30 minutos
 Bienvenidos al episodio XL del podcast del Geek Errante. Hoy es 27 de Julio de 2008, día número 54644 de acuerdo con VMS. Faltan 10085 días para el Armagedón NTP.
 
 ## Show notes
 
 ### Tal día como hoy
-- 1967 - La compañía de moneda y timbre De La Rue instala el primer cajero automático electrónico en Enfield, Gran Bretaña
-- 2005 - AMD presenta una demanda federal anti-monopolio contra Intel Corporation.
-- 2008 - Se hace efectiva la renuncia de William Henry Gates III como presidente y CEO de la compañía Microsoft.
+- 1967 - La compañía de moneda y timbre De La Rue instala [el primer cajero automático](http://www.bbc.co.uk/london/content/articles/2007/06/26/cash_machine_feature.shtml) electrónico en Enfield, Gran Bretaña
+- 2005 - AMD presenta una [demanda federal anti-monopolio](https://en.wikipedia.org/wiki/Advanced_Micro_Devices,_Inc._v._Intel_Corp.) contra Intel Corporation.
+- 2008 - Se hace efectiva la [renuncia de William Henry Gates III](http://www.businessinsider.com/bill-gates-2014-2) como presidente y CEO de la compañía Microsoft.
 
 ### Cuaderno de bitácora
 La tripulación está de licencia en los jardines del club de Eccentrica Gallumbits.

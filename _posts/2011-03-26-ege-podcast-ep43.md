@@ -6,7 +6,7 @@ tags:
  - ege-podcast
 ---
 
-# Transmisión 43
+# Feel The Time, Share The Pain
 Bienvenidos al episodio 43 del podcast del Geek Errante, correspondiente a un momento indefinido del espacio-tiempo, en una dimensión desconocida compuesta de pequeños pasadizos, todos iguales.
 
 ## Show notes

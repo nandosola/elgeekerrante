@@ -6,7 +6,7 @@ tags:
  - ege-podcast
 ---
 
-# Transmisión 42
+# Geeks Go Host!
 Bienvenidos al episodio 42 del podcast del Geek Errante, correspondiente al mes de Noviembre de 2009. Mes cero del año cero de la segunda venida.
 
 ## Show notes

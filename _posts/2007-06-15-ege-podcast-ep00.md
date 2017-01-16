@@ -6,7 +6,7 @@ tags:
  - ege-podcast
 ---
 
-# Standard Podcast
+# ¡Bienvenidos a bordo del Geek Errante!
 Bienvenidos a esta edición especial de nuestra Tertulia Digital, grabada el sábado 9 de junio de 2007. Como os podéis imaginar si habéis escuchado el Episodio 12 del Podcast de Venera7, ha sido una semana intensa para nosotros. Lo que al principio parecía una nave abandonada resultó ser el refugio de un clan de Daleks renegados. La batalla ha sido formidable y al final hemos triunfado. Desgraciadamente hemos perdido a uno de nuestros tripulantes (Jorge), pero seguimos con ustedes MrSolo y El Doctor.
 
 ## Show Notes

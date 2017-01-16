@@ -9,6 +9,8 @@ tags:
 # Peligrosamente Virtualizados
 Bienvenidos a bordo de El Geek Errante. Ésta es la vigésimo-primera edición de nuestro podcast, grabada el 2 de Noviembre de 2007, 9-Tecpátl, 1-Malinálli, 13-Cuetzpálin, día de Mictlantecúhtli, Señor de la noche. Feliz día de los muertos.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033332&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 ## Show notes
 
 ### Tal día como hoy

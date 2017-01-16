@@ -10,6 +10,9 @@ tags:
 Bienvenidos al episodio 30 del podcast del Geek Errante. Hoy es 2 de Febrero de 2008 – Sanivara, decimotercer día del mes Magha del año 1929 del calendario nacional unificado.
 
 También es el [Día de La Marmota](https://en.wikipedia.org/wiki/Groundhog_Day) ¿seis semanas más de invierno o primavera temprana? Hagan sus apuestas
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033313&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 > ***(actualización)***
 > *Parece que Punxsutawney Phil vió su sombra: [seis semanas más de invierno](https://www.youtube.com/watch?v=v8kDo9hmwY4) :-(*
 

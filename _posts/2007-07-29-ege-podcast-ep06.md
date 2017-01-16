@@ -17,6 +17,8 @@ Creemos que MrSolo ha tenido éxito en la programación de los sistemas de segur
 
 El día de hoy nos encontramos en el Geek Errante: HoloJorge, el Holograma Paranoico, MrSolo, nuestro Oficial Científico y controlador de hologramas, y su servidor, intentando contener este pandemonium, El Doctor.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033389&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 ## Show notes
 ### Noticia de entrada
 - Spray nasal que aumenta la confianza [link](http://web.archive.org/web/20071009022209/http://www.thesun.co.uk/sol/homepage/news/article246094.ece)

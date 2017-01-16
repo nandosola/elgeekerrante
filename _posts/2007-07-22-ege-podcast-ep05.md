@@ -9,11 +9,12 @@ tags:
 # Cyborg Grids
 
 ## Cuaderno de bitácora
-Justo antes de que HoloJorge nos expulsara al vacío intererstelar desde la bodega de carga, el Doctor logró meter al paranoico holograma en un bucle recursivo al plantearle de manera inesperada un par de preguntas del test de Voigt-Kampff, asi que aprovechamos el bug para desactivar la nueva matriz de personalidad. De momento, MrSolo está intentando aplicar todos sus conocimientos para prevenir futuros altercados con hologramas paranoicos en nuestra computadora, mediante una rutina de protección que ante cualquier fallo de personalidad haga convertirse al ser holográfico en un cantante de vaudeville e interprete “hello my darling Hello my Bonnie” - dandonos tiempò así para escapar y retomar el control.
+Justo antes de que HoloJorge nos expulsara al vacío intererstelar desde la bodega de carga, el Doctor logró meter al paranoico holograma en un bucle recursivo al plantearle de manera inesperada un par de preguntas del test de Voigt-Kampff, asi que aprovechamos el bug para desactivar la nueva matriz de personalidad. De momento, MrSolo está intentando aplicar todos sus conocimientos para prevenir futuros altercados con hologramas paranoicos en nuestra computadora, mediante una rutina de protección que ante cualquier fallo de personalidad haga convertirse al ser holográfico en un cantante de vaudeville e interprete “hello my darling Hello my Bonnie” - dandonos tiempo así para escapar y retomar el control.
 
-Por lo demás, nuestro viaje aleatorio continúa y recibimos de los sensores de largo alcance las primeras lecturas de nuestro destino: el curso de El Geek Errante está siendo desviado por ni más ni menos que una esfera de Dyson, así que merece la pena una visita.
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033391&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 ## Show notes
+
 ### Noticia de entrada
 - La ciencia dice que beber no es tan malo - ([link](http://www.abc.net.au/news/2007-07-10/drinking-may-not-be-so-bad-say-scientists/95000))
 

@@ -9,6 +9,8 @@ tags:
 # El Último Sumotori
 Bienvenidos al episodio 29 del podcast del Geek Errante. Hoy es 18 de enero de 2008. Dies Veneris, nonae ianuariis – año 2761 desde la fundación de la Ciudad
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033317&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 > *Respecto a la (i)regularidad de las últimas publicaciones del podcast, la razón es simple: las navidades, las fiestas, vacaciones, viajes de trabajo, viajes de placer… El verano y la navidad son fechas complicadas para coincidir toda la tripulación. También se han juntado varios viajes de algunos miembros, por lo que se ha desajustado un poco la regularidad semanal… ¡Pero eso se acabó! A partir de esta semana ya empieza el ritmo normal.*
 
 ## Show notes

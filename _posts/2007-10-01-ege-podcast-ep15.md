@@ -9,6 +9,8 @@ tags:
 # SGAE Fried Chicken
 Bienvenidos al Geek Errante. Hoy es 22 de Septiembre de 2007. Aprovechando que hoy se celebra el Hobbit Day, a continuación daremos la fecha en el calendario Ent:…
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033360&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 ## Tal día como hoy
 - Nacen
     - 1791: Michael Faraday, descubridor de la inducción electromagnética y principal inventor del motor eléctrico.

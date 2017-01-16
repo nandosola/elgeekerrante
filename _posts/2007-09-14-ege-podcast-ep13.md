@@ -9,6 +9,8 @@ tags:
 #  NoPoPo - SiPiPi
 Bienvenidos a la decimotercera edición del Podcast de El Geek Errante. Hoy es VII-IX-VII, el comienzo del año 9 de la Era Google según EPIC.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033364&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 ## Tal día como hoy:
 - En 1914 nació James Van Allen, descubridor del cinturón que lleva su nombre
 - En 1927 Philo Taylor Farnsworth logró inventar el primer sistema de televisión completamente electrónico

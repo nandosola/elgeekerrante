@@ -9,6 +9,8 @@ tags:
 # A Podcasting Odyssey
 Bienvenidos al episodio XXXVI del podcast del Geek Errante. Hoy es domingo 6 de abril de 2008. Día 17 de la estación B del año 88 de la era Asimoviana.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033295&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 ## Show notes
 
 ### Tal día como hoy

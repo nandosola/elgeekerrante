@@ -9,6 +9,8 @@ tags:
 # El Armagedón no será televisado (en HD)
 Bienvenidos a bordo de El Geek Errante. Ésta es la vigésimo-segunda edición de nuestro podcast, grabada el 17 de noviembre de 2007, 30 de Phamenoth de 2756.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033329&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 > *Pedimos una disculpa a nuestros oyentes por la calidad de audio de este episodio. Hemos tenido un problema técnico (ha muerto nuestra mesa de mezclas, una Behringer Xenix 802). Esperamos que el próximo tenga una calidad mejor con nuevo equipo.*
 
 ## Show notes

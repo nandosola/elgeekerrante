@@ -9,6 +9,8 @@ tags:
 # La Singularidad Está Cerca
 Hoy es sábado 31 de mayo de 2008, y estáis escuchando el episodio número 38 del podcast de EGE. Exactamente 1665 días antes del fin del mundo.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033292&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 ## Show notes
 
 ### Tal día como hoy

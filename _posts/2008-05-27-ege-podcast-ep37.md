@@ -9,6 +9,8 @@ tags:
 # Algo Huele a Ácido Sulfhídrico en China
 Bienvenidos a la transmisión número 37 de El Geek Errante, grabada el sábado 24 de mayo de 2008 . Fecha irrelevante según el calendario Borg.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033294&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 > Lo primero es pedir disculpas a nuestros oyentes por el largo paréntesis entre los dos último episodios. Sobre todo gracias a aquellos de vosotros que os habéis preocupado por enviarnos mails, comentarios o incluso escrito posts acerca de nuestra misteriosa desaparición. También queremos transmitir nuestra preocupación por los problemas de conectividad que hemos tenido entre nuestro servidor, sito en San Diego, California y la red de Telefónica-RIMA. Han sido subsanados, y esperamos que no hayan supuesto ningún contratiempo grave para nuestros seguidores.
 
 ¡Vamos pues con las show notes!

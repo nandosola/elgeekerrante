@@ -9,6 +9,8 @@ tags:
 # De 8 a 64 en 30 minutos
 Bienvenidos al episodio XL del podcast del Geek Errante. Hoy es 27 de Julio de 2008, día número 54644 de acuerdo con VMS. Faltan 10085 días para el Armagedón NTP.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033284&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 ## Show notes
 
 ### Tal día como hoy

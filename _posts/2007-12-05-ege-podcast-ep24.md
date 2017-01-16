@@ -9,6 +9,8 @@ tags:
 # Fahrenheit 416
 Bienvenidos al episodio 24 del podcast del Geek Errante. Hoy es 23 de Noviembre de 2007, es decir Boomtime, The Aftermath 35, del año 3173 de Nuestra Señora de la Discordia.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033326&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 > *La calidad de audio de este episodio es extraordinaria, gracias a la nueva mesa de mezclas y a que cada uno tiene, al fin, su propio micro. En cuanto a los contenidos, debido a que noviembre y diciembre son meses poco activos, seguimos currándonos monográficos. En esta ocasión abordamos el siempre polémico tema del libro electrónico. Esperamos vuestros comentarios.*
 
 ## Show notes

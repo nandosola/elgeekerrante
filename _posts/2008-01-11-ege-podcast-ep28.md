@@ -9,6 +9,8 @@ tags:
 # Caligaverunt Navigatores Mei
 Bienvenidos al episodio 1C del podcast del Geek Errante. Hoy es 4 de Enero de 2007, hace exactamente 334.510,560.000.00 segundos nuestros oyentes de la Nebulosa Hélix ([NGC-7293](http://messier.seds.org/xtra/ngc/n7293.html) para los amigos) dejaron de escucharnos.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033319&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 ## Show notes
 
 ### Tal día como hoy

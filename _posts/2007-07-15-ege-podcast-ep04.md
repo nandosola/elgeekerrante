@@ -9,9 +9,7 @@ tags:
 # Las noticias despiertan del coma inducido
 Una vez alineados los cristales de dilitio en los conversores de antimateria, hemos procedido a activar el generador de números aleatorios 5 de 20 del Geek Errante y hemos enchufado su salida al sistema de navegación. En este momento estamos en ruta desde unas coordenadas espaciales desconocidas a otras igualmente desconocidas. Para nuestro próximo desplazamiento intentaremos además conectar la Tardis al sistema de navegación para poder tambien viajar por el tiempo. Esperemos no convertir al Geek Errante en una máquina de paradoja.
 
-En estos últimos días hemos estado escuchando extraños sonidos dentro del Geek Errante que posiblemente provengan de los espíritus de los antiguos tripulantes, por lo que si escuchan sonidos extraños durante este podcast, no os preocupéis, serán psicofonías.
-
-Por otra parte hemos tenido éxito en restaurar la matriz de personalidad de HoloJorge. Desgraciadamente no la hemos podido modificar, por lo que sigue estando en modo paranoico, pero al menos lo tenemos nuevamente con nosotros, en el estado en el que estaba justo en el momento del ataque de los Daleks.
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033395&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 ## Show notes
 ### Noticia de Entrada

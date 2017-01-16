@@ -9,6 +9,8 @@ tags:
 # Los Zombies quieren tu CPU
 Bienvenidos al podcast del Geek Errante, en ésta su decimocuarta transmisión. Hoy es 14 de septiembre de 2007. Estamos a dia Jūyokka del mes Nagatsuki, año 19 de la era Heisei. Respetuosos saludos al Emperador.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033362&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 ## Tal día como hoy (14 de Septiembre)
 - 1959 - La sonda espacial soviética Luna 2 se estrelló en la Luna, convirtiéndose en el primer objeto de manufactura humana en llegar a ella.
 - 1936 - Nacimiento de Walter Koenig (a.k.a. Pavel Chekov y Alfred Bester)

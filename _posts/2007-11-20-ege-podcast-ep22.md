@@ -9,6 +9,8 @@ tags:
 # ¿Sueñan los zombies con ovejas inalámbricas?
 Bienvenidos a bordo de El Geek Errante. Ésta es la vigésimosegunda edición de nuestro podcast, grabada el 10 de Noviembre de 2007, Sol 641 del mes 12 del año marciano 28. Hoy estamos en la Longitud Solar 345,2.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033331&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 ## Show notes
 
 ### Tal día como hoy

@@ -11,6 +11,8 @@ Bienvenidos al episodio 0×23 del podcast del Geek Errante. Hoy es 8 de Marzo de
 
 Una felicitación especial a tod@s nuestr@s oyentes que tengan la suerte de contar con un doble cromosoma X.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033300&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 ## Show notes
 
 ### Tal día como hoy

@@ -9,6 +9,8 @@ tags:
 # Mainframe-fobia
 Bienvenidos a una nueva edición de El Geek Errante. Hoy es 10 de agosto de 2007, y os recordamos que nos faltan únicamente 904.953.600 segundos antes de que Apophis nos vaporice o nos devuelva a la Edad de Hielo.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033376&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 ### Diario del Oficial Científico
 Han pasado ya algunas horas terrestres desde que me transporté a la nave del futur3. He alcanzado varios geekgasmos al analizar las avanzadas y sorprendentes tecnologías que este mercader espacial tiene en su bodega de carga: nuevos modelos de faser 100 veces más potentes que los actuales, hasta transportadores basados en extraños condensadores de fluzo capaces de penetrar campos de fuerza de frecuencia variable. Por no hablar de los módulos holográficos de placer.
 

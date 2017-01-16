@@ -8,6 +8,8 @@ tags:
 
 Bienvenidos a Mondo Sci-Fi, el spin-off de El Geek Errante. En esta primera edición del 21 de Julio de 2007, queremos dar la importancia que merece a uno de nuestros temas favoritos: todo lo que tenga que ver con el mundo de la Ciencia Ficción, así que acomódense en sus butacas. La holosala se activará en breves momentos.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303051587&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 ## Show notes
 
 ### Series

@@ -8,6 +8,8 @@ tags:
 
 Esto es Mondo Sci-Fi #05, grabado el 21 de septiembre de 2007. Hace más de un mes, pero no por ello ha perdido frescura.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303051577&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 ## Show notes
 
 ### Reviews de series

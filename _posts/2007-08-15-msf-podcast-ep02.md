@@ -9,6 +9,8 @@ tags:
 ¡Bienvenidos a esta segunda transmisión de “Mondo Sci-Fi”, grabada el jueves 2 de agosto de 2007!
 Como sabréis, del 26 al 28 de Julio se ha celebrado en San Diego, EEUU la Comic-Con, por lo que los anuncios de dicha conferencia impregnarán esta edición de nuestro podcast diletante de Ciencia-Ficción.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303051586&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 ## Show notes
 
 ### Series

@@ -9,6 +9,8 @@ tags:
 # Dos Geeks en Órbita Decadente
 Bienvenidos al episodio XXXII del podcast del Geek Errante. Hoy es sábado 16 de febrero de 2008 - Décimo día del primer mes del Año Wu-Zi. Septuagésimo-octavo Ciclo.
 
+## Show notes
+
 ### Tal día como hoy
 - 1923 - [Howard Carter](https://en.wikipedia.org/wiki/Howard_Carter) arqueólogo y egiptólogo inglés, descubre la cámara funeraria y el sarcófaco del faraón [Tutankamón](https://es.wikipedia.org/wiki/Tutankam%C3%B3n).
 - 1937 - [Wallace H. Carothers](https://en.wikipedia.org/wiki/Wallace_Carothers) recibe la patente del [Nylon](https://en.wikipedia.org/wiki/Nylon).

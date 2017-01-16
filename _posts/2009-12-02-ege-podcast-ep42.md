@@ -11,7 +11,7 @@ Bienvenidos al episodio 42 del podcast del Geek Errante, correspondiente al mes 
 
 ## Show notes
 
-### Tal noviembre como este
+### Tal Noviembre como éste
 - 1814 – en Londres, el periódico The Times se convierte en [el primero del mundo](http://www.thebookofdays.com/months/nov/29.htm#THE%20FIRST%20NEWSPAPER%20PRINTED%20BY%20STEAM) en imprimirse con una máquina de vapor.
 - 1954 – [Un meteorito](https://en.wikipedia.org/wiki/Sylacauga_(meteorite)) de 3,8 kg atraviesa el techo, destruye una radio en la sala de estar, rebota y golpea a la señora Elizabeth Hodges en el vientre.
 - 1957 – la URSS lanza al espacio el segundo satélite que lleva a bordo un ser vivo, el [Sputnik II](https://es.wikipedia.org/wiki/Sputnik_2), con la perra Laika.
@@ -32,7 +32,7 @@ Después de todo este espaciotiempo lejos del Multiverso Bariónico, HoloJorge l
 ### Rincón del oyente
 - En este nuevo episodio damos la bienvenida a todos los oyentes al programa, tanto los viejos conocidos como a los nuevos.
 - Seguidnos en Twitter: geek_errante
-- Google Wave de El Geek Errante: geek errante with: public (D.E.P)
+- ~~Google Wave de El Geek Errante: geek errante with: public~~ (D.E.P)
 
 ### Noticia de entrada
 - Apocalipsis 2012
@@ -41,36 +41,30 @@ Después de todo este espaciotiempo lejos del Multiverso Bariónico, HoloJorge l
 
 ### Miscelánea
 
-#### Quickies
+##### Quickies
 - [Woofer](http://www.pcworld.idg.com.au/article/316004/opposite_twitter_new_site_requires_1_400-character_minimum/): ¿What’s happening (verbosely)?
-- Xerox anuncia la tinta metálica: hacia la electrónica imprimible
-([link1](https://www.engadget.com/2009/10/29/xerox-announces-silver-ink-keeps-printable-electronics-dream-al/), [link2](https://www.engadget.com/2006/03/21/scientists-synthesize-plastic-suitable-for-printing-electronics/), [link3](http://iopscience.iop.org/article/10.1088/0957-4484/20/37/375203/meta;jsessionid=BE92B1AF2F8749227AD245A68DCCD869.ip-10-40-1-105))
+- Xerox anuncia la tinta metálica: hacia la electrónica imprimible ([link1](https://www.engadget.com/2009/10/29/xerox-announces-silver-ink-keeps-printable-electronics-dream-al/), [link2](https://www.engadget.com/2006/03/21/scientists-synthesize-plastic-suitable-for-printing-electronics/), [link3](http://iopscience.iop.org/article/10.1088/0957-4484/20/37/375203/meta;jsessionid=BE92B1AF2F8749227AD245A68DCCD869.ip-10-40-1-105))
 - El uso de cifrado de alto nivel salva a un [presunto delincuente](http://www.couriermail.com.au/news/queensland/rohan-james-wyllies-appeal-for-breach-of-privacy-conviction-and-sentence-dismissed/news-story/9aab1a668d00b4d3a95be4281bf5ee25?sv=8bca2dfccaa402af397dc484ab553c32).
 
-
-### Entrevista a Urtzi Larreta, entusiasta del Mainframe
+##### Entrevista a Urtzi Larreta, entusiasta del Mainframe
 - [Mainframes en la 16º Euskal Encounter](http://www.euskalencounter.org/euskal16/es/actividades/otras/mainframes.php).
-[Entrada en el blog de Urtzi](http://web.archive.org/web/20120305134607/http://www.yggdrasil.tv/?p=101) correspondiente a la 16º Euskal.
-En 2009, también hemos tenido Mainframes: [17º Euskal](http://www.euskalencounter.org/euskal16/es/actividades/otras/mainframes.php), [blog de Urtzi](http://web.archive.org/web/20120305134607/http://www.yggdrasil.tv/?p=101).
+    - [Entrada en el blog de Urtzi](http://web.archive.org/web/20120305134607/http://www.yggdrasil.tv/?p=101) correspondiente a la 16º Euskal.
+    - En 2009, también hemos tenido Mainframes: [17º Euskal](http://www.euskalencounter.org/euskal16/es/actividades/otras/mainframes.php), [blog de Urtzi](http://web.archive.org/web/20120305134607/http://www.yggdrasil.tv/?p=101).
 - Más información: [publico.es](http://www.publico.es/ciencias/gigante-informatica.html), [Euskadi Digital](http://conferencias.euskadigital.net/?p=67) (podcast).
 
-### Developers y unix
+### Developers y UNIX
 
-#### Quickies
+##### Quickies
 - Voto electrónico: Brasil [convoca un concurso](https://hardware.slashdot.org/story/09/10/31/0120223/Contest-To-Hack-Brazilian-Voting-Machines) para hackear sus sistemas de e-voting.
 - Voto electrónico: [iniciativas Open Source](https://www.wired.com/2009/10/open-source) basadas en Linux y Ruby On Rails.
-- Con Kolivas [ha vuelto](https://linux.slashdot.org/story/09/09/06/0433209/con-kolivas-returns-with-a-desktop-oriented-linux-scheduler), con un [scheduler](https://en.wikipedia.org/wiki/Brain_Fuck_Scheduler) orientado al desktop. ([Thread original en KernelTrap](http://thread.gmane.org/gmane.linux.kernel/886319))
+- Con Kolivas [ha vuelto](https://linux.slashdot.org/story/09/09/06/0433209/con-kolivas-returns-with-a-desktop-oriented-linux-scheduler), con un [scheduler](https://en.wikipedia.org/wiki/Brain_Fuck_Scheduler) orientado al desktop. ([Thread original en linux.kernel](https://groups.google.com/forum/#!topic/linux.kernel/_kwnUUAgrdc%5B1-25%5D))
 
-#### Noticias
+##### Noticias
 - Rob Pike presenta Google Go: un nuevo lenguaje orientado a sistemas.
-[golang.org](https://golang.org/), [Tech Talk (youtube)](https://www.youtube.com/watch?v=rKnDgT73v8s), [Go!](https://en.wikipedia.org/wiki/Go!_(programming_language))
-(con exclamación)
+    - [golang.org](https://golang.org/)
+    - [Tech Talk (youtube)](https://www.youtube.com/watch?v=rKnDgT73v8s)
+    - [Go!](https://en.wikipedia.org/wiki/Go!_(programming_language)) (con exclamación)
 
 ### Sci-Fi to Sci-Fact
 - [WikiReader](https://github.com/wikireader/wikireader): hacia [THHGTTG](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
 
-### Licencia
-El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 de España. Para más información, visita [http://www.creativecommons.es](http://www.creativecommons.es)
-
-### Feedback
-Escríbenos un [Correo Electrónico](podcast@elgeekerrante.com)

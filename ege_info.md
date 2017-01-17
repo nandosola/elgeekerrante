@@ -5,13 +5,14 @@ title: About
 ---
 
 # info & tracks
-Muchos de nuestros oyentes nos preguntan acerca de las canciones que usamos en El Geek Errante o en Mondo Sci-Fi. Aunque parezca mentira, un 99′99% de nuestras sintonías tienen licencia Creative Commons o se encuentran en el dominio público. Dar con efectos decentes sin copyright es más difícil, y podemos haber metido la pata1. Ponemos un esfuerzo especial en que nuestro podcast se ajuste a la filosofía Creative Commons que tanto nos gusta, y que nuestra aportación a la Comunidad no choque con tus intereses creativos y/o derechos de imágen. No obstante, si crees que estamos usando tu trabajo (o el de tu representado) de manera inapropiada, contáctanos inmediatamente vía nuestro alias de correo.
+Muchos de nuestros oyentes nos preguntan acerca de las canciones que usamos en El Geek Errante o en Mondo Sci-Fi. Aunque parezca mentira, un 99′99% de nuestras sintonías tienen licencia Creative Commons o se encuentran en el dominio público. Dar con efectos decentes sin copyright es más difícil, y podemos haber metido la pata1. Ponemos un esfuerzo especial en que nuestro podcast se ajuste a la filosofía Creative Commons que tanto nos gusta, y que nuestra aportación a la Comunidad no choque con tus intereses creativos y/o derechos de imágen. No obstante, si crees que estamos usando tu trabajo (o el de tu representado) de manera inapropiada, contáctanos inmediatamente vía <a href='ma&#105;&#108;to&#58;podc%&#54;1%7&#51;t%&#52;0elge%&#54;5k&#101;r%72%61%6Ete&#46;c%6&#70;m'>&#112;odcas&#116;&#64;el&#103;eekerran&#116;&#101;&#46;com</a>.
 
 Aunque actualizamos esta página con frecuencia, es posible que algunas músicas o efectos que usamos en nuestro podcast no aparezcan en la lista. Ten en cuenta que muchas veces usamos música de Mondo Sci-Fi para determinadas secciones de EGE (Sci-Fi to Sci-Fact y cierre). Durante nuestras primeras emisiones (hasta EGE#6) estuvimos experimentando con música proveniente de 8bitpeoples.com, cuyo crédito damos en el tag ID3 del fichero MP3. Si escuchas algo que no está en la lista, haznoslo saber enviándonos un correo. ¡Muchas gracias!
 
 Hechas todas las presentaciones, aquí va un listado de todas las canciones y efectos que usamos regularmente en nuestros podcasts, así como de dónde las hemos sacado y el tipo de licencia que tienen. Al final del track listing, os detallamos la información de copyright de los logos de MSF y EGE, seguido de una breve relación del software que usamos para producir nuestros podcasts. Como colofón, y por demanda popular, incluimos una lista con nuestro equipo de grabación. Esperamos que os sea de utilidad :-)
 
 ## Música y Efectos: El Geek Errante
+
 ### Portada
 - Random – [*“Spontaneous Devotion” – Bad Joke EP*](http://www.8bitpeoples.com/products/520261-random-bad-joke-ep)
   - Cortesía de [8bitpeoples.com](http://www.8bitpeoples.com/)

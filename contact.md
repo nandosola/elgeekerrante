@@ -13,19 +13,20 @@ Siempre contestamos, aunque estemos a millones de años-luz de la Tierra o en ot
   <div class="form-group">
     <label for="inputEmail" class="col-sm-2 control-label">Email</label>
     <div class="col-sm-10">
-      <input type="email" class="form-control" id="inputEmail">
+      <input type="email" class="form-control" id="inputEmail" name="_replyto">
+      <input type="text" name="_gotcha" style="display:none" />
     </div>
   </div>
   <div class="form-group">
     <label for="inputNick" class="col-sm-2 control-label">Nombre</label>
     <div class="col-sm-10">
-      <input type="text" class="form-control" id="inputNick">
+      <input type="text" class="form-control" id="inputNick" name="name">
     </div>
   </div>
   <div class="form-group">
     <label for="inputSubject" class="col-sm-2 control-label">Asunto</label>
     <div class="col-sm-10">
-      <input type="text" class="form-control" id="inputSubject">
+      <input type="text" class="form-control" id="inputSubject" name="_subject">
     </div>
   </div>
   <div class="form-group">

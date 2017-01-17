@@ -32,7 +32,7 @@ Siempre contestamos, aunque estemos a millones de años-luz de la Tierra o en ot
   <div class="form-group">
     <label for="inputMessage" class="col-sm-2 control-label">Mensaje</label>
     <div class="col-sm-10">
-      <textarea class="form-control" rows="8" id="inputMessage"></textarea>
+      <textarea class="form-control" rows="8" id="inputMessage" name="message"></textarea>
     </div>
   </div>
   <div class="form-group">

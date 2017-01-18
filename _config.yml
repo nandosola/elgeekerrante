@@ -4,7 +4,7 @@ name: Cuaderno de bitácora
 description: Life's a maze of twisty little passages, all alike
 
 # Url is currently only used only for the RSS feed in feed.xml
-url: http://robotchrist.com
+url: http://elgeekerrante.com
 
 # For a project page here should be a project name. Otherwise (for user's/organizaion's page leave it empty)
 baseurl: ""

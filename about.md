@@ -15,6 +15,7 @@ En esta primera época ya estabamos **El Doctor**, **HoloJorge** y **Mr.Solo**, 
 
 ## La época dorada
 El ritmo vertiginoso de publicación de un episodio por semana y nuestro perfeccionismo nos hicieron conseguir experiencia y confianza con el formato de ***EGE***, que puede resumirse en:
+
 - Efemérides
 - *Space opera* por entregas
 - Comentario de noticias de tecnología, Apple, Sun, desarrollo, hacking y derecho de internet.
@@ -31,6 +32,7 @@ Desde Junio de 2007 hasta finales de 2008 produjimos 41 episodios de ***EGE*** y
 
 ## Resurgimiento
 En las navidades de 2016, casi 10 años después de los primeros pasitos del podcast de Venera7 e innumerables correos pidiendo nuestro regreso, nos dimos cuenta de que teníamos dos deudas pendientes con la Comunidad de oyentes pasados, presentes y futuros:
+
 1. Por un lado, mantener nuestros episodios siempre disponibles y los enlaces siempre vivos. Parece un tópico, pero el ritmo de Internet es muy rápido. Noticias candentes de hace 10 años no importan, y sus enlaces se han perdido en servidores olvidados o gracias a algún consultor SEO que no ha caido en meter *redirects*.
 2. Por otro lado, *volver a grabar*.
 
@@ -38,5 +40,5 @@ Así que la primera deuda con todas y todos vosotros está saldada: aquí teneis
 
 Con respecto al segundo punto, anque la tripulación se encuentre dispersa, nos hemos propuesto que, comenzando en 2017, vamos a retomar las emisiones subespaciales.
 
-> Que no está muerto todo lo que yace eternamente…
-> …y con los evos extraños incluso la muerte puede morir.
+> *Que no está muerto todo lo que yace eternamente…
+> …y con los evos extraños incluso la muerte puede morir.*

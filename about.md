@@ -21,7 +21,6 @@ El ritmo vertiginoso de publicación de un episodio por semana y nuestro perfecc
 - Desarrollo *profundo* de cualquier tema relacionado con alguna noticia: cables oceánicos, IPv6, gusanos malignos, entrevistas, cobertura de eventos como Retro-Madrid…
 - Comentarios y reseñas sobre el mundo de la ciencia-ficción, que poco despuñes pasó a su propio podcast llamado **Mondo Sci-Fi**.
 
-
 ![El Geek Errante](/images/ege_logo.jpg){: .center-image .img-thumbnail }
 ![Mondo Sci-Fi](/images/msf_logo.jpg){: .center-image .img-thumbnail }
 
@@ -33,7 +32,7 @@ Desde Junio de 2007 hasta finales de 2008 produjimos 41 episodios de ***EGE*** y
 ## Resurgimiento
 En las navidades de 2016, casi 10 años después de los primeros pasitos del podcast de Venera7 e innumerables correos pidiendo nuestro regreso, nos dimos cuenta de que teníamos dos deudas pendientes con la Comunidad de oyentes pasados, presentes y futuros:
 1. Por un lado, mantener nuestros episodios siempre disponibles y los enlaces siempre vivos. Parece un tópico, pero el ritmo de Internet es muy rápido. Noticias candentes de hace 10 años no importan, y sus enlaces se han perdido en servidores olvidados o gracias a algún consultor SEO que no ha caido en meter *redirects*.
-1. Por otro lado, *volver a grabar*.
+2. Por otro lado, *volver a grabar*.
 
 Así que la primera deuda con todas y todos vosotros está saldada: aquí teneis los archivos de ***EGE***, **Mondo Sci-Fi** y los capítulos del podcast de Venera7 que fueron la precuela de ***EGE***. Coon sus *show-notes* actualizadas y sin enlaces rotos. Ha sido un trabajo minucioso y empocionante que nos ha llevado casi un mes: hemos tenido que recurrir a [Archive.org](http://web.archive.org/web/*/http://elgeekerrante.com) para rescatar uno a uno cada episodio. Cada enlace ha sido validados y comprobado.
 

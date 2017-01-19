@@ -18,9 +18,9 @@ El ritmo vertiginoso de publicación de un episodio por semana y nuestro perfecc
 
 - Efemérides
 - *Space opera* por entregas
-- Comentario de noticias de tecnología, Apple, Sun, desarrollo, hacking y derecho de internet.
+- Comentario de noticias de tecnología, Apple, Sun, desarrollo, hacking, P2P, derecho de internet y un poquito de ciencia..
 - Desarrollo *profundo* de cualquier tema relacionado con alguna noticia: cables oceánicos, IPv6, gusanos malignos, entrevistas, cobertura de eventos como Retro-Madrid…
-- Comentarios y reseñas sobre el mundo de la ciencia-ficción, que poco despuñes pasó a su propio podcast llamado **Mondo Sci-Fi**.
+- Comentarios y reseñas sobre el mundo de la ciencia-ficción, que poco después pasó a su propio podcast llamado **Mondo Sci-Fi**.
 
 ![El Geek Errante](/images/ege_logo.jpg){: .center-image .img-thumbnail }
 ![Mondo Sci-Fi](/images/msf_logo.jpg){: .center-image .img-thumbnail }
@@ -31,14 +31,15 @@ Todo ello siempre usando recursos 99,9% libres, sin publicidad de ningún tipo y
 Desde Junio de 2007 hasta finales de 2008 produjimos 41 episodios de ***EGE*** y 5 de **Mondo Sci-Fi**. Entre 2009 y 2011 únicamente 2 episodios de ***EGE*** fueron transmitidos al Planeta Tierra. Una vez mas, la horrísona *Vida Real*™ y diversas aventuras personales y empresariales de los tripulantes pusieron en hibernación forzada al podcast. Lo más triste es que creíamos que habíamos perdido todas las entradas con las *show-notes* cuando nuestro servidor web murió.
 
 ## Resurgimiento
-En las navidades de 2016, nueve años después de los primeros bits del podcast del Geek Errante e innumerables correos pidiendo nuestro regreso, nos dimos cuenta de que teníamos dos deudas pendientes con la Comunidad de oyentes pasados, presentes y futuros:
+En las navidades de 2016, nueve años después de los primeros bits del podcast del Geek Errante y cada vez menos correos pidiendo nuestro regreso, nos dimos cuenta de que teníamos dos deudas pendientes con la Comunidad de oyentes pasados, presentes y futuros:
 
-1. Por un lado, mantener nuestros episodios siempre disponibles y los enlaces siempre vivos. Parece un tópico, pero el ritmo de Internet es muy rápido. Noticias candentes de hace 10 años no importan, y sus enlaces se han perdido en servidores olvidados o gracias a algún consultor SEO que no ha caido en meter *redirects*.
+1. Por un lado, mantener nuestros episodios siempre disponibles y los enlaces siempre vivos. Parece un tópico, pero el ritmo de Internet es muy rápido. Noticias candentes de hace 10 años ya no importan. Sus enlaces se han perdido en servidores apagados. O ya no funcionan gracias a algún consultor SEO que no ha caido en meter *redirects*.
 2. Por otro lado, *volver a grabar*.
 
-Así que la primera deuda con todas y todos vosotros está saldada: aquí teneis los archivos de ***EGE***, **Mondo Sci-Fi** y los capítulos del podcast de Venera7 que fueron la precuela de ***EGE***. Coon sus *show-notes* actualizadas y sin enlaces rotos. Ha sido un trabajo minucioso y empocionante que nos ha llevado casi un mes: hemos tenido que recurrir a [Archive.org](http://web.archive.org/web/*/http://elgeekerrante.com) para rescatar uno a uno cada episodio. Cada enlace ha sido validados y comprobado.
+Así que la primera deuda con todas y todos vosotros está saldada: aquí teneis los archivos de ***EGE***, **Mondo Sci-Fi** y los capítulos del podcast de Venera7 que fueron la precuela de ***EGE***. Con sus *show-notes* actualizadas y sin enlaces rotos. Ha sido un trabajo minucioso y emocionante que nos ha llevado casi un mes: hemos tenido que recurrir a [Archive.org](http://web.archive.org/web/*/http://elgeekerrante.com) para rescatar uno a uno cada episodio. Cada enlace ha sido validados y comprobado.
 
-Con respecto al segundo punto, aunque la tripulación se encuentre dispersa, nos hemos propuesto que, comenzando en 2017, vamos a retomar las emisiones subespaciales. El formato cambia, pero el espíritu permanece. Todos los tripulantes seguimos vinculados al mundo técnico de alto nivel, y nunca hemos dejado de participar en él. Además, tenemos ganas de aportar algo al ya consolidado mundillo del podcasting en español. Y es que como dijo un árabe loco hace muchos, muchos años:
+Con respecto al segundo punto, aunque la tripulación se encuentre físicamente dispersa, nos hemos propuesto que, comenzando en 2017, vamos a retomar las emisiones subespaciales. El formato cambia, pero el espíritu permanece. Todos los tripulantes seguimos vinculados al mundo técnico de alto nivel, y nunca hemos dejado de participar en él. Además, tenemos ganas de aportar algo al ya *consolidado* mundillo del podcasting en español. Y es que como dijo un árabe loco hace muchos, muchos años:
 
 > *Que no está muerto todo lo que yace eternamente…
 > …y con los evos extraños incluso la muerte puede morir.*
+

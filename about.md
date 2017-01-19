@@ -36,10 +36,18 @@ En las navidades de 2016, nueve años después de los primeros bits del podcast 
 1. Por un lado, mantener nuestros episodios siempre disponibles y los enlaces siempre vivos. Parece un tópico, pero el ritmo de Internet es muy rápido. Noticias candentes de hace 10 años ya no importan. Sus enlaces se han perdido en servidores apagados. O ya no funcionan gracias a algún consultor SEO que no ha caido en meter *redirects*.
 2. Por otro lado, *volver a grabar*.
 
-Así que la primera deuda con todas y todos vosotros está saldada: aquí teneis los archivos de ***EGE***, **Mondo Sci-Fi** y los capítulos del podcast de Venera7 que fueron la precuela de ***EGE***. Con sus *show-notes* actualizadas y sin enlaces rotos. Ha sido un trabajo minucioso y emocionante que nos ha llevado casi un mes: hemos tenido que recurrir a [Archive.org](http://web.archive.org/web/*/http://elgeekerrante.com) para rescatar uno a uno cada episodio. Cada enlace ha sido validados y comprobado.
+Así que la primera deuda con todas y todos vosotros está saldada: aquí teneis los archivos de ***EGE***, **Mondo Sci-Fi** y los capítulos del podcast de Venera7 que fueron la precuela de ***EGE***. Con sus *show-notes* actualizadas y sin enlaces rotos. Ha sido un trabajo minucioso y emocionante que nos ha llevado casi un mes: hemos tenido que recurrir a [Archive.org](http://web.archive.org/web/*/http://elgeekerrante.com) para rescatar uno a uno cada episodio. Cada enlace ha sido validado y comprobado.
 
 Con respecto al segundo punto, aunque la tripulación se encuentre físicamente dispersa, nos hemos propuesto que, comenzando en 2017, vamos a retomar las emisiones subespaciales. El formato cambia, pero el espíritu permanece. Todos los tripulantes seguimos vinculados al mundo técnico de alto nivel, y nunca hemos dejado de participar en él. Además, tenemos ganas de aportar algo al ya *consolidado* mundillo del podcasting en español. Y es que como dijo un árabe loco hace muchos, muchos años:
 
 > *Que no está muerto todo lo que yace eternamente…
 > …y con los evos extraños incluso la muerte puede morir.*
+
+## Archivo de Podcasts
+Gracias a Archive.org hemos podido regresar de la interfase en la que nos encontrábamos. Además de páginas web, esta gran Biblioteca de Trantor de Internet guarda también audios. Allí hemos puesto a vuestra disposición:
+
+- Los últimos capítulos de [El Podcast de Venera 7](https://archive.org/details/v7podcast).
+- [Mondo Sci-Fi](https://archive.org/details/msf_podcast).
+
+Es una manera de que no se pierdan nunca, o al menos en un futuro a largo plazo. Desde aquí, transmitimos nuestro agradecimiento a este servicio esencial. Si os parece de utilidad, considerad [hacer una donación](https://archive.org/donate/).
 

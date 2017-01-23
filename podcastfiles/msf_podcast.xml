@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+>
+ 
+<channel>
+<title>Mondo Sci-Fi</title>
+<atom:link href="http://elgeekerrante.com/podcastfiles/msf_podcast.xml" rel="self" type="application/rss+xml" />
+<link>http://elgeekerrante.com</link>
+<description>Bienvenidos a Mondo Sci-Fi, la transmisión quincenal de El Geek Errante dedicada a las series, películas, comics y cualquier otra cosa que se nos ocurra, siempre dentro del mundo de la ciencia ficción y la ficción especulativa. En estas transmisiones damos nuestras reseñas, opiniones, recomendaciones y críticas de todo lo que ocurre en el mundo del entretenimiento, siempre desde el punto de vista de fans de la ciencia ficción más dura. Mr. Solo, el Doctor y sus invitados ocasionales llevarán a sus sistemas reproductores de MP3 toda la información vital para estar al día en el universo de la ciencia ficción. Si os gustan podcasts como Slice of Sci-Fi, Escape Pod, Geek Fu Action Grip y similares, Mondo Sci-Fi habla vuestro idioma: el español.</description>
+<category>TV &amp; Film</category>
+<copyright>CC License 2.5 Spain (by-nc-sa)</copyright>
+<language>es</language>
+<lastBuildDate>Mon, 23 Jan 2017 19:20:42 +0100</lastBuildDate>
+<pubDate>Mon, 23 Jan 2017 19:20:42 +0100</pubDate>
+<generator>http://jekyllrb.com</generator>
+<sy:updateBase>2017-01-23T19:20+0100</sy:updateBase>
+<sy:updatePeriod>yearly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<itunes:block>yes</itunes:block>
+<itunes:summary>Bienvenidos a Mondo Sci-Fi, la transmisión quincenal de El Geek Errante dedicada a las series, películas, comics y cualquier otra cosa que se nos ocurra, siempre dentro del mundo de la ciencia ficción y la ficción especulativa. En estas transmisiones damos nuestras reseñas, opiniones, recomendaciones y críticas de todo lo que ocurre en el mundo del entretenimiento, siempre desde el punto de vista de fans de la ciencia ficción más dura. Mr. Solo, el Doctor y sus invitados ocasionales llevarán a sus sistemas reproductores de MP3 toda la información vital para estar al día en el universo de la ciencia ficción. Si os gustan podcasts como Slice of Sci-Fi, Escape Pod, Geek Fu Action Grip y similares, Mondo Sci-Fi habla vuestro idioma: el español.
+
+Agradecemos sus visitas y comentarios en nuestro blog: http://www.elgeekerrante.com</itunes:summary>
+<itunes:subtitle>Un cocktail quincenal de novedades de otro mundo</itunes:subtitle>
+<itunes:category text="TV &amp; Film" />
+<itunes:keywords>series, cine, geek, spanish, español, ciencia, ficcion, comic</itunes:keywords>
+<itunes:author>La tripulación de El Geek Errante</itunes:author>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://elgeekerrante.com/images/msf_logo.jpg" />
+<itunes:owner>
+<itunes:name>The Crew</itunes:name>
+<itunes:email>podcast@elgeekerrante.com</itunes:email>
+</itunes:owner>
+<managingEditor>podcast@elgeekerrante.com (The Crew)</managingEditor>
+<itunes:subtitle>Perdidos en el Multiverso</itunes:subtitle>
+<image>
+<title>Mondo Sci-Fi</title>
+<url>http://elgeekerrante.com/images/msf_logo.jpg</url>
+<link>http://elgeekerrante.com</link>
+<width>144</width>
+<height>202</height>
+</image>
+
+  <item>
+    <title>EGE 5: Mondo Sci-Fi #5</title>
+    <link>http://elgeekerrante.com/msf-podcast-ep05</link>
+    <comments>http://elgeekerrante.com/msf-podcast-ep05#comments</comments>
+    <pubDate>Mon, 22 Oct 2007 17:13:48 +0200</pubDate>
+    <dc:creator><![CDATA[La tripulación de El Geek Errante]]></dc:creator>
+    <description><![CDATA[Esto es Mondo Sci-Fi #05, grabado el 21 de septiembre de 2007. Hace más de un mes, pero no por ello ha perdido frescura.]]></description>
+    <content:encoded><![CDATA[<p>Esto es Mondo Sci-Fi #05, grabado el 21 de septiembre de 2007. Hace más de un mes, pero no por ello ha perdido frescura.</p>
+
+<ul>
+  <li><a href="https://archive.org/download/msf_podcast/05%20Mondo%20Sci-Fi%20%235.mp3">Descarga del audio desde SoundCloud (mp3, 26.6MB)</a></li>
+</ul>
+
+<h2 id="show-notes">Show notes</h2>
+
+<h3 id="reviews-de-series">Reviews de series</h3>
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/The_Big_Bang_Theory">Big Bang Theory</a> (CBS) - Apoyado por campaña viral <a href="https://www.youtube.com/watch?v=NLel3J7YY0c">en YouTube</a></li>
+  <li>Star Trek New Voyages: <a href="http://web.archive.org/web/20071108205503/http://www.startreknewvoyages.com/episodes.html">World Enough and Time</a></li>
+  <li><a href="http://web.archive.org/web/20071108002815/http://www.starshiplexington.com/index.html">Star Trek Lexington</a></li>
+</ul>
+
+<h3 id="eventosserieswebscabs">Eventos/Series/WebScabs</h3>
+<ul>
+  <li><a href="http://web.archive.org/web/20071109091511/http://www.dragoncon.org/">DragonCon</a> en Atlanta:
+    <ul>
+      <li>Estreno de <a href="http://www.imdb.com/title/tt0389722/">30 days of Night</a> (follow-up episodio #4)</li>
+      <li><a href="http://www.imdb.com/title/tt0825245/">Peli de DragonLance</a></li>
+      <li><a href="https://www.engadget.com/2007/08/28/someones-actually-making-a-joust-movie/">Joust al cine</a>? Whadafrack! Joust es uno de los videojuegos mas aburridos <a href="https://en.wikipedia.org/wiki/Joust_(video_game)">que han existido</a></li>
+      <li>Rumores sobre una <a href="http://www.sliceofscifi.com/2007/09/13/buck-rogers-in-the-21st-century/">peli de Buck Rogers</a></li>
+    </ul>
+  </li>
+  <li>Series geek/sci-fi en los <a href="http://www.emmys.com/content/primetime-emmy-awards-2007">Premios Emmy 2007</a>
+    <ul>
+      <li>Creative Emmys: BSG: <a href="http://web.archive.org/web/20071111041508/http://www.syfyportal.com/news424134.html">mejor escena de fx</a></li>
+      <li>Primetime Awards: The Sopranos, los grandes triunfadores - Terry O’Quinn (Locke) es el mejor secundario. Estaban nominados Bill Shatner (Boston Legal) y Masi Oka (Hiro Nakamura)</li>
+    </ul>
+  </li>
+  <li><a href="http://www.sliceofscifi.com/2007/09/14/bring-back-the-dresden-files-drum-stick-campaign/">¡Salvemos Dresden Files!</a> Manda una baqueta (no te olvides poner a Edding “save Dresden Files”)
+    <blockquote>
+      <p><em>The Sci-Fi Channel</em><br />
+<em>Attn: Bonnie Hammer, President</em><br />
+<em>1230 Avenue of the Americas</em><br />
+<em>New York, NY 10020-1513</em></p>
+    </blockquote>
+  </li>
+  <li>Series de Vampiros: <a href="http://web.archive.org/web/20070920200045/http://www.hollywoodreporter.com/hr/content_display/television/news/e3i0181f5a5ab18b1585b313d1d7524c51a">True Blood</a> (HBO) y <a href="http://www.poptower.com/moonlight-tv-show.htm">Moonlight</a> (CBS)</li>
+  <li><a href="http://tecnologia.elpais.com/tecnologia/2007/09/13/actualidad/1189672081_850215.html">Quarterlife</a>: Nuevo web scab auspiciado por News Corp. - <a href="https://en.wikipedia.org/wiki/Quarterlife">quarterlife.com</a></li>
+</ul>
+
+<h3 id="películas">Películas</h3>
+<ul>
+  <li><a href="http://web.archive.org/web/20071109135647/http://www.culpableyperdedor.com/?p=1202">The $40,000 Man</a> (Zwigoff/Clowes) - un remake deliberadamente <a href="http://boingboing.net/2007/09/17/zwigoff-and-clowes-w.html">“cutre”</a> de 6M dollar-man</li>
+  <li>Remakes inexplicables: <a href="http://web.archive.org/web/20071111041536/http://www.syfyportal.com/news424152.html">TRON y Logan’s Run</a></li>
+  <li><a href="http://www.ign.com/boards/threads/it-is-finally-official-lisberger-and-chobots-soul-code-in-the-works.149908158/">Soul Code</a>: nuevo proyecto de Steven Lisberger</li>
+  <li><a href="http://concdearte.blogspot.com.es/2007/09/francia-ir-los-oscar-con-perspolis.html">Francia presenta Persépolis</a> a los Oscar a la mejor peli extranjera</li>
+  <li><a href="http://gizmodo.com/300928/wes-anderson-directs-a-bunch-of-att-commercials">Wes Anderson dirige anuncios</a> para AT&amp;T</li>
+</ul>
+
+<h3 id="comic-2-movie">Comic-2-Movie</h3>
+<ul>
+  <li><a href="http://archivo.eluniversal.com.mx/notas/431502.html">Hellboy 2, The Golden Army</a>: estreno el 08-08-08</li>
+  <li>El 27 de octubre se estrena <a href="http://archivo.eluniversal.com.mx/notas/431502.html">“Stardust”</a> en España, adaptación del <a href="http://www.bibliopolis.org/resenas/rese0185.htm">cómic de Neil Gaiman</a> - <a href="https://www.youtube.com/watch?v=DbfLk8tfkQQ">trailer</a> en Youtube</li>
+  <li><a href="http://web.archive.org/web/20071011165907/http://www.cinecon.com/news/856/mcg-overseeing-maintenance-comic-book/">Maintenance</a>, un <a href="http://web.archive.org/web/20080115034422/http://www.comicbookresources.com/news/newsitem.cgi?id=9288">cómic de Jim Massey y Robbi Rodriguez</a></li>
+  <li>La Warner Bros. ha dado <a href="http://www.sliceofscifi.com/2007/09/21/justice-league-of-america-moves-forward/">luz verde</a> al rodaje de <a href="https://www.comicbookmovie.com/justice_league/justice-league-goes-big-budget-and-down-under-a3929">JLA</a> para estrenarla en 2009</li>
+</ul>
+
+<h3 id="anime">Anime</h3>
+<ul>
+  <li>Remakes animados de <a href="http://lanuez.blogspot.com.es/2007/09/primer-poster-de-astroboy-y-comando-g.html">“Comando G” y Astroboy</a></li>
+</ul>
+
+<h3 id="cómics">Cómics</h3>
+<ul>
+  <li><a href="http://web.archive.org/web/20071022041530/http://www.comicon.com/baltimore/">Baltimore ComicCon</a>: (no confundir con la BaltiCon de mayo) <a href="http://web.archive.org/web/20071106151522/http://www.harveyawards.org/">Premios Harvey 2007</a>
+    <ul>
+      <li>Mejor guionista: <a href="https://en.wikipedia.org/wiki/Ed_Brubaker">Ed Brubaker</a> (quien también obtuvo el premio Eisner en la misma categoría por “Criminal”)</li>
+      <li>Mejor dibujante: el escocés <a href="https://en.wikipedia.org/wiki/Frank_Quitely">Frank Quitely</a></li>
+      <li>Mejor artista: el californiano <a href="https://en.wikipedia.org/wiki/Jaime_Hernandez">Jaime Hernandez</a> (Love&amp;Rockets: Palomar, Locas - regalo excelente btw para todas las novias de geek del mundo )</li>
+      <li>Mejor número: Civil War #1 (Marvel)</li>
+      <li>Mejor serie: Daredevil (Marvel)</li>
+      <li>Mejor álbum original: <a href="https://en.wikipedia.org/wiki/Pride_of_Baghdad">Pride Of Baghdad</a> (DC/Vertigo)</li>
+    </ul>
+  </li>
+  <li>Mister Wonderful, de Dan Clowes, <a href="http://concdearte.blogspot.com.es/2007/09/mister-wonderful.html">empieza a publicarse en el New York Times</a> - <a href="http://www.nytimes.com/2008/02/16/magazine/funnypagesClowes.html">disponible en PDF</a></li>
+  <li><a href="http://www.entrecomics.com/?p=9536">Pornoclowes</a>: despiden a profe americano tras prestar a una alumna de 13 años un ejemplar de “Eightball”</li>
+</ul>
+
+<h3 id="recomendaciones">Recomendaciones</h3>
+<ul>
+  <li>The Doctor: <a href="http://www.gunnerkrigg.com/">Gunnerkrigg Court</a> (webcomic de Tom Siddell)</li>
+  <li>Mr.Solo: <a href="https://worldswithoutend.com/">worldswithoutend.com</a> (repositorio de ciencia ficción en inglés)</li>
+</ul>
+
+<h2 id="licencia">Licencia</h2>
+<p>El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita <a href="http://es.creativecommons.org/blog/licencias/">http://es.creativecommons.org/blog/licencias/</a></p>
+
+]]></content:encoded>
+    <enclosure url="https://archive.org/download/msf_podcast/05%20Mondo%20Sci-Fi%20%235.mp3" length="27847566" type="audio/mpeg" />
+    <guid isPermaLink="false">https://archive.org/download/msf_podcast/05%20Mondo%20Sci-Fi%20%235.mp3</guid>
+    <itunes:subtitle><![CDATA[Esto es Mondo Sci-Fi #05, grabado el 21 de septiembre de 2007. Hace más de un mes, pero no por ello ha perdido frescura.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[Esto es Mondo Sci-Fi #05, grabado el 21 de septiembre de 2007. Hace más de un mes, pero no por ello ha perdido frescura.
+
+
+
+
+
+Show notes
+
+Reviews de series
+
+  Big Bang Theory (CBS) - Apoyado por campaña viral en YouTube
+  Star Trek New Voyages: World Enough and Time
+  Star Trek Lexington
+
+
+Eventos/Series/WebScabs
+
+  DragonCon en Atlanta:
+    
+      Estreno de 30 days of Night (follow-up episodio #4)
+      Peli de DragonLance
+      Joust al cine? Whadafrack! Joust es uno de los videojuegos mas aburridos que han existido
+      Rumores sobre una peli de Buck Rogers
+    
+  
+  Series geek/sci-fi en los Premios Emmy 2007
+    
+      Creative Emmys: BSG: mejor escena de fx
+      Primetime Awards: The Sopranos, los grandes triunfadores - Terry O’Quinn (Locke) es el mejor secundario. Estaban nominados Bill Shatner (Boston Legal) y Masi Oka (Hiro Nakamura)
+    
+  
+  ¡Salvemos Dresden Files! Manda una baqueta (no te olvides poner a Edding “save Dresden Files”)
+    
+      The Sci-Fi Channel
+Attn: Bonnie Hammer, President
+1230 Avenue of the Americas
+New York, NY 10020-1513
+    
+  
+  Series de Vampiros: True Blood (HBO) y Moonlight (CBS)
+  Quarterlife: Nuevo web scab auspiciado por News Corp. - quarterlife.com
+
+
+Películas
+
+  The $40,000 Man (Zwigoff/Clowes) - un remake deliberadamente “cutre” de 6M dollar-man
+  Remakes inexplicables: TRON y Logan’s Run
+  Soul Code: nuevo proyecto de Steven Lisberger
+  Francia presenta Persépolis a los Oscar a la mejor peli extranjera
+  Wes Anderson dirige anuncios para ATyT
+
+
+Comic-2-Movie
+
+  Hellboy 2, The Golden Army: estreno el 08-08-08
+  El 27 de octubre se estrena “Stardust” en España, adaptación del cómic de Neil Gaiman - trailer en Youtube
+  Maintenance, un cómic de Jim Massey y Robbi Rodriguez
+  La Warner Bros. ha dado luz verde al rodaje de JLA para estrenarla en 2009
+
+
+Anime
+
+  Remakes animados de “Comando G” y Astroboy
+
+
+Cómics
+
+  Baltimore ComicCon: (no confundir con la BaltiCon de mayo) Premios Harvey 2007
+    
+      Mejor guionista: Ed Brubaker (quien también obtuvo el premio Eisner en la misma categoría por “Criminal”)
+      Mejor dibujante: el escocés Frank Quitely
+      Mejor artista: el californiano Jaime Hernandez (LoveyRockets: Palomar, Locas - regalo excelente btw para todas las novias de geek del mundo )
+      Mejor número: Civil War #1 (Marvel)
+      Mejor serie: Daredevil (Marvel)
+      Mejor álbum original: Pride Of Baghdad (DC/Vertigo)
+    
+  
+  Mister Wonderful, de Dan Clowes, empieza a publicarse en el New York Times - disponible en PDF
+  Pornoclowes: despiden a profe americano tras prestar a una alumna de 13 años un ejemplar de “Eightball”
+
+
+Recomendaciones
+
+  The Doctor: Gunnerkrigg Court (webcomic de Tom Siddell)
+  Mr.Solo: worldswithoutend.com (repositorio de ciencia ficción en inglés)
+
+
+
+
+
+]]></itunes:summary>
+    <itunes:author>La tripulación de El Geek Errante</itunes:author>
+    <itunes:image href="http://elgeekerrante.com/images/msf_logo.jpg" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>00:38:34</itunes:duration>
+  </item>
+
+  <item>
+    <title>EGE 4: Mondo Sci-Fi #4</title>
+    <link>http://elgeekerrante.com/msf-podcast-ep04</link>
+    <comments>http://elgeekerrante.com/msf-podcast-ep04#comments</comments>
+    <pubDate>Tue, 11 Sep 2007 18:33:56 +0200</pubDate>
+    <dc:creator><![CDATA[La tripulación de El Geek Errante]]></dc:creator>
+    <description><![CDATA[Bienvenidos a Mondo Sci-Fi #04, grabado el 2 de Septiembre de 2007.]]></description>
+    <content:encoded><![CDATA[<p>Bienvenidos a Mondo Sci-Fi #04, grabado el 2 de Septiembre de 2007.</p>
+
+<ul>
+  <li><a href="https://archive.org/download/msf_podcast/04%20Mondo%20Sci-Fi%20%234.mp3">Descarga del audio desde SoundCloud (mp3, 26.6MB)</a></li>
+</ul>
+
+<h2 id="show-notes">Show notes</h2>
+
+<h3 id="reviews-de-series">Reviews de series</h3>
+<ul>
+  <li>Flash Gordon <a href="https://en.wikipedia.org/wiki/Flash_Gordon_(2007_TV_series)">link</a></li>
+  <li>Fallen <a href="http://www.imdb.com/title/tt0838800/">link</a></li>
+  <li>IT Crowd <a href="https://en.wikipedia.org/wiki/The_IT_Crowd">link</a></li>
+</ul>
+
+<h3 id="convenciones-y-premios">Convenciones y premios</h3>
+<ul>
+  <li>DragonCon en Atlanta <a href="http://web.archive.org/web/20071109091511/http://www.dragoncon.org/">link</a>
+    <ul>
+      <li>Parsec Awards <a href="http://web.archive.org/web/20071118154210/http://www.parsecawards.com/">link</a></li>
+    </ul>
+  </li>
+  <li>WorldCon 2007 <a href="http://www.nippon2007.org/">link</a>
+    <ul>
+      <li>Hugo Awards <a href="http://www.thehugoawards.org/hugo-history/2007-hugo-awards/">link</a></li>
+      <li>Blog de la Asociación Venezolana de Ciencia Ficción y Fantasía <a href="http://www.avcff.org/blog">link</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="noticias">Noticias</h3>
+<ul>
+  <li>El récord de Daleks se ha roto <a href="http://web.archive.org/web/20071111172414/http://www.gallifreyone.com/cgi-bin/viewnews.cgi?id=EEllFyuEVVuBWXctor&amp;tmpl=newsrss&amp;style=feedstyle">link</a>
+    <ul>
+      <li>Fotos en <a href="https://www.flickr.com/photos/tonyheugh/sets/72157601674255436/">Flickr</a> y <del><a href="">Make</a></del></li>
+    </ul>
+  </li>
+  <li>Rosario Dawson: Occult Crimes Taskforce <a href="http://www.sliceofscifi.com/2007/08/16/dawson-animated/">link</a> <a href="https://en.wikipedia.org/wiki/Occult_Crimes_Taskforce">link</a></li>
+  <li>Anunciada la fecha de salida del DVD de BSG: Razor <a href="http://www.sliceofscifi.com/2007/08/27/battlestar-galactica-razor-unrated-extended-edition/">link</a></li>
+  <li>El creador de Family Guy y American Dad cierra un acuerdo con Google <a href="http://lanuez.blogspot.com.es/2007/08/creador-de-family-guy-cierra-acuerdo.html">link</a></li>
+</ul>
+
+<h3 id="webscabs">WebScabs:</h3>
+<ul>
+  <li>Star Trek New Voyages: World Enough and Time suspendidas las descargas por exceso de popularidad <a href="https://en.wikipedia.org/wiki/Star_Trek:_New_Voyages">link</a> <a href="http://www.sliceofscifi.com/2007/08/24/couldnt-get-enough-of-world-enough-and-time/">link</a></li>
+</ul>
+
+<h3 id="películas">Películas:</h3>
+<ul>
+  <li>La siguiente película de Zach Snyder: El Hombre Ilustrado <a href="http://www.sliceofscifi.com/2007/08/29/snyder-ready-to-be-illustrated/">link</a> <a href="http://concdearte.blogspot.com.es/2007/08/watchmen-casting-comparado.html">link</a></li>
+  <li>Anunciado el reparto de Lost Boys 2: The Tribe <a href="http://web.archive.org/web/20071102230143/http://www.scifi.com/scifiwire/index.php?category=3&amp;id=43694">link</a></li>
+  <li>Remake de The Day the Earth Stood Still (Ultimátum a la Tierra) <a href="http://web.archive.org/web/20071018204608/http://www.scifi.com/scifiwire/index.php?category=3&amp;id=43630">link</a></li>
+  <li>Remake de Fantastic Voyage (Viaje Alucinante) <a href="http://www.sliceofscifi.com/2007/08/16/emmerich-takes-us-on-a-fantastic-voyage/">link</a></li>
+  <li>Entrevista a Zachary Quinto sobre ST XI <a href="http://www.sliceofscifi.com/2007/08/29/quinto-hints-of-more/">link</a></li>
+  <li>¿Filtrado el argunento de ST XI? <a href="http://web.archive.org/web/20071022081217/http://www.syfyportal.com/news424103.html">link</a></li>
+  <li>El sable de luz de Luke Skywalker, al espacio <a href="https://starwarsblog.wordpress.com/2007/08/28/chewie-hands-off-lightsaber-to-nasa/">link</a></li>
+  <li>Acabado el guión de X-Files <a href="http://www.sliceofscifi.com/2007/08/28/x-files-script-in-hand/">link</a></li>
+</ul>
+
+<h3 id="comic2movie">Comic2Movie:</h3>
+<ul>
+  <li>Speed Racer (Meteoro Mach 5) a la pantalla grande <a href="http://www.sliceofscifi.com/2007/08/27/racer-goes-for-mass-appeal-g-force/">link</a></li>
+  <li>Scarlet: chica SPIRIT <a href="http://www.sliceofscifi.com/2007/08/17/scarlett-gets-the-spirit/">link</a> <a href="http://concdearte.blogspot.com.es/2007/08/sand-saref.html">link</a></li>
+  <li>David Goyer prepara las películas de Magneto y Flecha Verde <a href="https://salondelmal.com/2007/08/30/david-goyer-habla-sobre-magneto-y-la-pelicula-de-green-arrow/">link</a> <a href="https://en.wikipedia.org/wiki/David_S._Goyer">link</a></li>
+  <li><a href="http://www.darkhorse.com/">Dark Horse</a> se sube al carro de Hollywood <a href="http://www.sliceofscifi.com/2007/08/27/a-dark-horse-comedy/">link</a></li>
+  <li>Reflexión: ¿Adaptaciones de cómics europeos dirigidas por europeos? <a href="http://news.bbc.co.uk/2/hi/entertainment/6656635.stm">link</a> <a href="http://www.filmreference.com/encyclopedia/Academy-Awards-Crime-Films/Comics-and-Comic-Books-COMIC-BOOK-FILMS-IN-EUROPE-AND-ASIA.html">link</a> <a href="http://web.archive.org/web/20071122062343/http://european-films.net/content/view/799/118/">link</a></li>
+</ul>
+
+<h3 id="comics">Comics</h3>
+<ul>
+  <li>Webcomic: Last Blood <a href="http://lastblood.keenspot.com/">link</a></li>
+  <li>90 años de Jack Kirby <a href="http://concdearte.blogspot.com.es/2007/08/90-aos-de-kirby.html">link</a></li>
+</ul>
+
+<h3 id="recomendaciones">Recomendaciones:</h3>
+<ul>
+  <li>Civil War <a href="https://www.amazon.com/gp/richpub/listmania/fullview/R2P7K8Y6O1T2VL/ref=cm_srch_res_rpli_alt/104-6576999-1679136">link</a></li>
+</ul>
+
+<h2 id="licencia">Licencia</h2>
+<p>El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita <a href="http://es.creativecommons.org/blog/licencias/">http://es.creativecommons.org/blog/licencias/</a></p>
+
+]]></content:encoded>
+    <enclosure url="https://archive.org/download/msf_podcast/04%20Mondo%20Sci-Fi%20%234.mp3" length="27847566" type="audio/mpeg" />
+    <guid isPermaLink="false">https://archive.org/download/msf_podcast/04%20Mondo%20Sci-Fi%20%234.mp3</guid>
+    <itunes:subtitle><![CDATA[Bienvenidos a Mondo Sci-Fi #04, grabado el 2 de Septiembre de 2007.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[Bienvenidos a Mondo Sci-Fi #04, grabado el 2 de Septiembre de 2007.
+
+
+
+
+
+Show notes
+
+Reviews de series
+
+  Flash Gordon
+  Fallen
+  IT Crowd
+
+
+Convenciones y premios
+
+  DragonCon en Atlanta
+    
+      Parsec Awards
+    
+  
+  WorldCon 2007
+    
+      Hugo Awards
+      Blog de la Asociación Venezolana de Ciencia Ficción y Fantasía
+    
+  
+
+
+Noticias
+
+  El récord de Daleks se ha roto
+    
+      Fotos en Flickr y Make
+    
+  
+  Rosario Dawson: Occult Crimes Taskforce
+  Anunciada la fecha de salida del DVD de BSG: Razor
+  El creador de Family Guy y American Dad cierra un acuerdo con Google
+
+
+WebScabs:
+
+  Star Trek New Voyages: World Enough and Time suspendidas las descargas por exceso de popularidad
+
+
+Películas:
+
+  La siguiente película de Zach Snyder: El Hombre Ilustrado
+  Anunciado el reparto de Lost Boys 2: The Tribe
+  Remake de The Day the Earth Stood Still (Ultimátum a la Tierra)
+  Remake de Fantastic Voyage (Viaje Alucinante)
+  Entrevista a Zachary Quinto sobre ST XI
+  ¿Filtrado el argunento de ST XI?
+  El sable de luz de Luke Skywalker, al espacio
+  Acabado el guión de X-Files
+
+
+Comic2Movie:
+
+  Speed Racer (Meteoro Mach 5) a la pantalla grande
+  Scarlet: chica SPIRIT
+  David Goyer prepara las películas de Magneto y Flecha Verde
+  Dark Horse se sube al carro de Hollywood
+  Reflexión: ¿Adaptaciones de cómics europeos dirigidas por europeos?
+
+
+Comics
+
+  Webcomic: Last Blood
+  90 años de Jack Kirby
+
+
+Recomendaciones:
+
+  Civil War
+
+
+
+
+
+]]></itunes:summary>
+    <itunes:author>La tripulación de El Geek Errante</itunes:author>
+    <itunes:image href="http://elgeekerrante.com/images/msf_logo.jpg" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>00:38:34</itunes:duration>
+  </item>
+
+  <item>
+    <title>EGE 3: Mondo Sci-Fi #3</title>
+    <link>http://elgeekerrante.com/msf-podcast-ep03</link>
+    <comments>http://elgeekerrante.com/msf-podcast-ep03#comments</comments>
+    <pubDate>Mon, 27 Aug 2007 20:55:38 +0200</pubDate>
+    <dc:creator><![CDATA[La tripulación de El Geek Errante]]></dc:creator>
+    <description><![CDATA[Éste es el tercer episodio de Mondo Sci-Fi, grabado el jueves 16 de agosto de 2007.]]></description>
+    <content:encoded><![CDATA[<p>Éste es el tercer episodio de Mondo Sci-Fi, grabado el jueves 16 de agosto de 2007.</p>
+
+<ul>
+  <li><a href="https://archive.org/download/msf_podcast/03%20Mondo%20Sci-Fi%20%233.mp3">Descarga del audio desde SoundCloud (mp3, 25.7MB)</a></li>
+</ul>
+
+<h2 id="show-notes">Show notes</h2>
+
+<h3 id="reviews-de-series">Reviews de series</h3>
+<ul>
+  <li>Jekyll (BBC), de Stephen Moffatt (prod y guionista) - (<a href="https://en.wikipedia.org/wiki/Jekyll_%28TV_series%29">link</a>)</li>
+  <li>Flash Gordon (SciFi Channel) - (<a href="https://en.wikipedia.org/wiki/Flash_Gordon_(2007_TV_series)">link</a>)</li>
+  <li>Masters of Science Fiction (actualmente en ABC) - (<a href="https://en.wikipedia.org/wiki/Masters_of_Science_Fiction">link</a>)</li>
+</ul>
+
+<h3 id="noticias-de-series">Noticias de Series</h3>
+<ul>
+  <li>Confirmado: No más Dresden Files - (<a href="http://web.archive.org/web/20071111122322/http://www.jim-butcher.com/news/000209.php">link</a>)</li>
+  <li>Joss Whedon habla sobre el DVD de Serenity Collector’s Edition - (<a href="http://www.sliceofscifi.com/2007/08/07/joss-leaves-door-open-a-crack-for-serenity-ii/">link</a>)</li>
+  <li>Vuelve Babylon 5 - (<a href="http://www.sliceofscifi.com/2007/08/02/hicks-picks-18/">link</a>)</li>
+  <li>Stargate Atlantis: comienza la 4º temporada en USA - (<a href="https://en.wikipedia.org/wiki/Stargate_Atlantis_(season_4)">link</a>)</li>
+  <li>Series de Otoño, lineup de Sci-Fi Fridays - (<a href="http://web.archive.org/web/20071105070034/http://www.scifi.com/scifiwire/index.php?category=2&amp;id=43313">link</a>)</li>
+  <li>Noticias sobre BSG:Razor - (<a href="http://www.tvshowsondvd.com/news/Battlestar-Galactica/7778">link</a>)</li>
+  <li>BSG: Noticias de la Comic-Con - (<a href="http://www.sliceofscifi.com/2007/07/31/hicks-comic-con-brief/">link1</a>)</li>
+  <li>Más sobre Heroes - (<a href="http://www.sliceofscifi.com/2007/08/06/hicks-picks-19/">link</a>)</li>
+  <li>Heroes del crossover - (<a href="http://www.sliceofscifi.com/2007/08/12/star-trek-heroes/">link</a>)</li>
+</ul>
+
+<h3 id="películas">Películas</h3>
+<ul>
+  <li>La filmación de Star Trek XI comienza el 5 de Noviembre - (<a href="http://www.sliceofscifi.com/2007/08/09/slice-of-scifi-news-briefs-7/">link</a>)</li>
+  <li>Evento trekker en Las Vegas: Nimoy y Bill Shatner, juntos - (<a href="http://www.trektoday.com/news/150807_01.shtml">link</a>)</li>
+  <li>Nueva misión a Marte: Phoenix - (<a href="http://web.archive.org/web/20071108234018/http://www.nasa.gov/mission_pages/phoenix/main/index.html">link</a>)</li>
+  <li>Ridley Scott: “Deckard en Blade Runner es realmente un replicante” - (<a href="http://news.bbc.co.uk/2/hi/entertainment/825641.stm">link</a>, <a href="https://www.youtube.com/watch?v=_7o0rvVxU0w">link2</a>)</li>
+  <li>Más información sobre el proyecto secreto de JJ Abrams: Cloverfield - (<a href="http://www.sliceofscifi.com/2007/08/01/welcome-tocode-name-cloverfield/">link</a>)</li>
+  <li>Len Wiseman dirigirá un remake de Escape de Nueva York - (<a href="https://www.theguardian.com/film/2007/aug/15/3">link</a>)</li>
+</ul>
+
+<h3 id="comic-to-movie">Comic to Movie</h3>
+<ul>
+  <li>30 Days of Night - (<a href="http://www.comingsoon.net/horror/news/707309-excl-josh-hartnett-on-30-days-of-night">link</a>)</li>
+  <li>Millennium films ha comprado todos los derechos de Conan - (<a href="http://www.sliceofscifi.com/2007/08/13/conan-is-back/">link</a>)</li>
+  <li>Marvel prepara la película de Thor - (<a href="http://www.sliceofscifi.com/2007/08/09/slice-of-scifi-news-briefs-7/">link</a>)</li>
+  <li>Nueva serie animada de Batman - (<a href="http://www.sliceofscifi.com/2007/08/06/hicks-picks-19/">link</a>)</li>
+</ul>
+
+<h3 id="comics">Comics</h3>
+<ul>
+  <li>Malas noticias: adios a la colección “Mazinger Z” de RBA - (<a href="http://www.lacarceldepapel.com/2007/08/05/malas-noticias-adios-a-mazinger-z/">link</a>)</li>
+  <li>Viñetas desde O Atlántico: rant sobre la penosa cobertura LIVE en la blogosfera hispana</li>
+  <li>VDA: Tim Sale y Yoshihiro Tatsumi - (<a href="http://www.entrecomics.com/?p=8299">link</a>)</li>
+</ul>
+
+<h3 id="recomendaciones">Recomendaciones</h3>
+<ul>
+  <li>The Doctor: “Manifold: Time” de Stephen Baxter (1999) - (<a href="http://web.archive.org/web/20080408054356/http://www.space.com/sciencefiction/books/manifold_time_000125.html">link</a>)</li>
+  <li>futur3: “El sueño del rey rojo” de Rodolfo Martinez - (<a href="http://web.archive.org/web/20071030041953/http://www.soygeek.com/index.php/2007/08/21/el-sueno-del-rey-rojo/">link</a>)</li>
+  <li>Mr.Solo: manga de terror japonés: Suehiro Maruo y Hideshi Hino - (<a href="https://en.wikipedia.org/wiki/Suehiro_Maruo">link1</a>, <a href="https://en.wikipedia.org/wiki/Hideshi_Hino">link2</a>)</li>
+</ul>
+
+<h2 id="licencia">Licencia</h2>
+<p>El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita <a href="http://es.creativecommons.org/blog/licencias/">http://es.creativecommons.org/blog/licencias/</a></p>
+
+]]></content:encoded>
+    <enclosure url="https://archive.org/download/msf_podcast/03%20Mondo%20Sci-Fi%20%233.mp3" length="26928289" type="audio/mpeg" />
+    <guid isPermaLink="false">https://archive.org/download/msf_podcast/03%20Mondo%20Sci-Fi%20%233.mp3</guid>
+    <itunes:subtitle><![CDATA[Éste es el tercer episodio de Mondo Sci-Fi, grabado el jueves 16 de agosto de 2007.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[Éste es el tercer episodio de Mondo Sci-Fi, grabado el jueves 16 de agosto de 2007.
+
+
+
+
+
+Show notes
+
+Reviews de series
+
+  Jekyll (BBC), de Stephen Moffatt (prod y guionista)
+  Flash Gordon (SciFi Channel)
+  Masters of Science Fiction (actualmente en ABC)
+
+
+Noticias de Series
+
+  Confirmado: No más Dresden Files
+  Joss Whedon habla sobre el DVD de Serenity Collector’s Edition
+  Vuelve Babylon 5
+  Stargate Atlantis: comienza la 4º temporada en USA
+  Series de Otoño, lineup de Sci-Fi Fridays
+  Noticias sobre BSG:Razor
+  BSG: Noticias de la Comic-Con
+  Más sobre Heroes
+  Heroes del crossover
+
+
+Películas
+
+  La filmación de Star Trek XI comienza el 5 de Noviembre
+  Evento trekker en Las Vegas: Nimoy y Bill Shatner, juntos
+  Nueva misión a Marte: Phoenix
+  Ridley Scott: “Deckard en Blade Runner es realmente un replicante”
+  Más información sobre el proyecto secreto de JJ Abrams: Cloverfield
+  Len Wiseman dirigirá un remake de Escape de Nueva York
+
+
+Comic to Movie
+
+  30 Days of Night
+  Millennium films ha comprado todos los derechos de Conan
+  Marvel prepara la película de Thor
+  Nueva serie animada de Batman
+
+
+Comics
+
+  Malas noticias: adios a la colección “Mazinger Z” de RBA
+  Viñetas desde O Atlántico: rant sobre la penosa cobertura LIVE en la blogosfera hispana
+  VDA: Tim Sale y Yoshihiro Tatsumi
+
+
+Recomendaciones
+
+  The Doctor: “Manifold: Time” de Stephen Baxter (1999)
+  futur3: “El sueño del rey rojo” de Rodolfo Martinez
+  Mr.Solo: manga de terror japonés: Suehiro Maruo y Hideshi Hino
+
+
+
+
+
+]]></itunes:summary>
+    <itunes:author>La tripulación de El Geek Errante</itunes:author>
+    <itunes:image href="http://elgeekerrante.com/images/msf_logo.jpg" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>00:37:06</itunes:duration>
+  </item>
+
+  <item>
+    <title>EGE 2: Mondo Sci-Fi #2</title>
+    <link>http://elgeekerrante.com/msf-podcast-ep02</link>
+    <comments>http://elgeekerrante.com/msf-podcast-ep02#comments</comments>
+    <pubDate>Wed, 15 Aug 2007 01:44:38 +0200</pubDate>
+    <dc:creator><![CDATA[La tripulación de El Geek Errante]]></dc:creator>
+    <description><![CDATA[¡Bienvenidos a esta segunda transmisión de “Mondo Sci-Fi”, grabada el jueves 2 de agosto de 2007! Como sabréis, del 26 al 28 de Julio se ha celebrado en San Diego, EEUU la Comic-Con, por lo que los anuncios de dicha conferencia impregnarán esta edición de nuestro podcast diletante de Ciencia-Ficción....]]></description>
+    <content:encoded><![CDATA[<p>¡Bienvenidos a esta segunda transmisión de “Mondo Sci-Fi”, grabada el jueves 2 de agosto de 2007!<br />
+Como sabréis, del 26 al 28 de Julio se ha celebrado en San Diego, EEUU la Comic-Con, por lo que los anuncios de dicha conferencia impregnarán esta edición de nuestro podcast diletante de Ciencia-Ficción.</p>
+
+<ul>
+  <li><a href="https://archive.org/download/msf_podcast/02%20Mondo%20Sci-Fi%20%232.mp3">Descarga del audio desde SoundCloud (mp3, 17.0MB)</a></li>
+</ul>
+
+<h2 id="show-notes">Show notes</h2>
+
+<h3 id="series">Series</h3>
+<ul>
+  <li>Varias noticias sobre Heroes - <a href="http://web.archive.org/web/20071205112305/http://weblogs.variety.com/thompsononhollywood/2007/07/comic-con-heroe.html">link</a> <del><a href="">link</a></del> <del><a href="">link</a></del> <del><a href="">link</a></del></li>
+  <li>La película de Futurama disponible el 27 de Noviembre - <a href="http://web.archive.org/web/20071019043533/http://www.tvsquad.com/2007/07/28/comic-con-futurama-panel-report/">link</a></li>
+  <li>El lineup de ABC: Cavemen <a href="https://en.wikipedia.org/wiki/Cavemen_(TV_series)">link</a>, Pushing Daisies <a href="http://www.sliceofscifi.com/2007/07/25/facts-and-rumors-from-hollywood/">link</a></li>
+</ul>
+
+<h3 id="reviews">Reviews</h3>
+<ul>
+  <li>Chuck - <a href="https://en.wikipedia.org/wiki/Chuck_(TV_series)">link</a></li>
+  <li>Bionic Woman - <a href="https://en.wikipedia.org/wiki/Bionic_Woman_(2007_TV_series)">link</a></li>
+  <li>Pushing Daisies - <a href="https://en.wikipedia.org/wiki/Pushing_Daisies">link</a></li>
+  <li>Reaper - <a href="https://en.wikipedia.org/wiki/Reaper_(TV_series)">link</a></li>
+  <li>Sarah Connor Chronicles - <a href="https://en.wikipedia.org/wiki/Terminator:_The_Sarah_Connor_Chronicles">link</a></li>
+  <li>Eureka Temporada 2 - <a href="https://en.wikipedia.org/wiki/List_of_Eureka_episodes#Season_2_.282007.29">link</a></li>
+</ul>
+
+<h3 id="películas">Películas</h3>
+<ul>
+  <li>Confirmado: Sylar será SPOCK - <a href="http://www.sliceofscifi.com/2007/07/27/abrams-has-his-spock/">link</a></li>
+  <li>Nuevo remake de La Amenaza de Andrómeda de Michael Crichton - <a href="http://www.sliceofscifi.com/2007/07/26/michael-crichtons-andromeda-strain-comes-to-ae/">link</a></li>
+  <li>Finalizada la selección del elenco de la película de Watchmen -<a href="https://www.comicbookmovie.com/watchmen/the-watchmen-assemble-a3781">link</a></li>
+  <li>Zack Snyder utilizará las mismas técnicas que utilizó en 300 para filmar Watchmen - <a href="https://www.comicbookmovie.com/watchmen/watchmen-filmed-in-300-style-a3800">link</a></li>
+  <li>Frank Miller se prepara para dirigir “The Spirit” - <a href="https://www.comicbookmovie.com/the_spirit/miller-preps-the-spirit-a3782">link</a></li>
+</ul>
+
+<h3 id="comics">Comics</h3>
+<ul>
+  <li>DC Comics publicará en EEUU los comics de Heroes en cadáver de árbol - <a href="https://en.wikipedia.org/wiki/List_of_Heroes_graphic_novels">link</a></li>
+  <li>Alan Moore aparecerá en el mejor episodio de los Simpsons de la historia - <a href="http://web.archive.org/web/20071012031104/http://popwatch.ew.com/popwatch/2007/07/simpsons-comic-.html">link</a></li>
+  <li>Ganadores de los premios Eisner 2007 (resúmen) - <a href="http://www.lacarceldepapel.com/2007/07/28/and-the-winners-are/">link</a> <a href="http://web.archive.org/web/20071014004836/http://www.comic-con.org/cci/cci_eisners_main.shtml">link</a></li>
+  <li>Recomendaciones: Torso de Brian M Bendis (no sólo de Brubaker vive el Hombre) - <a href="https://en.wikipedia.org/wiki/Torso_(Image_Comics)">link</a></li>
+  <li>WebComics: Sam and Max - <a href="http://web.archive.org/web/20071028133323/http://www.telltalegames.com/community/comics/samandmax/">link</a></li>
+</ul>
+
+<h3 id="spoilers">Spoilers</h3>
+<ul>
+  <li>Algunas cosas sobre la Temporada 2 de Heroes - <a href="http://www.sliceofscifi.com/2007/07/31/kaito-has-hero-powers/">link</a> <a href="http://web.archive.org/web/20071103005235/http://www.heroes-spain.com/spoilers/spoilers.php">link</a></li>
+</ul>
+
+<h2 id="licencia">Licencia</h2>
+<p>El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita <a href="http://es.creativecommons.org/blog/licencias/">http://es.creativecommons.org/blog/licencias/</a></p>
+
+]]></content:encoded>
+    <enclosure url="https://archive.org/download/msf_podcast/02%20Mondo%20Sci-Fi%20%232.mp3" length="17830631" type="audio/mpeg" />
+    <guid isPermaLink="false">https://archive.org/download/msf_podcast/02%20Mondo%20Sci-Fi%20%232.mp3</guid>
+    <itunes:subtitle><![CDATA[¡Bienvenidos a esta segunda transmisión de “Mondo Sci-Fi”, grabada el jueves 2 de agosto de 2007!
+Como sabréis, del 26 al 28 de Julio se ha celebrado en San Diego, EEUU la Comic-Con, por lo que los anuncios de dicha conferencia impregnarán esta edición...]]></itunes:subtitle>
+    <itunes:summary><![CDATA[¡Bienvenidos a esta segunda transmisión de “Mondo Sci-Fi”, grabada el jueves 2 de agosto de 2007!
+Como sabréis, del 26 al 28 de Julio se ha celebrado en San Diego, EEUU la Comic-Con, por lo que los anuncios de dicha conferencia impregnarán esta edición de nuestro podcast diletante de Ciencia-Ficción.
+
+
+
+
+
+Show notes
+
+Series
+
+  Varias noticias sobre Heroes
+  La película de Futurama disponible el 27 de Noviembre
+  El lineup de ABC: Cavemen Pushing Daisies
+
+
+Reviews
+
+  Chuck
+  Bionic Woman
+  Pushing Daisies
+  Reaper
+  Sarah Connor Chronicles
+  Eureka Temporada 2
+
+
+Películas
+
+  Confirmado: Sylar será SPOCK
+  Nuevo remake de La Amenaza de Andrómeda de Michael Crichton
+  Finalizada la selección del elenco de la película de Watchmen -link
+  Zack Snyder utilizará las mismas técnicas que utilizó en 300 para filmar Watchmen
+  Frank Miller se prepara para dirigir “The Spirit”
+
+
+Comics
+
+  DC Comics publicará en EEUU los comics de Heroes en cadáver de árbol
+  Alan Moore aparecerá en el mejor episodio de los Simpsons de la historia
+  Ganadores de los premios Eisner 2007 (resúmen)
+  Recomendaciones: Torso de Brian M Bendis (no sólo de Brubaker vive el Hombre)
+  WebComics: Sam and Max
+
+
+Spoilers
+
+  Algunas cosas sobre la Temporada 2 de Heroes
+
+
+
+
+
+]]></itunes:summary>
+    <itunes:author>La tripulación de El Geek Errante</itunes:author>
+    <itunes:image href="http://elgeekerrante.com/images/msf_logo.jpg" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>00:31:00</itunes:duration>
+  </item>
+
+  <item>
+    <title>EGE 1: Mondo Sci-Fi #1</title>
+    <link>http://elgeekerrante.com/msf-podcast-ep01</link>
+    <comments>http://elgeekerrante.com/msf-podcast-ep01#comments</comments>
+    <pubDate>Mon, 30 Jul 2007 18:34:36 +0200</pubDate>
+    <dc:creator><![CDATA[La tripulación de El Geek Errante]]></dc:creator>
+    <description><![CDATA[Bienvenidos a Mondo Sci-Fi, el spin-off de El Geek Errante. En esta primera edición del 21 de Julio de 2007, queremos dar la importancia que merece a uno de nuestros temas favoritos: todo lo que tenga que ver con el mundo de la Ciencia Ficción, así que acomódense en sus...]]></description>
+    <content:encoded><![CDATA[<p>Bienvenidos a Mondo Sci-Fi, el spin-off de El Geek Errante. En esta primera edición del 21 de Julio de 2007, queremos dar la importancia que merece a uno de nuestros temas favoritos: todo lo que tenga que ver con el mundo de la Ciencia Ficción, así que acomódense en sus butacas. La holosala se activará en breves momentos.</p>
+
+<ul>
+  <li><a href="https://archive.org/download/msf_podcast/01%20Mondo%20Sci-Fi%20%231.mp3">Descarga del audio desde SoundCloud (mp3, 17.0MB)</a></li>
+</ul>
+
+<h2 id="show-notes">Show notes</h2>
+
+<h3 id="series">Series</h3>
+<ul>
+  <li>Farscape vuelve como serie Web - <a href="http://www.sliceofscifi.com/2007/07/16/all-new-farscape-returns/">link</a></li>
+  <li>BSG: Habrá 8 semanas de mini-episodios de 2-3 min antes de Razor - <a href="http://www.sliceofscifi.com/2007/07/16/sci-fi-development-slate-unveiled/">link</a></li>
+  <li>Nuevas miniseries de SciFi Channel para la temporada de Otoño - <a href="http://www.sliceofscifi.com/2007/07/13/sci-fi-rolling-out-the-mini-series/">link</a></li>
+  <li>“Chuck”: Johnny Mnemonic meets Jake 2.0 (NBC) - <a href="http://www.sliceofscifi.com/2007/07/09/first-preview-of-chuck/">link</a></li>
+  <li>The IT Crowd US - <a href="http://web.archive.org/web/20071015153120/http://en.wikipedia.org/wiki/The_IT_Crowd_(US_TV_series)">link</a></li>
+  <li>Para otoño en NBC: Chuck, Heroes y Journeyman los Lunes de 8 a 11</li>
+  <li>PM. La Mujer Biónica los miércoles de 9-10 PM - <a href="https://en.wikipedia.org/wiki/Bionic_Woman_%282007_TV_series%29">link</a></li>
+  <li>Confirmado: Katee Sackhoff (Starbuck) será la mujer biónica</li>
+  <li>“mala”, un personaje recurrente - <a href="http://www.sliceofscifi.com/2007/07/18/katie-recurring-on-bionic-woman/">link</a></li>
+  <li>“Red Dwarf” (Enano Rojo): la serie de TV de SciFi favorita de todos los tiempos en UK (descontando Dr. Who) - <a href="http://www.sliceofscifi.com/2007/07/18/radio-times-readers-choose-red-dwarf/">link</a></li>
+  <li>Serie Recomendada: Blood Ties: Vampiros, demonios y detectives - <a href="https://en.wikipedia.org/wiki/Blood_Ties_%28TV_series%29">link</a></li>
+</ul>
+
+<h3 id="webscabs">WebScabs</h3>
+<ul>
+  <li>Star Trek: New Voyages: Estreno de “World Enough and Time” (T4E04) de la T4 con George Takei - <a href="https://en.wikipedia.org/wiki/Star_Trek:_New_Voyages">link</a></li>
+  <li>Games Workshop prohibe las “fan films” de Warhammer - <a href="https://games.slashdot.org/story/07/07/11/1536240/games-workshop-forbids-warhammer-fan-films">link</a></li>
+</ul>
+
+<h3 id="películas">Películas</h3>
+<ul>
+  <li>Finalizado el guión de la segunda película de X-Files - <a href="http://www.sliceofscifi.com/2007/07/16/x-files-second-movie-script-is-completed/">link</a></li>
+  <li>Nuevo Montaje del Director de Star Trek: The Motion Picture - <a href="http://www.sliceofscifi.com/2007/07/18/hicks-picks-15/">link</a></li>
+  <li>Kevin Smith habla de sus nuevos proyectos - <a href="http://www.sliceofscifi.com/2007/07/19/kevin-smith-talks-new-projects/">link</a></li>
+</ul>
+
+<h3 id="comics">Comics</h3>
+<ul>
+  <li>Civil War - <a href="http://www.zonanegativa.com/desvelamos-el-formato-de-civil-war-en-espana-con-sorpresa-incluida/">link</a> - <a href="http://marvel.com/universe/Civil_War">link</a></li>
+  <li>WebComics: <a href="http://www.vexxarr.com/">Vexxarr</a>, <a href="http://www.tinysepuku.com/comics.html">Tiny Sepuku</a></li>
+</ul>
+
+<h3 id="spoilers">Spoilers</h3>
+<ul>
+  <li>Eureka T2</li>
+  <li>Kyle XY</li>
+</ul>
+
+<h2 id="licencia">Licencia</h2>
+<p>El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita <a href="http://es.creativecommons.org/blog/licencias/">http://es.creativecommons.org/blog/licencias/</a></p>
+
+]]></content:encoded>
+    <enclosure url="https://archive.org/download/msf_podcast/01%20Mondo%20Sci-Fi%20%231.mp3" length="17830631" type="audio/mpeg" />
+    <guid isPermaLink="false">https://archive.org/download/msf_podcast/01%20Mondo%20Sci-Fi%20%231.mp3</guid>
+    <itunes:subtitle><![CDATA[Bienvenidos a Mondo Sci-Fi, el spin-off de El Geek Errante. En esta primera edición del 21 de Julio de 2007, queremos dar la importancia que merece a uno de nuestros temas favoritos: todo lo que tenga que ver con el mundo de la Ciencia Ficción, así que...]]></itunes:subtitle>
+    <itunes:summary><![CDATA[Bienvenidos a Mondo Sci-Fi, el spin-off de El Geek Errante. En esta primera edición del 21 de Julio de 2007, queremos dar la importancia que merece a uno de nuestros temas favoritos: todo lo que tenga que ver con el mundo de la Ciencia Ficción, así que acomódense en sus butacas. La holosala se activará en breves momentos.
+
+
+
+
+
+Show notes
+
+Series
+
+  Farscape vuelve como serie Web
+  BSG: Habrá 8 semanas de mini-episodios de 2-3 min antes de Razor
+  Nuevas miniseries de SciFi Channel para la temporada de Otoño
+  “Chuck”: Johnny Mnemonic meets Jake 2.0 (NBC)
+  The IT Crowd US
+  Para otoño en NBC: Chuck, Heroes y Journeyman los Lunes de 8 a 11
+  PM. La Mujer Biónica los miércoles de 9-10 PM
+  Confirmado: Katee Sackhoff (Starbuck) será la mujer biónica
+  “mala”, un personaje recurrente
+  “Red Dwarf” (Enano Rojo): la serie de TV de SciFi favorita de todos los tiempos en UK (descontando Dr. Who)
+  Serie Recomendada: Blood Ties: Vampiros, demonios y detectives
+
+
+WebScabs
+
+  Star Trek: New Voyages: Estreno de “World Enough and Time” (T4E04) de la T4 con George Takei
+  Games Workshop prohibe las “fan films” de Warhammer
+
+
+Películas
+
+  Finalizado el guión de la segunda película de X-Files
+  Nuevo Montaje del Director de Star Trek: The Motion Picture
+  Kevin Smith habla de sus nuevos proyectos
+
+
+Comics
+
+  Civil War
+  WebComics: Vexxarr, Tiny Sepuku
+
+
+Spoilers
+
+  Eureka T2
+  Kyle XY
+
+
+
+
+
+]]></itunes:summary>
+    <itunes:author>La tripulación de El Geek Errante</itunes:author>
+    <itunes:image href="http://elgeekerrante.com/images/msf_logo.jpg" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>00:24:41</itunes:duration>
+  </item>
+
+</channel>
+</rss>

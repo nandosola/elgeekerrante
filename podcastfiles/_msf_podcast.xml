@@ -1,0 +1,71 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+>
+ 
+<channel>
+<title>Mondo Sci-Fi</title>
+<atom:link href="{{ site.url }}/podcastfiles/msf_podcast.xml" rel="self" type="application/rss+xml" />
+<link>{{ site.url }}</link>
+<description>Bienvenidos a Mondo Sci-Fi, la transmisión quincenal de El Geek Errante dedicada a las series, películas, comics y cualquier otra cosa que se nos ocurra, siempre dentro del mundo de la ciencia ficción y la ficción especulativa. En estas transmisiones damos nuestras reseñas, opiniones, recomendaciones y críticas de todo lo que ocurre en el mundo del entretenimiento, siempre desde el punto de vista de fans de la ciencia ficción más dura. Mr. Solo, el Doctor y sus invitados ocasionales llevarán a sus sistemas reproductores de MP3 toda la información vital para estar al día en el universo de la ciencia ficción. Si os gustan podcasts como Slice of Sci-Fi, Escape Pod, Geek Fu Action Grip y similares, Mondo Sci-Fi habla vuestro idioma: el español.</description>
+<category>TV &amp; Film</category>
+<copyright>CC License 2.5 Spain (by-nc-sa)</copyright>
+<language>es</language>
+<lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+<pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+<generator>http://jekyllrb.com</generator>
+<sy:updateBase>{{ site.time | date: "%Y-%m-%dT%H:%M%z" }}</sy:updateBase>
+<sy:updatePeriod>yearly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<itunes:block>yes</itunes:block>
+<itunes:summary>Bienvenidos a Mondo Sci-Fi, la transmisión quincenal de El Geek Errante dedicada a las series, películas, comics y cualquier otra cosa que se nos ocurra, siempre dentro del mundo de la ciencia ficción y la ficción especulativa. En estas transmisiones damos nuestras reseñas, opiniones, recomendaciones y críticas de todo lo que ocurre en el mundo del entretenimiento, siempre desde el punto de vista de fans de la ciencia ficción más dura. Mr. Solo, el Doctor y sus invitados ocasionales llevarán a sus sistemas reproductores de MP3 toda la información vital para estar al día en el universo de la ciencia ficción. Si os gustan podcasts como Slice of Sci-Fi, Escape Pod, Geek Fu Action Grip y similares, Mondo Sci-Fi habla vuestro idioma: el español.
+
+Agradecemos sus visitas y comentarios en nuestro blog: http://www.elgeekerrante.com</itunes:summary>
+<itunes:subtitle>Un cocktail quincenal de novedades de otro mundo</itunes:subtitle>
+<itunes:category text="TV &amp; Film" />
+<itunes:keywords>series, cine, geek, spanish, español, ciencia, ficcion, comic</itunes:keywords>
+<itunes:author>{{ site.podcast.author }}</itunes:author>
+<itunes:explicit>{{ site.podcast.explicit }}</itunes:explicit>
+<itunes:image href="{{ site.url }}/images/msf_logo.jpg" />
+<itunes:owner>
+<itunes:name>{{ site.podcast.owner }}</itunes:name>
+<itunes:email>{{ site.podcast.email }}</itunes:email>
+</itunes:owner>
+<managingEditor>{{ site.podcast.email }} ({{ site.podcast.owner }})</managingEditor>
+<itunes:subtitle>{{ site.podcast.subtitle }}</itunes:subtitle>
+<image>
+<title>Mondo Sci-Fi</title>
+<url>{{ site.url }}/images/msf_logo.jpg</url>
+<link>{{ site.url }}</link>
+<width>144</width>
+<height>202</height>
+</image>
+{% for ep in site.tags.msf-podcast %}
+  <item>
+    <title>EGE {{ forloop.rindex }}: {{ ep.podcast.title }}</title>
+    <link>{{ site.url }}{{ ep.url }}</link>
+    <comments>{{ site.url }}{{ ep.url }}#comments</comments>
+    <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
+    <dc:creator><![CDATA[{{ site.podcast.author | cdata_escape }}]]></dc:creator>
+    <description><![CDATA[{{ ep.excerpt | strip_html | remove_first: ep.podcast.title | lstrip | truncatewords: 50 | expand_urls: site.url | replace_regex:'^.*feeds.soundcloud.com.*','' | rstrip | cdata_escape }}]]></description>
+    <content:encoded><![CDATA[{{ ep.content | replace_regex:'<iframe.*\/iframe>','' | replace_regex:'^.*feeds.soundcloud.com.*','' | expand_urls: site.url | cdata_escape }}]]></content:encoded>
+    <enclosure url="{{ ep.podcast.link }}" length="{{ ep.podcast.length }}" type="audio/mpeg" />
+    <guid isPermaLink="false">{{ ep.podcast.link }}</guid>
+    <itunes:subtitle><![CDATA[{{ ep.excerpt | strip_html | remove_first: ep.podcast.title | lstrip | truncate: 255 | expand_urls: site.url | cdata_escape }}]]></itunes:subtitle>
+    <itunes:summary><![CDATA[{{ ep.content | strip_html | remove_first: ep.podcast.title | lstrip | replace_regex:'^.*Descarga del audio.*$','' | replace_regex:'^.*¶$','' | replace_regex:'^Licencia$','' | replace_regex:'El 100% de este podcast.*','' | replace_regex:' ?[-:]? \(?link[0-9]?,?\)?','' | replace:'&amp;','y' | replace:'&gt;',']' | replace:'&lt;','[' | truncate:4000 | cdata_escape }}]]></itunes:summary>
+    <itunes:author>{{ site.podcast.author }}</itunes:author>
+    <itunes:image href="{{ site.url }}/images/msf_logo.jpg" />
+    <itunes:explicit>{{ site.podcast.explicit }}</itunes:explicit>
+    <itunes:duration>{{ ep.podcast.duration }}</itunes:duration>
+  </item>
+{% endfor %}
+</channel>
+</rss>

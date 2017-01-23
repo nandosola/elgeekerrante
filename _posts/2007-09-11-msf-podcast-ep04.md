@@ -6,12 +6,16 @@ tags:
  - msf-podcast
 categories:
  - congelador
+podcast:
+  title: "Mondo Sci-Fi #4"
+  link: "https://archive.org/download/msf_podcast/04%20Mondo%20Sci-Fi%20%234.mp3"
+  duration: "00:38:34"
+  length: 27847566
 ---
 
 Bienvenidos a Mondo Sci-Fi #04, grabado el 2 de Septiembre de 2007.
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303051580&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
-[Descarga del audio desde Archive.org (mp3, 26.6MB)](https://archive.org/download/msf_podcast/04%20Mondo%20Sci-Fi%20#4.mp3)
+- [Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Show notes
 

@@ -3,6 +3,8 @@
 name: Cuaderno de bitácora
 description: Life's a maze of twisty little passages, all alike
 
+timezone: Europe/Madrid
+
 # Url is currently only used only for the RSS feed in feed.xml
 url: http://elgeekerrante.com
 

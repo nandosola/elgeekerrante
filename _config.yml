@@ -44,7 +44,7 @@ comments: false
 # Podcasting
 podcast:
   url: http://elgeekerrante.com
-  album_art: /images/ege_logo.jpg
+  album_art: /images/ege_itunes_logo.jpg
   title: El Geek Errante
   owner: The Crew
   email: podcast@elgeekerrante.com

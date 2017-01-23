@@ -15,17 +15,17 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 <description>Bienvenidos a bordo del Geek Errante. Nuestra misión en cada episodio es llevar a ustedes, geeks y frikis de habla hispana, los comentarios técnicos más profundos, las noticias tecnológicas más interesantes, las opiniones más políticamente incorrectas y por qué no, un toque de humor geek. Cada semana El Doctor, Mr. Solo, HoloJorge y FuTuR3 llevarán a sus reproductores de MP3, a través de su transmisor subespacial, el contenido más geek de la podosfera en español. Esperamos que este viaje sea de su agrado.</description>
 <category  domain="Tech%20News">Technology</category>
 <copyright>Creative Commons Attribution-NonCommercial-NoDerivs 2.5 Spain</copyright>
-<lastBuildDate>Mon, 23 Jan 2017 10:28:05 +0100</lastBuildDate>
-<pubDate>Mon, 23 Jan 2017 10:28:05 +0100</pubDate>
+<lastBuildDate>Mon, 23 Jan 2017 11:55:50 +0100</lastBuildDate>
+<pubDate>Mon, 23 Jan 2017 11:55:50 +0100</pubDate>
 <language>es</language>
-<sy:updateBase>2017-01-23T10:28+0100</sy:updateBase>
+<sy:updateBase>2017-01-23T11:55+0100</sy:updateBase>
 <sy:updatePeriod>hourly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com</generator>
 <itunes:summary>Bienvenidos a bordo del Geek Errante. Nuestra misión en cada episodio es llevar a ustedes, geeks y frikis de habla hispana, los comentarios técnicos más profundos, las noticias tecnológicas más interesantes, las opiniones más políticamente incorrectas y por qué no, un toque de humor geek. Cada semana El Doctor, Mr. Solo, HoloJorge y FuTuR3 llevarán a sus reproductores de MP3, a través de su transmisor subespacial, el contenido más geek de la podosfera en español. Esperamos que este viaje sea de su agrado.</itunes:summary>
 <itunes:author>La tripulación de El Geek Errante</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+<itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
 <itunes:owner>
 <itunes:name>The Crew</itunes:name>
 <itunes:email>podcast@elgeekerrante.com</itunes:email>
@@ -34,7 +34,7 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 <itunes:subtitle>Perdidos en el Multiverso</itunes:subtitle>
 <image>
 <title>El Geek Errante</title>
-<url>http://elgeekerrante.com/images/ege_logo.jpg</url>
+<url>http://elgeekerrante.com/images/ege_itunes_logo.jpg</url>
 <link>http://elgeekerrante.com</link>
 <width>144</width>
 <height>96</height>
@@ -174,7 +174,7 @@ Sci-fi to Sci-fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:59:55</itunes:duration>
   </item>
@@ -379,7 +379,7 @@ Sci-Fi to Sci-Fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>01:11:59</itunes:duration>
   </item>
@@ -538,7 +538,7 @@ Sci-Fi to Sci-Fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:52:48</itunes:duration>
   </item>
@@ -693,7 +693,7 @@ Sci-Fi to Sci-Fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:56:41</itunes:duration>
   </item>
@@ -878,7 +878,7 @@ Sci-fi to Sci-fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:57:34</itunes:duration>
   </item>
@@ -1040,7 +1040,7 @@ Tema: CAPTCHAs
   A veces veo gatitos: KittenAuth.
   ¡Y...]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:52:40</itunes:duration>
   </item>
@@ -1330,7 +1330,7 @@ Quickies
   P4P: versión mejorada de P2P. Proyecto P4PGW en la Universidad de Yale.
   Desde el Dpto. de Patentes Ridículas: Un satélite ...]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>01:05:34</itunes:duration>
   </item>
@@ -1604,7 +1604,7 @@ Sci-fi to Sci-Fact
   
   Las Empresas pueden lle...]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>1:11:20</itunes:duration>
   </item>
@@ -1802,7 +1802,7 @@ Sci-fi to Sci-fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>01:10:00</itunes:duration>
   </item>
@@ -1965,7 +1965,7 @@ Sci-fi to Sci-Fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>01:10:44</itunes:duration>
   </item>
@@ -2150,7 +2150,7 @@ Sci-fi to Sci-fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>01:01:22</itunes:duration>
   </item>
@@ -2355,7 +2355,7 @@ Sci-fi to Sci-fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>01:06:15</itunes:duration>
   </item>
@@ -2620,7 +2620,7 @@ Alejandro Nieto ha descubierto un par de errores en esta transmisión, dentro de
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>01:03:14</itunes:duration>
   </item>
@@ -2881,7 +2881,7 @@ Sci-fi to Sci-fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>01:09:30</itunes:duration>
   </item>
@@ -3130,7 +3130,7 @@ Sci-fi to Sci-fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:57:17</itunes:duration>
   </item>
@@ -3349,7 +3349,7 @@ En la sección “Derecho Digital”, Mr.Solo se equivoca al decir que David Byr
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:58:40</itunes:duration>
   </item>
@@ -3500,7 +3500,7 @@ Sci-fi to Sci-fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:46:19</itunes:duration>
   </item>
@@ -3781,7 +3781,7 @@ Sci-Fi to Sci-Fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>01:02:53</itunes:duration>
   </item>
@@ -4014,7 +4014,7 @@ Sci-fi to Sci-fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:59:53</itunes:duration>
   </item>
@@ -4273,7 +4273,7 @@ Noticias: monográfico sobre e-Book
     
       Modelos editoriales vs. discográ...]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:56:29</itunes:duration>
   </item>
@@ -4488,7 +4488,7 @@ SCI-FI TO SCI-FACT
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:54:55</itunes:duration>
   </item>
@@ -4689,7 +4689,7 @@ Sci-fi to Sci-fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>01:00:40</itunes:duration>
   </item>
@@ -4908,7 +4908,7 @@ Sci-fi to Sci-fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:59:26</itunes:duration>
   </item>
@@ -5223,7 +5223,7 @@ Sci-fi to Sci-fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:55:03</itunes:duration>
   </item>
@@ -5454,7 +5454,7 @@ Sci-Fi to Sci-Fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:56:06</itunes:duration>
   </item>
@@ -5741,7 +5741,7 @@ Sci-fi to Sci-fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:59:04</itunes:duration>
   </item>
@@ -5976,7 +5976,7 @@ Sci-fi to Sci-fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>01:03:43</itunes:duration>
   </item>
@@ -6231,7 +6231,7 @@ Sci-Fi to Sci-Fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>01:01:59</itunes:duration>
   </item>
@@ -6490,7 +6490,7 @@ Sci-Fi to Sci-Fact:
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>01:03:30</itunes:duration>
   </item>
@@ -6709,7 +6709,7 @@ Sci-fi to Sci-fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:52:03</itunes:duration>
   </item>
@@ -6926,7 +6926,7 @@ Sci-fi to Sci-fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>01:00:00</itunes:duration>
   </item>
@@ -7133,7 +7133,7 @@ Sci-Fi to Sci-fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>01:01:25</itunes:duration>
   </item>
@@ -7352,7 +7352,7 @@ Sci-fi to Sci-fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:56:52</itunes:duration>
   </item>
@@ -7585,7 +7585,7 @@ Sci-fi to Sci-fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>01:02:35</itunes:duration>
   </item>
@@ -7784,7 +7784,7 @@ Sci-fi to Sci-fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:51:40</itunes:duration>
   </item>
@@ -7981,7 +7981,7 @@ Kudos a nuestro viejo camarada futur3, que años después de nuestro último enc
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:55:33</itunes:duration>
   </item>
@@ -8238,7 +8238,7 @@ Sci-Fi to Sci-Fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:55:29</itunes:duration>
   </item>
@@ -8425,7 +8425,7 @@ Sci-Fi to Sci-Fact
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:51:16</itunes:duration>
   </item>
@@ -8598,7 +8598,7 @@ Mondo Sci-Fi
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:51:19</itunes:duration>
   </item>
@@ -8735,7 +8735,7 @@ Mundo Sci-Fi
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:59:52</itunes:duration>
   </item>
@@ -8882,7 +8882,7 @@ Sci-Fi ‘n’ Series!
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:39:39</itunes:duration>
   </item>
@@ -9011,7 +9011,7 @@ Series geek!
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:34:53</itunes:duration>
   </item>
@@ -9144,7 +9144,7 @@ Marvel a gogo
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:40:23</itunes:duration>
   </item>
@@ -9251,7 +9251,7 @@ Derecho Digital
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/ege_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:34:06</itunes:duration>
   </item>

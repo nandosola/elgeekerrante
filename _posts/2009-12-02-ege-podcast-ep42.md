@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #42"
-date: 2009-12-02 13:37:42
+date: 2009-12-01 21:54:55 +0100
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "Geeks Go Host!"
+  link: "http://feeds.soundcloud.com/stream/303033277-geek_errante-ege-podcast-ep42.mp3"
+  duration: "01:11:59"
+  length: 51852981
 ---
 
-# Geeks Go Host!
+# {{ page.podcast.title }}
 Bienvenidos al episodio 42 del podcast del Geek Errante, correspondiente al mes de Noviembre de 2009. Mes cero del año cero de la segunda venida.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033277&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Show notes
 

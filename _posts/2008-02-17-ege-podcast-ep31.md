@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #31"
-date: 2008-02-17 13:37:42
+date: 2008-02-17 13:18:51 +0100
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "Criaturas de las Profundidades de Internet"
+  link: "http://feeds.soundcloud.com/stream/303033311-geek_errante-ege-podcast-ep31.mp3"
+  duration: "01:03:14"
+  length: 45546280
 ---
 
-# Criaturas de las Profundidades de Internet
+# {{ page.podcast.title }}
 Bienvenidos al episodio XXXI del podcast del Geek Errante. Hoy es sábado 9 de febrero de 2008. – Lisipo, 12 de Homero del año 220 de la Era Positivista.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033311&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Show notes
 
@@ -77,17 +85,16 @@ Los días transcurren con tranquilidad en El Geek Errante, y eso nos empieza a p
     - [Brainscan](http://www.imdb.com/title/tt0109327/), [The Eternal Sunshine of the Spotless Mind](http://www.imdb.com/title/tt0338013/) y muchísimas otras referencias Sci-Fi.
 
 ## Fe de erratas
-[Alejandro Nieto](http://vacasueca.blogspot.com.es/) ha descubierto un par de errores en esta transmisión, dentro del especial sobre cables submarinos:
+[Alejandro Nieto](http://vacasueca.blogspot.com.es/) ha descubierto un par de errores en esta transmisión, dentro del especial sobre cables submarinos
 
-> Los reflectómetros ópticos en el dominio del tiempo se llaman OTDR, no OTDMR ([prueba](https://en.wikipedia.org/wiki/Optical_time-domain_reflectometer))
+> Los reflectómetros ópticos en el dominio del tiempo se llaman OTDR, no OTDMR ([prueba](https://en.wikipedia.org/wiki/Optical_time-domain_reflectometer))¶
 
-> Los cables submarinos son monomodo, no multimodo. Lo que no tiene nada que ver con que por dichos cables viajen varias longitudes de onda para aumentar la capacidad de los enlaces. El tema de los modos de propagación tiene que ver con las soluciones de las ecuaciones de Maxwell que pueden viajar por la fibra en una longitud de onda dada. Las fibras mutimodo son peores, ya que no permiten enlaces de longitudes tan largas como las fibras monomodo, pero por contra permiten usar fuentes de luz más baratas (leds en lugar de láseres). Por ello las fibras multimodo se suelen usar principalmente en entornos LAN y las monomodo, que en general hacen el sistema más caro, en sistemas de telecomunicaciones.
+> Los cables submarinos son monomodo, no multimodo. Lo que no tiene nada que ver con que por dichos cables viajen varias longitudes de onda para aumentar la capacidad de los enlaces. El tema de los modos de propagación tiene que ver con las soluciones de las ecuaciones de Maxwell que pueden viajar por la fibra en una longitud de onda dada. Las fibras mutimodo son peores, ya que no permiten enlaces de longitudes tan largas como las fibras monomodo, pero por contra permiten usar fuentes de luz más baratas (leds en lugar de láseres). Por ello las fibras multimodo se suelen usar principalmente en entornos LAN y las monomodo, que en general hacen el sistema más caro, en sistemas de telecomunicaciones.¶
 
-Asimismo, nos hace una puntualización muy buena:
-
-> La velocidad que dijistéis, 2.5 Gb/s, se corresponde con una única longitud de onda. En teoría la ITU especifica que en un caso extremo pueden viajar hasta 144 longitudes de onda en una fibra. Así que la capacidad máxima de la fibra sería 2.5 Gb/s x 144. Pero claro, eso es muy caro, ya que hay que separar las longitudes de onda con mucha precisión. Lo normal es que antes de aumentar tanto la densidad de longitudes de onda se aumente primero la capacidad de cada longitud de onda (la decisión de qué hacer cuando hay que aumentar la capacidad es exclusivamente económica). Por tanto existen sistemas (muchos, al menos en los enlaces troncales nacionales, incluso en España) a 10 Gb/s por longitud de onda. Ahora mismo lo que se está “llevando” es aumentar la capacidad de cada longitud de onda a 40 Gb/s, en Alemania hay un enlace funcionando a dicha velocidad y en España hay planes para empezar a probar las primeras longitudes de onda a 40 Gb/s dentro de poco. De todas formas no soy experto en cables submarinos y no sé qué velocidades y número de longitudes de onda se usan.
+> La velocidad que dijistéis, 2.5 Gb/s, se corresponde con una única longitud de onda. En teoría la ITU especifica que en un caso extremo pueden viajar hasta 144 longitudes de onda en una fibra. Así que la capacidad máxima de la fibra sería 2.5 Gb/s x 144. Pero claro, eso es muy caro, ya que hay que separar las longitudes de onda con mucha precisión. Lo normal es que antes de aumentar tanto la densidad de longitudes de onda se aumente primero la capacidad de cada longitud de onda (la decisión de qué hacer cuando hay que aumentar la capacidad es exclusivamente económica). Por tanto existen sistemas (muchos, al menos en los enlaces troncales nacionales, incluso en España) a 10 Gb/s por longitud de onda. Ahora mismo lo que se está “llevando” es aumentar la capacidad de cada longitud de onda a 40 Gb/s, en Alemania hay un enlace funcionando a dicha velocidad y en España hay planes para empezar a probar las primeras longitudes de onda a 40 Gb/s dentro de poco. De todas formas no soy experto en cables submarinos y no sé qué velocidades y número de longitudes de onda se usan.¶
 
 ¡Muchas gracias, Alejandro! Desde aquí animamos al resto de nuestros oyentes a escuchar con atención cada una de los episodios de El Geek Errante, y a corregirnos cualquier dato erróneo o aportar cualquier cosa que podamos haber omitido. Como el buen software, este podcast no está exento de bugs.
+
 ## Licencia
 El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)
 

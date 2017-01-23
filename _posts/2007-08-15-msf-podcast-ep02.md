@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "Mondo Sci-Fi: transmisión #02"
-date: 2007-08-15 13:37:42
+date: 2007-08-15 01:44:38 +0200
 tags:
  - msf-podcast
+categories:
+ - congelador
 ---
 
 ¡Bienvenidos a esta segunda transmisión de “Mondo Sci-Fi”, grabada el jueves 2 de agosto de 2007!

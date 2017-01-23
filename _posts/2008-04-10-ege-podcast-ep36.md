@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #36"
-date: 2008-04-10 13:37:42
+date: 2008-04-10 23:44:37 +0200
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "A Podcasting Odyssey"
+  link: "http://feeds.soundcloud.com/stream/303033295-geek_errante-ege-podcast-ep36.mp3"
+  duration: "1:11:20"
+  length: 51379834
 ---
 
-# A Podcasting Odyssey
+# {{ page.podcast.title }}
 Bienvenidos al episodio XXXVI del podcast del Geek Errante. Hoy es domingo 6 de abril de 2008. Día 17 de la estación B del año 88 de la era Asimoviana.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033295&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Show notes
 

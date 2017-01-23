@@ -1,17 +1,26 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #04"
-date: 2007-07-15 13:37:42
+date: 2007-07-15 13:38:30 +0200
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "Las noticias despiertan del coma inducido"
+  link: "http://feeds.soundcloud.com/stream/303033395-geek_errante-ege-podcast-ep04.mp3"
+  duration: "00:59:52"
+  length: 43111483
 ---
 
-# Las noticias despiertan del coma inducido
+# {{ page.podcast.title }}
 Una vez alineados los cristales de dilitio en los conversores de antimateria, hemos procedido a activar el generador de números aleatorios 5 de 20 del Geek Errante y hemos enchufado su salida al sistema de navegación. En este momento estamos en ruta desde unas coordenadas espaciales desconocidas a otras igualmente desconocidas. Para nuestro próximo desplazamiento intentaremos además conectar la Tardis al sistema de navegación para poder tambien viajar por el tiempo. Esperemos no convertir al Geek Errante en una máquina de paradoja.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033395&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Show notes
+
 ### Noticia de Entrada
 - El esperma de Bill Gates, el segundo más codiciado en China: [link](http://mr-bullfrog.blogspot.com.es/2007/07/cosas-raras-del-mundo.html)
 

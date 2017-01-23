@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #29"
-date: 2008-01-24 13:37:42
+date: 2008-01-24 00:18:18 +0100
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "El Último Sumotori"
+  link: "http://feeds.soundcloud.com/stream/303033317-geek_errante-ege-podcast-ep29.mp3"
+  duration: "00:57:17"
+  length: 41254908
 ---
 
-# El Último Sumotori
+# {{ page.podcast.title }}
 Bienvenidos al episodio 29 del podcast del Geek Errante. Hoy es 18 de enero de 2008. Dies Veneris, nonae ianuariis – año 2761 desde la fundación de la Ciudad
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033317&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 > *Respecto a la (i)regularidad de las últimas publicaciones del podcast, la razón es simple: las navidades, las fiestas, vacaciones, viajes de trabajo, viajes de placer… El verano y la navidad son fechas complicadas para coincidir toda la tripulación. También se han juntado varios viajes de algunos miembros, por lo que se ha desajustado un poco la regularidad semanal… ¡Pero eso se acabó! A partir de esta semana ya empieza el ritmo normal.*
 

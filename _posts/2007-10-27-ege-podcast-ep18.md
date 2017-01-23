@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #18"
-date: 2007-10-28 13:37:42
+date: 2007-10-27 15:00:41 +0200
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "El Grial francés"
+  link: "http://feeds.soundcloud.com/stream/303033340-geek_errante-ege-podcast-ep18.mp3"
+  duration: "00:59:04"
+  length: 42540715
 ---
 
-# El Grial francés
+# {{ page.podcast.title }}
 ¡Hola amigos! Esto es el podcast de El Geek Errante en su décimo octava entrega, correspondiente al 12 de octubre de 2007 (Istiqlal, Sharaf Mashiyyat, Javab, 9 de Vahid, Primero de Kull-i-Shaÿ)
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033340&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 > Aunque llevamos una semana de retraso, don’t panic! Las obligaciones en el Mundo Real™ hacen mella en la tripulación, pero seguimos grabando con la misma frecuencia. No obstante, este fin de semana postearemos el capítulo 19, restableciendo así el equilibrio climático en la Tierra. Pasamos a las show notes:
 

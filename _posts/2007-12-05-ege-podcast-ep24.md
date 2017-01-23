@@ -1,17 +1,25 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #24"
-date: 2007-12-05 13:37:42
+date: 2007-12-05 23:16:26 +0100
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "Fahrenheit 416"
+  link: "http://feeds.soundcloud.com/stream/303033326-geek_errante-ege-podcast-ep24.mp3"
+  duration: "00:56:29"
+  length: 40682329
 ---
 
-# Fahrenheit 416
+# {{ page.podcast.title }}
 Bienvenidos al episodio 24 del podcast del Geek Errante. Hoy es 23 de Noviembre de 2007, es decir Boomtime, The Aftermath 35, del año 3173 de Nuestra Señora de la Discordia.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033326&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
-> *La calidad de audio de este episodio es extraordinaria, gracias a la nueva mesa de mezclas y a que cada uno tiene, al fin, su propio micro. En cuanto a los contenidos, debido a que noviembre y diciembre son meses poco activos, seguimos currándonos monográficos. En esta ocasión abordamos el siempre polémico tema del libro electrónico. Esperamos vuestros comentarios.*
+> *La calidad de audio de este episodio es extraordinaria, gracias a la nueva mesa de mezclas y a que cada uno tiene, al fin, su propio micro. En cuanto a los contenidos, debido a que noviembre y diciembre son meses poco activos, seguimos currándonos monográficos. En esta ocasión abordamos el siempre polémico tema del libro electrónico. Esperamos vuestros comentarios.*¶
 
 ## Show notes
 
@@ -77,7 +85,7 @@ Gracias a que FutuR3 se ha transformado en vegetal, tenemos aire. Como siempre, 
     - Apoyo: editores vs. “The Tribe”.
     - Experiencias personales de dos miembros de la tripulación y además autores publicados.
 
-### Developers Y UNIX
+### Developers y UNIX
 
 ##### Quickies
 - [Puerta trasera de la NSA en algoritmo estándar del NIST](http://arstechnica.com/security/2007/11/security-experts-nist-encryption-standard-may-have-nsa-backdoor/)

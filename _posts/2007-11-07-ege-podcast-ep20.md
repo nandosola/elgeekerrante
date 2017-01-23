@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #20"
-date: 2007-11-07 13:37:42
+date: 2007-11-02 14:27:37 +0100
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "El Rant Errante"
+  link: "http://feeds.soundcloud.com/stream/303033335-geek_errante-ege-podcast-ep20.mp3"
+  duration: "00:55:03"
+  length: 39652835
 ---
 
-# El Rant Errante
+# {{ page.podcast.title }}
 Bienvenido a bordo de El Geek Errante. Ésta es la vigésima edición de nuestro podcast, grabada el 27 de octubre de 2007: fecha estelar 61821.48
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033335&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 > Aunque el podcast lleva desde el viernes en el feed, diversos problemas con Google Docs han retrasado la publicación de las show notes. Aún quedan algunos links por actualizar, situación que se subsanará al final del día. Apologies.
 

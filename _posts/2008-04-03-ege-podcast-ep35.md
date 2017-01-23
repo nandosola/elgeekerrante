@@ -1,17 +1,25 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #35"
-date: 2008-04-03 13:37:42
+date: 2008-04-03 06:42:59 +0200
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: " El Bit Errante"
+  link: "http://feeds.soundcloud.com/stream/303033300-geek_errante-ege-podcast-ep35.mp3"
+  duration: "01:10:00"
+  length: 50415173
 ---
 
-# El Bit Errante
+# {{ page.podcast.title }}
 Bienvenidos al episodio 0×23 del podcast del Geek Errante. Hoy es 8 de Marzo de 2008, 22 de Epiphi de 2756.
 
 Una felicitación especial a tod@s nuestr@s oyentes que tengan la suerte de contar con un doble cromosoma X.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033300&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Show notes
 

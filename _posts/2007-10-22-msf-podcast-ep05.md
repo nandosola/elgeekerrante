@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "Mondo Sci-Fi: transmisión #05"
-date: 2007-10-22 13:37:42
+date: 2007-10-22 17:13:48 +0200
 tags:
  - msf-podcast
+categories:
+ - congelador
 ---
 
 Esto es Mondo Sci-Fi #05, grabado el 21 de septiembre de 2007. Hace más de un mes, pero no por ello ha perdido frescura.

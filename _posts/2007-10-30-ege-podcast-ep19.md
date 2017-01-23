@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #19"
-date: 2007-10-30 13:37:42
+date: 2007-10-30 00:57:09 +0100
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "Miedo y Asco en Cupertino"
+  link: "http://feeds.soundcloud.com/stream/303033338-geek_errante-ege-podcast-ep19.mp3"
+  duration: "00:56:06"
+  length: 40404313
 ---
 
-# Miedo y Asco en Cupertino
+# {{ page.podcast.title }}
 ¡Hola! Esto es el podcast de El Geek Errante, en su capítulo número diecinueve. Hoy es 20 de octubre de 2007, día juliano 2.454.394.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033338&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 > Tras los problemas con la publicación de EGE#18 y MSF#5, que vinieron del pasado a visitarnos, el equilibrio en vuestra línea temporal ha quedado restaurado. Esta semana postearemos el episodio veinte. Y tan amigos.
 

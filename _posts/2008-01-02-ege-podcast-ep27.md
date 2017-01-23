@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #27"
-date: 2008-01-02 13:37:42
+date: 2008-01-02 20:29:07 +0100
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "0x7d7: !0xcafebabe 4 05X"
+  link: "http://feeds.soundcloud.com/stream/303036079-geek_errante-ege-podcast-ep27.mp3"
+  duration: "00:46:19"
+  length: 33367402
 ---
 
-# 0x7d7: !0xcafebabe 4 05X
+# {{ page.podcast.title }}
 Bienvenidos al episodio XXVII del podcast del Geek Errante. Hoy es miércoles 26 de diciembre de 2007, faltan 1823 días para un fin del mundo.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303036079&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Show notes
 

@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #40"
-date: 2008-07-15 13:37:42
+date: 2008-07-15 16:05:22 +0200
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "De 8 a 64 en 30 minutos"
+  link: "http://feeds.soundcloud.com/stream/303033284-geek_errante-ege-podcast-ep40.mp3"
+  duration: "00:56:41"
+  length: 40827395
 ---
 
-# De 8 a 64 en 30 minutos
+# {{ page.podcast.title }}
 Bienvenidos al episodio XL del podcast del Geek Errante. Hoy es 27 de Julio de 2008, día número 54644 de acuerdo con VMS. Faltan 10085 días para el Armagedón NTP.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033284&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Show notes
 

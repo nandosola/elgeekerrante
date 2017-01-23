@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "Mondo Sci-Fi: transmisión #04"
-date: 2007-09-11 13:37:42
+date: 2007-09-11 18:33:56 +0200
 tags:
  - msf-podcast
+categories:
+ - congelador
 ---
 
 Bienvenidos a Mondo Sci-Fi #04, grabado el 2 de Septiembre de 2007.

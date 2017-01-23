@@ -1,17 +1,25 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #01"
-date: 2007-06-21 13:37:42
+date: 2007-06-21 18:35:09 +0200
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "El Peligro Amarillo"
+  link: "http://feeds.soundcloud.com/stream/303033403-geek_errante-ege-podcast-ep01.mp3"
+  duration: "00:40:23"
+  length: 29120854
 ---
 
-# El Peligro Amarillo
+# {{ page.podcast.title }}
 Bienvenidos a esta primera transmisión Errante. Esta semana no hemos tenido más tragedias, por lo que nos encontramos con ustedes Oficial Científico Mr. Solo y su servidor, el Doctor. Una vez que Mr. Solo ha terminado de reparar los Sistemas de Soporte Vital y Potencia del Geek Errante, hemos tenido una semana muy atareada, cacharreando con los sistemas y familiarizarnos con ellos. Es una nave fascinante.
 
 Aparentemente nos encontramos en órbita alrededor de un gigante gaseoso desconocido. Todavía no hemos logrado fijar nuestra posición debido a que nos encontramos en el centro de una nebulosa que bloquea las emisiones de todos los púlsares conocidos. Debido a ello ni siquiera sabemos si estamos en algún universo paralelo.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033403&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Show notes
 Pero pasemos a las noticias de la semana que nos han llegado a través de nuestro feed subespacial.

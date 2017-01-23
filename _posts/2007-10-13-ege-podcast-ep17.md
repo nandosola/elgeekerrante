@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #17"
-date: 2007-10-13 13:37:42
+date: 2007-10-13 12:39:41 +0200
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "iPhone Overflow (subject dumped)"
+  link: "http://feeds.soundcloud.com/stream/303033350-geek_errante-ege-podcast-ep17.mp3"
+  duration: "01:03:43"
+  length: 45887735
 ---
 
-# iPhone Overflow (subject dumped)
+# {{ page.podcast.title }}
 Bienvenidos al Podcast de El Geek Errante, hoy es 5 de octubre de 2007, día 18263 de la Era Espacial.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033350&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Cuaderno de bitácora
 Mr. Solo, FuTuR3 y yo hemos decidido grabar este podcast desde las playas del Planeta de Rigley. Hemos dejado un mensaje a HoloJorge para que lo despierte en algún momento durante la grabación, esperamos que no esté demasiado cabreado. Así que chicos, pillen sus Martinis romulanos y a grabar, ¡que se nos va el primer sol!

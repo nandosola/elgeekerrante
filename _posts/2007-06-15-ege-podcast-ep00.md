@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #00"
-date: 2007-06-15 13:37:42
+date: 2007-06-15 13:29:28 +0200
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "¡Bienvenidos a bordo del Geek Errante!"
+  link: "http://feeds.soundcloud.com/stream/303033405-geek_errante-ege-podcast-ep00.mp3"
+  duration: "00:34:06"
+  length: 59738386
 ---
 
-# ¡Bienvenidos a bordo del Geek Errante!
+# {{ page.podcast.title }}
 Bienvenidos a esta edición especial de nuestra Tertulia Digital, grabada el sábado 9 de junio de 2007. Como os podéis imaginar si habéis escuchado el Episodio 12 del Podcast de Venera7, ha sido una semana intensa para nosotros. Lo que al principio parecía una nave abandonada resultó ser el refugio de un clan de Daleks renegados. La batalla ha sido formidable y al final hemos triunfado. Desgraciadamente hemos perdido a uno de nuestros tripulantes (Jorge), pero seguimos con ustedes MrSolo y El Doctor.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033405&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Show Notes
 
@@ -22,7 +30,7 @@ Bienvenidos a esta edición especial de nuestra Tertulia Digital, grabada el sá
 ### Developers
 - GNU libera Emacs 22 después de 6 años. ([link](https://slashdot.org/story/07/06/04/2113201/gnu-coughs-up-emacs-22-after-six-year-wait))
 - Sun: developer alpha de OpenOffice para OS X. ([link](https://tech.slashdot.org/story/07/06/05/1152256/openofficeorg-for-mac-os-x-alpha-released))
-- Predicciones WWDC’07. **(\*)**
+- Predicciones WWDC’07.
 
 ### Derecho Digital
 - USA: las empresas pagan a los ISPs para que sus mails masivos pasen los filtros anti-SPAM. ([link](https://slashdot.org/story/07/06/09/199259/isps-starting-to-charge-for-guaranteed-email-delivery))
@@ -38,8 +46,6 @@ Bienvenidos a esta edición especial de nuestra Tertulia Digital, grabada el sá
 - Kyle XY season 2 el 17 de Junio - Jane XX y su ombligo. ([link](http://www.sliceofscifi.com/2007/06/10/jaimie-alexander-is-our-guest-for-slice-of-scifi-show-113/))
 - WebComics de Heroes. ([link](http://web.archive.org/web/20071107060840/http://www.nbc.com/Heroes/novels/))
 - Comics traducidos en Heroes-Spain. ([link](http://web.archive.org/web/20071102051002/http://www.heroes-spain.com/laserie/comics.php))
-
-***\*** Debido a los efectos de la dilación temporal es probable que reciban esta transmisión algunos días despues de su emisión.*
 
 ## Licencia
 El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita [http://es.creativecommons.org/blog/licencias/](http://es.creativecommons.org/blog/licencias/)

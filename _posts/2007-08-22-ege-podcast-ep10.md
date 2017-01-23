@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #10"
-date: 2007-08-22 13:37:42
+date: 2007-08-22 01:08:41 +0200
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "Toma el binario y corre"
+  link: "http://feeds.soundcloud.com/stream/303033371-geek_errante-ege-podcast-ep10.mp3"
+  duration: "01:02:35"
+  length: 45068958
 ---
 
-# Toma el binario y corre
+# {{ page.podcast.title }}
 Bienvenidos a esta décima edición del Podcast del Geek Errante. Hoy es jueves 16 de agosto de 2007: día 6B08 de la era LEGO.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033371&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Cuaderno de Bitácora
 La semana pasada, mientras Mr. Solo negociaba con FuTuR3, intenté pasar el rato jugando Sudoku con el ordenador del Geek Errante, sin darme cuenta de que lo que parecía un juego de HexaDoku era realmente una interfaz gráfica alterna para el sistema de control del condensador de fluzo del Geek Errante. Tan pronto terminé el juego, la nave hizo un salto hiperespacial a coordenadas nuevamente desconocidas, aparentemente dentro del espacio fluídico. Una vez repuesto de la sorpresa, me puse a intentar llevar una señal hacia la nave IKEA 3 para tranquilizar a Mr. Solo que debería estar bastante preocupado. En este momento acabo de terminar de (espero) de establecer la comunicación. Intentémoslo….

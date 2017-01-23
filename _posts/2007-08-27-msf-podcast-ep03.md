@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "Mondo Sci-Fi: transmisión #03"
-date: 2007-08-27 13:37:42
+date: 2007-08-27 20:55:38 +0200
 tags:
  - msf-podcast
+categories:
+ - congelador
 ---
 
 Éste es el tercer episodio de Mondo Sci-Fi, grabado el jueves 16 de agosto de 2007.

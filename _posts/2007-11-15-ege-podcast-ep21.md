@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #21"
-date: 2007-11-15 13:37:42
+date: 2007-11-15 04:14:31 +0100
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "Peligrosamente Virtualizados"
+  link: "http://feeds.soundcloud.com/stream/303033332-geek_errante-ege-podcast-ep21.mp3"
+  duration: "00:59:26"
+  length: 42806307
 ---
 
-# Peligrosamente Virtualizados
+# {{ page.podcast.title }}
 Bienvenidos a bordo de El Geek Errante. Ésta es la vigésimo-primera edición de nuestro podcast, grabada el 2 de Noviembre de 2007, 9-Tecpátl, 1-Malinálli, 13-Cuetzpálin, día de Mictlantecúhtli, Señor de la noche. Feliz día de los muertos.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033332&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Show notes
 

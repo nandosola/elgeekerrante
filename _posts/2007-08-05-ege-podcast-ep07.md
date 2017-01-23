@@ -1,19 +1,26 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #07"
-date: 2007-08-05 13:37:42
+date: 2007-08-05 21:07:48 +0200
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "El nivel más alto de geekología posible"
+  link: "http://feeds.soundcloud.com/stream/303033387-geek_errante-ege-podcast-ep07.mp3"
+  duration: "00:55:29"
+  length: 39964081
 ---
 
-> ***Fe de erratas***
-> MrSolo menciona en la sección del unfork de KHTML/Webkit que IE7 usa el motor Gecko. Esto no es así, sino que el navegador de Microsoft usa su propio sistema. Un posible motivo para este imperdonable desliz es que se rumoreó que IE7 iba a vampirizar parte de Firefox cuando IE se estaba reescribiendo totalmente para Vista.
-> *Somos humanos y teníamos resaca.*
-
-# El nivel más alto de *geekología* posible
+# {{ page.podcast.title }}
 Bienvenidos a la edición 07 del Geek Errante. Hoy es 27 de Julio de 2007, 8-Acatl, 1-Cipactli, 6-Miquiztli.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033387&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
+
+> ***Fe de erratas***
+> MrSolo menciona en la sección del unfork de KHTML/Webkit que IE7 usa el motor Gecko. Esto no es así, sino que el navegador de Microsoft usa su propio sistema. Un posible motivo para este imperdonable desliz es que se rumoreó que IE7 iba a vampirizar parte de Firefox cuando IE se estaba reescribiendo totalmente para Vista.
 
 ## Cuaderno de Bitácora
 Tras la horripilante experiencia de la semana pasada, MrSolo y El Doctor decidimos intentar tranquilizarnos por lo que saqué de la Tardis unas cuantas botellas de tequila adquiridas durante mi reciente viaje a tierras mexicanas. Al volver a la conciencia nos dimos cuenta que habíamos bebido y dormido durante una semana entera y que ya era momento de grabar nuestra siguiente transmisión, así que hemos optado por unas inyecciones intravenosas de cafeína pura para estar a la altura; esta vez sí que no tenemos idea de dónde estamos, a dónde vamos ni nos interesa demasiado, lo que sí que nos interesa es saber si en esta nave habrá unos cuantos Alka-Seltzer.

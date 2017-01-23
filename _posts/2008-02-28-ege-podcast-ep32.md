@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #32"
-date: 2008-02-28 13:37:42
+date: 2008-02-28 18:54:08 +0100
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "Dos Geeks en Órbita Decadente"
+  link: "http://feeds.soundcloud.com/stream/303033308-geek_errante-ege-podcast-ep32.mp3"
+  duration: "01:06:15"
+  length: 47715249
 ---
 
-# Dos Geeks en Órbita Decadente
+# {{ page.podcast.title }}
 Bienvenidos al episodio XXXII del podcast del Geek Errante. Hoy es sábado 16 de febrero de 2008 - Décimo día del primer mes del Año Wu-Zi. Septuagésimo-octavo Ciclo.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033308&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Show notes
 

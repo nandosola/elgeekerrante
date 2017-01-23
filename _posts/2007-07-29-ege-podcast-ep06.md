@@ -1,25 +1,32 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #06"
-date: 2007-07-29 13:37:42
+date: 2007-07-29 21:10:20 +0200
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "El Worm del Verano"
+  link: "http://feeds.soundcloud.com/stream/303033389-geek_errante-ege-podcast-ep06.mp3"
+  duration: "00:51:16"
+  length: 36928099
 ---
+
+# {{ page.podcast.title }}
+El día de hoy nos encontramos en el Geek Errante: HoloJorge, el Holograma Paranoico, MrSolo, nuestro Oficial Científico y controlador de hologramas, y su servidor, intentando contener este pandemonium, El Doctor.
 
 > ***Aviso importante***
 > En este episodio vamos a experimentar con un cambio de formato. Debido al alargamiento del podcast, hemos decidido dividirlo en dos transmisiones: esta primera, de frecuencia semanal, dedicada a tecnología y noticias; y una segunda intitulada “Mondo Sci-Fi”, quincenal, enfocada al mundo de las series y la Ciencia Ficción. Por el momento hemos decidido dejar ambos podcasts en el mismo feed por lo que no será necesario que cambien sus suscripciones. Nos gustaría que nos dieran su opinión sobre este cambio: ¿prefieren un sólo episodio largo, o dos más cortos?
 
-# El Worm del Verano
-## Cuaderno de Bitácora
-Al acercarnos a la esfera de Dyson de la semana pasada, los instrumentos han notado una serie de anomalías gravitatorias en su interior. Decidimos aproximarnos con cautela para investigar. Al llegar a una distancia de medio radio de la esfera, se ha abierto una grieta en la misma y ha emergido una creatura que recordaba una especie de calamar gigante con cuerpo de Teletubby, del tamaño aproximado de Júpiter. Al ver un horror tal, hemos invertido los impulsores y estado a punto de convertir al Geek Errante en un proto-agujero negro. Afortunadamente la estructura de la nave ha soportado esta maniobra y hemos logrado escapar de la creatura. Consultando con la biblioteca de a bordo hemos descubierto que se trata de una creatura que crea sus nidos alrededor de estrellas y utiliza su radiación para incubar sus huevos.
-
-Creemos que MrSolo ha tenido éxito en la programación de los sistemas de seguridad para contención de hologramas paranóicos por lo que hemos reactivado tentativamente a HoloJorge. Esperemos que su activación no sea necesaria; en este caso la ayuda de HoloJorge ha sido indispensable para huir del monstruo, ya que según lo vió echó a correr y, al estar integrado al ordenador de la nave, el tiempo de respuesta fue instantáneo.
-
-El día de hoy nos encontramos en el Geek Errante: HoloJorge, el Holograma Paranoico, MrSolo, nuestro Oficial Científico y controlador de hologramas, y su servidor, intentando contener este pandemonium, El Doctor.
-
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033389&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
+
+## Cuaderno de Bitácora
+Al acercarnos a la esfera de Dyson de la semana pasada, los instrumentos han notado una serie de anomalías gravitatorias en su interior. Decidimos aproximarnos con cautela para investigar.
 
 ## Show notes
+
 ### Noticia de entrada
 - Spray nasal que aumenta la confianza [link](http://web.archive.org/web/20071009022209/http://www.thesun.co.uk/sol/homepage/news/article246094.ece)
 

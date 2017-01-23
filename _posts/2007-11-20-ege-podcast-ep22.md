@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #22"
-date: 2007-11-20 13:37:42
+date: 2007-11-20 02:44:31 +0100
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "¿Sueñan los zombies con ovejas inalámbricas?"
+  link: "http://feeds.soundcloud.com/stream/303033331-geek_errante-ege-podcast-ep22.mp3"
+  duration: "01:00:40"
+  length: 43700381
 ---
 
-# ¿Sueñan los zombies con ovejas inalámbricas?
+# {{ page.podcast.title }}
 Bienvenidos a bordo de El Geek Errante. Ésta es la vigésimosegunda edición de nuestro podcast, grabada el 10 de Noviembre de 2007, Sol 641 del mes 12 del año marciano 28. Hoy estamos en la Longitud Solar 345,2.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033331&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Show notes
 

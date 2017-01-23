@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #14"
-date: 2007-09-25 13:37:42
+date: 2007-09-25 12:35:14 +0200
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "Los Zombies quieren tu CPU"
+  link: "http://feeds.soundcloud.com/stream/303033362-geek_errante-ege-podcast-ep14.mp3"
+  duration: "00:52:03"
+  length: 37491677
 ---
 
-# Los Zombies quieren tu CPU
+# {{ page.podcast.title }}
 Bienvenidos al podcast del Geek Errante, en ésta su decimocuarta transmisión. Hoy es 14 de septiembre de 2007. Estamos a dia Jūyokka del mes Nagatsuki, año 19 de la era Heisei. Respetuosos saludos al Emperador.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033362&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Tal día como hoy (14 de Septiembre)
 - 1959 - La sonda espacial soviética Luna 2 se estrelló en la Luna, convirtiéndose en el primer objeto de manufactura humana en llegar a ella.

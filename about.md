@@ -9,7 +9,7 @@ title: About
 ## Versión alpha
 Todo nació a principios de 2007. Algunos de los editores del (todavía) desaparecido blog [**Venera7.com**](http://web.archive.org/web/*/venera7.com) decidimos grabar un podcast en el que hablar de los que más nos gustaba: el mundo de Apple, tecnología y demás fuentes legales e ilegales de entretenimiento *geek*. Durante doce ediciones, desde Febrero a Junio, **El Podcast de Venera7** nos enganchó al por aquél entonces incipiente [fenómeno](https://es.wikipedia.org/wiki/Podcasting).
 
-![Long live Venera7](/images/v7_logo.png){: .center-image .img-thumbnail }
+![Long live Venera7](/images/v7_logo.jpg){: .center-image .img-thumbnail }
 
 En esta primera época ya estabamos **El Doctor**, **HoloJorge** y **Mr.Solo**, todos ellos tripulantes de una estación espacial soviética abandonada en la órbita de Venus. Desde allí, cada semana se emitía el programa. A mediados de aquel año, motivos personales de los fundadores del blog y la sempiterna *Vida Real*™ hicieron que Venera7 cerrase temporalmente. Así que decidimos continuar la aventura fuera del Sistema Solar, buscando un nuevo sitio en el Multiverso donde divertirnos y aprender. Había nacido **El Geek Errante**. ***EGE*** para los amigos. Poco después se unió a la tripulación un cazafortunas llamado **FUTUR3**.
 

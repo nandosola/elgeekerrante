@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #33"
-date: 2008-03-11 13:37:42
+date: 2008-03-11 01:48:03 +0100
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "Kerberos Electric Café"
+  link: "http://feeds.soundcloud.com/stream/303033306-geek_errante-ege-podcast-ep33.mp3"
+  duration: "01:01:22"
+  length: 44198717
 ---
 
-# Kerberos Electric Café
+# {{ page.podcast.title }}
 Bienvenidos al episodio XXXIII del podcast del Geek Errante. Hoy es sábado 23 de febrero de 2008 o también psábbaton, 15 amshir de 1724.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033306&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Show notes
 

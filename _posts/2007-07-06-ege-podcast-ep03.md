@@ -1,17 +1,25 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #03"
-date: 2007-07-06 13:37:42
+date: 2007-07-06 06:09:54 +0200
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "Podcast 100% libre de iPhone"
+  link: "http://feeds.soundcloud.com/stream/303033397-geek_errante-ege-podcast-ep03.mp3"
+  duration: "00:39:39"
+  length: 28590213
 ---
 
-# Podcast 100% libre de iPhone
+# {{ page.podcast.title }}
 La semana pasada el Doctor ha vuelto al final con unos deliciosos tacos de bisteck y unas micheladas para cenar (por lo visto ha estado en tierras mexicanas). HoloJorge se ha cabreado porque los hologramas no pueden comer, ha intentado instalar una actualización que le permitiera procesar comida sólida, y ha terminado por cargarse la matriz de traducción por lo que no estará con nosotros esta semana. Esperamos poder restaurarlo de la copia de seguridad la semana próxima.
 
 Mientras tanto de la Tierra nos llegan noticias de que el día de hoy aparentemente habrá algún evento portentoso, parece que comenzará una invasión alienígena o algo así. Todos los medios de comunicación hablan de una raza al parecer conocida como los iFones. Como al parecer las ondas están saturadas de esta noticia y para asegurar la salud mental de nuestros oyentes, hemos tomado la determinación de no mencionarla más en nuestra transmisión.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033397&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Show notes
 

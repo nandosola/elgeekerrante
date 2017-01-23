@@ -1,17 +1,25 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #30"
-date: 2008-02-08 13:37:42
+date: 2008-02-08 03:54:28 +0100
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "Solarística Aplicada"
+  link: "http://feeds.soundcloud.com/stream/303033313-geek_errante-ege-podcast-ep30.mp3"
+  duration: "01:09:30"
+  length: 50063287
 ---
 
-# Solarística Aplicada
+# {{ page.podcast.title }}
 Bienvenidos al episodio 30 del podcast del Geek Errante. Hoy es 2 de Febrero de 2008 – Sanivara, decimotercer día del mes Magha del año 1929 del calendario nacional unificado.
 
 También es el [Día de La Marmota](https://en.wikipedia.org/wiki/Groundhog_Day) ¿seis semanas más de invierno o primavera temprana? Hagan sus apuestas
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033313&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 > ***(actualización)***
 > *Parece que Punxsutawney Phil vió su sombra: [seis semanas más de invierno](https://www.youtube.com/watch?v=v8kDo9hmwY4) :-(*

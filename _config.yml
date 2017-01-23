@@ -38,6 +38,22 @@ google_tagmanager_key: GTM-5HZL9VQ
 disqus: geek_errante
 comments: false
 
+
+# Podcasting
+podcast:
+  url: http://elgeekerrante.com
+  album_art: /images/ege_logo.jpg
+  title: El Geek Errante
+  owner: The Crew
+  email: podcast@elgeekerrante.com
+  category: Technology
+  subcategory_one: Tech News
+  explicit: "no"
+  author: La tripulación de El Geek Errante
+  keywords: geek,tecnologia,gpl,linux,software,hacking,unix
+  description: "Bienvenidos a bordo del Geek Errante. Nuestra misión en cada episodio es llevar a ustedes, geeks y frikis de habla hispana, los comentarios técnicos más profundos, las noticias tecnológicas más interesantes, las opiniones más políticamente incorrectas y por qué no, un toque de humor geek. Cada semana El Doctor, Mr. Solo, HoloJorge y FuTuR3 llevarán a sus reproductores de MP3, a través de su transmisor subespacial, el contenido más geek de la podosfera en español. Esperamos que este viaje sea de su agrado."
+  subtitle: Perdidos en el Multiverso
+
 #permalink: /:year/:month/:title
 permalink: /:title
 

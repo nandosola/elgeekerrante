@@ -1,21 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #02"
-date: 2007-06-27 13:37:42
+date: 2007-06-27 20:02:45 +0200
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "Ceci n'est pas un iPhone"
+  link: "http://feeds.soundcloud.com/stream/303033399-geek_errante-ege-podcast-ep02.mp3"
+  duration: "00:34:53"
+  length: 25160972
 ---
 
-# Ceci n'est pas un iPhone
+# {{ page.podcast.title }}
 Tras reajustar la frecuencia de los escudos, hemos logrado espantar a los seres de energía. Desgraciadamente, la lucha con estos habitantes de la nebulosa nos ha dejado sin reservas de dilitio, así que hemos aprovechado el tirón gravitacional del gigante gaseoso para movernos a una de sus lunas, donde los scanners han detectado una gigantesca geoda repleta de los vitales cristales.
 
-Mientras HoloJorge se encontraba en modo sleep y yo recolectaba el dilitio, El Doctor nos abandonó - su Tardis ha desaparecido y en su lugar, un roboPost-it con el mensaje:
-
-> “El Universo peligra. he ido a pagar mis impuestos- vuelvo para cenar. vendré con la compra.”
-
-Lo que no sabemos es a qué hora de cenar se refiere. En fin, no intentéis comprender a un Time Master con propiedades e inversiones en diversos lugares del tiempo y el espacio.
-
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033399&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Show notes
 

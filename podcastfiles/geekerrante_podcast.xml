@@ -1,0 +1,71 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+>
+ 
+<channel>
+<title>{{ site.podcast.title }}</title>
+<atom:link href="{{ site.url }}/podcastfiles/geekerrante_podcast.xml" rel="self" type="application/rss+xml" />
+<link>{{ site.url }}</link>
+<description>{{ site.podcast.description }}</description>
+<category  domain="{{ site.podcast.subcategory_one | replace:' ','%20' }}">{{ site.podcast.category}}</category>
+<copyright>Creative Commons Attribution-NonCommercial-NoDerivs 2.5 Spain</copyright>
+<lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+<pubDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+<language>es</language>
+<sy:updateBase>{{ site.time | date: "%Y-%m-%dT%H:%M%z" }}</sy:updateBase>
+<sy:updatePeriod>monthly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<generator>http://jekyllrb.com</generator>
+<itunes:summary>{{ site.podcast.description }}</itunes:summary>
+<itunes:author>{{ site.podcast.author }}</itunes:author>
+<itunes:explicit>{{ site.podcast.explicit }}</itunes:explicit>
+<itunes:image href="{{ site.url }}{{ site.podcast.album_art }}" />
+<itunes:owner>
+<itunes:name>{{ site.podcast.owner }}</itunes:name>
+<itunes:email>{{ site.podcast.email }}</itunes:email>
+</itunes:owner>
+<managingEditor>{{ site.podcast.email }} ({{ site.podcast.owner }})</managingEditor>
+<itunes:subtitle>{{ site.podcast.subtitle }}</itunes:subtitle>
+<image>
+<title>{{ site.podcast.title }}</title>
+<url>{{ site.url }}{{ site.podcast.album_art }}</url>
+<link>{{ site.url }}</link>
+<width>144</width>
+<height>96</height>
+</image>
+<itunes:category text="{{ site.podcast.category }}">
+<itunes:category text="{{ site.podcast.subcategory_one }}" />
+</itunes:category>
+<itunes:keywords>{{ site.podcast.keywords }}</itunes:keywords>
+{% strip %}
+{% for ep in site.tags.ege-podcast %}
+  <item>
+    <title>EGE {{ forloop.rindex | minus: 1 }}: {{ ep.podcast.title }}</title>
+    <link>{{ site.url }}{{ ep.url }}</link>
+    <comments>{{ site.url }}{{ ep.url }}#comments</comments>
+    <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
+    <dc:creator><![CDATA[{{ site.podcast.author | cdata_escape }}]]></dc:creator>
+    <description><![CDATA[{{ ep.excerpt | strip_html | remove_first: ep.podcast.title | lstrip | truncatewords: 50 | expand_urls: site.url | replace_regex:'^.*feeds.soundcloud.com.*','' | rstrip | cdata_escape }}]]></description>
+    <content:encoded><![CDATA[{{ ep.content | replace_regex:'<iframe.*\/iframe>','' | expand_urls: site.url | cdata_escape }}]]></content:encoded>
+    <enclosure url="{{ ep.podcast.link }}" length="{{ ep.podcast.length }}" type="audio/mpeg" />
+    <guid isPermaLink="false">{{ ep.podcast.link }}</guid>
+    <itunes:subtitle><![CDATA[{{ ep.excerpt | strip_html | remove_first: ep.podcast.title | lstrip | truncate: 255 | expand_urls: site.url | cdata_escape }}]]></itunes:subtitle>
+    <itunes:summary><![CDATA[{{ ep.content | strip_html | remove_first: ep.podcast.title | lstrip | replace_regex:'^Descarga del audio desde SoundCloud.*$','' | replace_regex:'^.*¶$','' | replace_regex:'^Licencia$','' | replace_regex:'El 100% de este podcast.*','' | replace_regex:' ?[-:]? \(?link[0-9]?,?\)?','' | replace:'&amp;','y' | replace:'&gt;',']' | replace:'&lt;','[' | truncate:4000 | cdata_escape }}]]></itunes:summary>
+    <itunes:author>{{ site.podcast.author }}</itunes:author>
+    <itunes:image href="{{ site.url }}{{ site.podcast.album_art }}" />
+    <itunes:explicit>{{ site.podcast.explicit }}</itunes:explicit>
+    <itunes:duration>{{ ep.podcast.duration }}</itunes:duration>
+  </item>
+{% endfor %}
+{% endstrip %}
+</channel>
+</rss>

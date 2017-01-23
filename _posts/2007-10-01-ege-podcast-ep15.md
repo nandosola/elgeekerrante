@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #15"
-date: 2007-10-01 13:37:42
+date: 2007-10-01 00:39:38 +0200
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "SGAE Fried Chicken"
+  link: "http://feeds.soundcloud.com/stream/303033360-geek_errante-ege-podcast-ep15.mp3"
+  duration: "01:03:30"
+  length: 45743899
 ---
 
-# SGAE Fried Chicken
+# {{ page.podcast.title }}
 Bienvenidos al Geek Errante. Hoy es 22 de Septiembre de 2007. Aprovechando que hoy se celebra el Hobbit Day, a continuación daremos la fecha en el calendario Ent:…
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033360&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Tal día como hoy
 - Nacen

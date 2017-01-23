@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #08"
-date: 2007-08-11 13:37:42
+date: 2007-08-11 08:15:36 +0200
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "Los Inmortales del Kernel: sólo puede quedar uno"
+  link: "http://feeds.soundcloud.com/stream/303033382-geek_errante-ege-podcast-ep08.mp3"
+  duration: "00:55:33"
+  length: 40007995
 ---
 
-# Los Inmortales del Kernel: sólo puede quedar uno
+# {{ page.podcast.title }}
 Bienvenidos al Geek Errante, hoy 2 de Agosto de 2007, aproximadamente 961.401.600 segundos antes del fin del mundo.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033382&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Cuaderno de bitácora
 Una vez disipados los efectos del consumo masivo de alcohol de la semana pasada, hemos hecho lo posible por detener el intempestivo avance de la nave provocado por la huída de HoloJorge del monstruo Cthulhu-Teletubby. Hemos activado accidentalmente el mecanismo de anulación inercial de la nave con lo cual hemos pasado de una velocidad estimada de R17 a cero en un par de milisegundos. Desgraciadamente el modo paranóico se ha reactivado de forma automática por lo que hemos tenido que volver a desactivar a Hemos logrado además determinar que estamos a unas tres cuartas partes del camino hacia el centro de una galaxia desconocida, en medio de un cluster de gigantes blancos, por lo que hemos decidido intentar broncearnos un poco en el Solarium del Geek Errante.

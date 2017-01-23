@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #39"
-date: 2008-07-01 13:37:42
+date: 2008-07-01 03:37:45 +0200
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "Las Guerras Olvidadas"
+  link: "http://feeds.soundcloud.com/stream/303033289-geek_errante-ege-podcast-ep39.mp3"
+  duration: "00:57:34"
+  length: 41464123
 ---
 
-# Las Guerras Olvidadas
+# {{ page.podcast.title }}
 Bienvenidos al episodio 39 del podcast del Geek Errante. Hoy es sábado 7 de junio de 2008, 30 de Bashans de 1724.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033289&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Show notes
 

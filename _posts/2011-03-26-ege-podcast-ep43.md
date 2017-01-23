@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #43"
-date: 2011-03-26 13:37:42
+date: 2011-03-26 21:02:46 +0100
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "Feel The Time, Share The Pain"
+  link: "http://feeds.soundcloud.com/stream/303047851-geek_errante-ege-podcast-ep43.mp3"
+  duration: "00:59:55"
+  length: 57534630
 ---
 
-# Feel The Time, Share The Pain
+# {{ page.podcast.title }}
 Bienvenidos al episodio 43 del podcast del Geek Errante, correspondiente a un momento indefinido del espacio-tiempo, en una dimensión desconocida compuesta de pequeños pasadizos, todos iguales.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303047851&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Show notes
 

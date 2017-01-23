@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #16"
-date: 2007-10-08 13:37:42
+date: 2007-10-08 18:33:20 +0200
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "iHorses On Rails"
+  link: "http://feeds.soundcloud.com/stream/303033353-geek_errante-ege-podcast-ep16.mp3"
+  duration: "01:01:59"
+  length: 44651628
 ---
 
-# iHorses On Rails
+# {{ page.podcast.title }}
 Bienvenidos al Podcast de El Geek Errante, hoy es 28 de Septiembre de 2007, o lo que es lo mismo, estamos en el día 18 del 8º mes del año Ding-Hai del septuagésimo-octavo ciclo, fecha del cumpleaños de Confucio.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033353&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Tal día como hoy:
 - Eventos

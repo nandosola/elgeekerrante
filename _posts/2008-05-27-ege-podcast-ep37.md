@@ -1,17 +1,25 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #37"
-date: 2008-05-27 13:37:42
+date: 2008-05-26 06:03:12 +0200
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "Algo Huele a Ácido Sulfhídrico en China"
+  link: "http://feeds.soundcloud.com/stream/303033294-geek_errante-ege-podcast-ep37.mp3"
+  duration: "01:05:34"
+  length: 47228391
 ---
 
-# Algo Huele a Ácido Sulfhídrico en China
+# {{ page.podcast.title }}
 Bienvenidos a la transmisión número 37 de El Geek Errante, grabada el sábado 24 de mayo de 2008 . Fecha irrelevante según el calendario Borg.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033294&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
-> Lo primero es pedir disculpas a nuestros oyentes por el largo paréntesis entre los dos último episodios. Sobre todo gracias a aquellos de vosotros que os habéis preocupado por enviarnos mails, comentarios o incluso escrito posts acerca de nuestra misteriosa desaparición. También queremos transmitir nuestra preocupación por los problemas de conectividad que hemos tenido entre nuestro servidor, sito en San Diego, California y la red de Telefónica-RIMA. Han sido subsanados, y esperamos que no hayan supuesto ningún contratiempo grave para nuestros seguidores.
+> Lo primero es pedir disculpas a nuestros oyentes por el largo paréntesis entre los dos último episodios. Sobre todo gracias a aquellos de vosotros que os habéis preocupado por enviarnos mails, comentarios o incluso escrito posts acerca de nuestra misteriosa desaparición. También queremos transmitir nuestra preocupación por los problemas de conectividad que hemos tenido entre nuestro servidor, sito en San Diego, California y la red de Telefónica-RIMA. Han sido subsanados, y esperamos que no hayan supuesto ningún contratiempo grave para nuestros seguidores.¶
 
 ¡Vamos pues con las show notes!
 

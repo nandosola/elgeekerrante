@@ -1,17 +1,26 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #05"
-date: 2007-07-22 13:37:42
+date: 2007-07-23 16:21:59 +0200
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "Cyborg Grids"
+  link: "http://feeds.soundcloud.com/stream/303033391-geek_errante-ege-podcast-ep05.mp3"
+  duration: "00:51:19"
+  length: 36958817
 ---
 
-# Cyborg Grids
+# {{ page.podcast.title }}
+Bienvenidos a este nuevo episodio de El Geek Errante.
 
 ## Cuaderno de bitácora
-Justo antes de que HoloJorge nos expulsara al vacío intererstelar desde la bodega de carga, el Doctor logró meter al paranoico holograma en un bucle recursivo al plantearle de manera inesperada un par de preguntas del test de Voigt-Kampff, asi que aprovechamos el bug para desactivar la nueva matriz de personalidad. De momento, MrSolo está intentando aplicar todos sus conocimientos para prevenir futuros altercados con hologramas paranoicos en nuestra computadora, mediante una rutina de protección que ante cualquier fallo de personalidad haga convertirse al ser holográfico en un cantante de vaudeville e interprete “hello my darling Hello my Bonnie” - dandonos tiempo así para escapar y retomar el control.
+Justo antes de que HoloJorge nos expulsara al vacío intererstelar desde la bodega de carga, el Doctor logró meter al paranoico holograma en un bucle recursivo al plantearle de manera inesperada un par de preguntas del test de Voigt-Kampff, asi que aprovechamos el bug para desactivar la nueva matriz de personalidad. De momento, MrSolo está intentando aplicar todos sus conocimientos para prevenir futuros altercados con hologramas paranoicos en nuestra computadora, mediante una rutina de protección que ante cualquier fallo de personalidad haga convertirse al ser holográfico en un cantante de vaudeville e interprete *“Hello my darling Hello my Bonnie”* - dandonos tiempo así para escapar y retomar el control.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033391&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Show notes
 

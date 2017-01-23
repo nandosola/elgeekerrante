@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #11"
-date: 2007-08-31 13:37:42
+date: 2007-08-31 00:52:37 +0200
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "Virtualidad Real"
+  link: "http://feeds.soundcloud.com/stream/303033368-geek_errante-ege-podcast-ep11.mp3"
+  duration: "00:56:52"
+  length: 40954984
 ---
 
-# Virtualidad Real
+# {{ page.podcast.title }}
 Bienvenidos al podcast del Geek Errante, en ésta su decimoprimera transmisión. Según nuestro servidor NTP hoy es 24 de agosto de 2007. Os recordamos que hace justo un año, Plutón dejó de ser un planeta.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033368&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Diario del Oficial Científico
 Llevamos una semana sin señales del Doctor. Esperemos que su estancia en el espacio fluídico llegue pronto a su fin - porque la verdad, me resultan bastante extrañas las costumbres de mi anfitrión. Cada 43 horas debe retornar a su enloquecedora y protoplásmica forma original durante un par de horas, tiempo en el que evito acercarme a su camarote para no formar parte de su aporte proteínico. Por lo demás, IKEA3 es una nave en la que no me siento cómodo, y en más de una ocasión he tenido que escapar de la familia de Aliens de la cubierta 17.

@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #12"
-date: 2007-09-07 13:37:42
+date: 2007-09-07 12:23:14 +0200
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "Tautología Estándar"
+  link: "http://feeds.soundcloud.com/stream/303033366-geek_errante-ege-podcast-ep12.mp3"
+  duration: "01:01:25"
+  length: 44233782
 ---
 
-# Tautología Estándar
+# {{ page.podcast.title }}
 Bienvenidos a la duodécima edición del podcast del Geek Errante - hoy es 31 de agosto de 2007 o lo que es lo mismo, 17 de Elul, del año 5767 de la Diáspora.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033366&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Diario de un HoloGrama
 Por fin puedo disponer de un momento para actualizarte. He sufrido alguna que otra aventura desde la huida del Teletubbi-Cthulhu que me han impedido aparecer antes.

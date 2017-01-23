@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #13"
-date: 2007-09-14 13:37:42
+date: 2007-09-14 09:41:38 +0200
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "NoPoPo - SiPiPi"
+  link: "http://feeds.soundcloud.com/stream/303033364-geek_errante-ege-podcast-ep13.mp3"
+  duration: "01:00:00"
+  length: 43215489
 ---
 
-#  NoPoPo - SiPiPi
+# {{ page.podcast.title }}
 Bienvenidos a la decimotercera edición del Podcast de El Geek Errante. Hoy es VII-IX-VII, el comienzo del año 9 de la Era Google según EPIC.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033364&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Tal día como hoy:
 - En 1914 nació James Van Allen, descubridor del cinturón que lleva su nombre

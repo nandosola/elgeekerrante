@@ -1,15 +1,23 @@
 ---
 layout: post
 title: "El Geek Errante: transmisión #41"
-date: 2008-10-03 13:37:42
+date: 2008-10-02 15:46:19 +0200
 tags:
  - ege-podcast
+categories:
+ - podcast
+podcast:
+  title: "Colada Antisocial"
+  link: "http://feeds.soundcloud.com/stream/303033281-geek_errante-ege-podcast-ep41.mp3"
+  duration: "00:52:48"
+  length: 38025028
 ---
 
-# Colada Antisocial
+# {{ page.podcast.title }}
 Bienvenidos al episodio del podcast del Geek Errante, grabado el 5 de Julio de 2008. 10 años después de día X de la Iglesia del Subgenius. Otro fin del mundo que no se ha cumplido – 10 años más para slackear.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033281&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+[Descarga del audio desde SoundCloud (mp3, {{ page.podcast.length | divided_by: 1048576.0 | round: 1 }}MB)]({{ page.podcast.link }})
 
 ## Show notes
 

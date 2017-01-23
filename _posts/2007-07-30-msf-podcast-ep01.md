@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "Mondo Sci-Fi: transmisión #01"
-date: 2007-07-30 13:37:42
+date: 2007-07-30 18:34:36 +0200
 tags:
  - msf-podcast
+categories:
+ - congelador
 ---
 
 Bienvenidos a Mondo Sci-Fi, el spin-off de El Geek Errante. En esta primera edición del 21 de Julio de 2007, queremos dar la importancia que merece a uno de nuestros temas favoritos: todo lo que tenga que ver con el mundo de la Ciencia Ficción, así que acomódense en sus butacas. La holosala se activará en breves momentos.

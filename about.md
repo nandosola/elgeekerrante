@@ -27,7 +27,7 @@ El ritmo vertiginoso de publicación de un episodio por semana y nuestro perfecc
 
 Todo ello siempre usando recursos 99,9% libres, sin publicidad de ningún tipo y artesanía en la edición. Nunca nos preocuparon audiencias ni números, sólo ofrecer calidad geek a raudales. Una prolongación de nuestra filosofía hacker.
 
-## *La Vida Real strikes back*™
+## *La Vida Real™ strikes back*
 Desde Junio de 2007 hasta finales de 2008 produjimos 41 episodios de ***EGE*** y 5 de **Mondo Sci-Fi**. Entre 2009 y 2011 únicamente 2 episodios de ***EGE*** fueron transmitidos al Planeta Tierra. Una vez mas, la horrísona *Vida Real*™ y diversas aventuras personales y empresariales de los tripulantes pusieron en hibernación forzada al podcast. Lo más triste es que creíamos que habíamos perdido todas las entradas con las *show-notes* cuando nuestro servidor web murió.
 
 ## Resurgimiento

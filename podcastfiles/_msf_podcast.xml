@@ -34,7 +34,7 @@ Agradecemos sus visitas y comentarios en nuestro blog: http://www.elgeekerrante.
 <itunes:keywords>series, cine, geek, spanish, español, ciencia, ficcion, comic</itunes:keywords>
 <itunes:author>{{ site.podcast.author }}</itunes:author>
 <itunes:explicit>{{ site.podcast.explicit }}</itunes:explicit>
-<itunes:image href="{{ site.url }}/images/msf_logo.jpg" />
+<itunes:image href="{{ site.url }}/images/msf_itunes_logo.jpg" />
 <itunes:owner>
 <itunes:name>{{ site.podcast.owner }}</itunes:name>
 <itunes:email>{{ site.podcast.email }}</itunes:email>
@@ -43,10 +43,10 @@ Agradecemos sus visitas y comentarios en nuestro blog: http://www.elgeekerrante.
 <itunes:subtitle>{{ site.podcast.subtitle }}</itunes:subtitle>
 <image>
 <title>Mondo Sci-Fi</title>
-<url>{{ site.url }}/images/msf_logo.jpg</url>
+<url>{{ site.url }}/images/msf_itunes_logo.jpg</url>
 <link>{{ site.url }}</link>
-<width>144</width>
-<height>202</height>
+<width>1476</width>
+<height>1476</height>
 </image>
 {% for ep in site.tags.msf-podcast %}
   <item>
@@ -62,7 +62,7 @@ Agradecemos sus visitas y comentarios en nuestro blog: http://www.elgeekerrante.
     <itunes:subtitle><![CDATA[{{ ep.excerpt | strip_html | remove_first: ep.podcast.title | lstrip | truncate: 255 | expand_urls: site.url | cdata_escape }}]]></itunes:subtitle>
     <itunes:summary><![CDATA[{{ ep.content | strip_html | remove_first: ep.podcast.title | lstrip | replace_regex:'^.*Descarga del audio.*$','' | replace_regex:'^.*¶$','' | replace_regex:'^Licencia$','' | replace_regex:'El 100% de este podcast.*','' | replace_regex:' ?[-:]? \(?link[0-9]?,?\)?','' | replace:'&amp;','y' | replace:'&gt;',']' | replace:'&lt;','[' | truncate:4000 | cdata_escape }}]]></itunes:summary>
     <itunes:author>{{ site.podcast.author }}</itunes:author>
-    <itunes:image href="{{ site.url }}/images/msf_logo.jpg" />
+    <itunes:image href="{{ site.url }}/images/msf_itunes_logo.jpg" />
     <itunes:explicit>{{ site.podcast.explicit }}</itunes:explicit>
     <itunes:duration>{{ ep.podcast.duration }}</itunes:duration>
   </item>

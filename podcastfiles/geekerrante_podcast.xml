@@ -15,11 +15,11 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 <description>Bienvenidos a bordo del Geek Errante. Nuestra misión en cada episodio es llevar a ustedes, geeks y frikis de habla hispana, los comentarios técnicos más profundos, las noticias tecnológicas más interesantes, las opiniones más políticamente incorrectas y por qué no, un toque de humor geek. Cada semana El Doctor, Mr. Solo, HoloJorge y FuTuR3 llevarán a sus reproductores de MP3, a través de su transmisor subespacial, el contenido más geek de la podosfera en español. Esperamos que este viaje sea de su agrado.</description>
 <category  domain="Tech%20News">Technology</category>
 <copyright>Creative Commons Attribution-NonCommercial-NoDerivs 2.5 Spain</copyright>
-<lastBuildDate>Mon, 23 Jan 2017 11:55:50 +0100</lastBuildDate>
-<pubDate>Mon, 23 Jan 2017 11:55:50 +0100</pubDate>
+<lastBuildDate>Mon, 23 Jan 2017 21:24:31 +0100</lastBuildDate>
+<pubDate>Mon, 23 Jan 2017 21:24:31 +0100</pubDate>
 <language>es</language>
-<sy:updateBase>2017-01-23T11:55+0100</sy:updateBase>
-<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateBase>2017-01-23T21:24+0100</sy:updateBase>
+<sy:updatePeriod>monthly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com</generator>
 <itunes:summary>Bienvenidos a bordo del Geek Errante. Nuestra misión en cada episodio es llevar a ustedes, geeks y frikis de habla hispana, los comentarios técnicos más profundos, las noticias tecnológicas más interesantes, las opiniones más políticamente incorrectas y por qué no, un toque de humor geek. Cada semana El Doctor, Mr. Solo, HoloJorge y FuTuR3 llevarán a sus reproductores de MP3, a través de su transmisor subespacial, el contenido más geek de la podosfera en español. Esperamos que este viaje sea de su agrado.</itunes:summary>
@@ -36,8 +36,8 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 <title>El Geek Errante</title>
 <url>http://elgeekerrante.com/images/ege_itunes_logo.jpg</url>
 <link>http://elgeekerrante.com</link>
-<width>144</width>
-<height>96</height>
+<width>1400</width>
+<height>1400</height>
 </image>
 <itunes:category text="Technology">
 <itunes:category text="Tech News" />

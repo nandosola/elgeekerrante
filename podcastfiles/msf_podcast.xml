@@ -16,10 +16,10 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 <category>TV &amp; Film</category>
 <copyright>CC License 2.5 Spain (by-nc-sa)</copyright>
 <language>es</language>
-<lastBuildDate>Mon, 23 Jan 2017 19:20:42 +0100</lastBuildDate>
-<pubDate>Mon, 23 Jan 2017 19:20:42 +0100</pubDate>
+<lastBuildDate>Mon, 23 Jan 2017 21:24:31 +0100</lastBuildDate>
+<pubDate>Mon, 23 Jan 2017 21:24:31 +0100</pubDate>
 <generator>http://jekyllrb.com</generator>
-<sy:updateBase>2017-01-23T19:20+0100</sy:updateBase>
+<sy:updateBase>2017-01-23T21:24+0100</sy:updateBase>
 <sy:updatePeriod>yearly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <itunes:block>yes</itunes:block>
@@ -31,7 +31,7 @@ Agradecemos sus visitas y comentarios en nuestro blog: http://www.elgeekerrante.
 <itunes:keywords>series, cine, geek, spanish, español, ciencia, ficcion, comic</itunes:keywords>
 <itunes:author>La tripulación de El Geek Errante</itunes:author>
 <itunes:explicit>no</itunes:explicit>
-<itunes:image href="http://elgeekerrante.com/images/msf_logo.jpg" />
+<itunes:image href="http://elgeekerrante.com/images/msf_itunes_logo.jpg" />
 <itunes:owner>
 <itunes:name>The Crew</itunes:name>
 <itunes:email>podcast@elgeekerrante.com</itunes:email>
@@ -40,10 +40,10 @@ Agradecemos sus visitas y comentarios en nuestro blog: http://www.elgeekerrante.
 <itunes:subtitle>Perdidos en el Multiverso</itunes:subtitle>
 <image>
 <title>Mondo Sci-Fi</title>
-<url>http://elgeekerrante.com/images/msf_logo.jpg</url>
+<url>http://elgeekerrante.com/images/msf_itunes_logo.jpg</url>
 <link>http://elgeekerrante.com</link>
-<width>144</width>
-<height>202</height>
+<width>1476</width>
+<height>1476</height>
 </image>
 
   <item>
@@ -241,7 +241,7 @@ Recomendaciones
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/msf_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/msf_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:38:34</itunes:duration>
   </item>
@@ -425,7 +425,7 @@ Recomendaciones:
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/msf_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/msf_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:38:34</itunes:duration>
   </item>
@@ -571,7 +571,7 @@ Recomendaciones
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/msf_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/msf_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:37:06</itunes:duration>
   </item>
@@ -694,7 +694,7 @@ Spoilers
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/msf_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/msf_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:31:00</itunes:duration>
   </item>
@@ -814,7 +814,7 @@ Spoilers
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>
-    <itunes:image href="http://elgeekerrante.com/images/msf_logo.jpg" />
+    <itunes:image href="http://elgeekerrante.com/images/msf_itunes_logo.jpg" />
     <itunes:explicit>no</itunes:explicit>
     <itunes:duration>00:24:41</itunes:duration>
   </item>

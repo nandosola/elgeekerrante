@@ -39,8 +39,8 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 <title>{{ site.podcast.title }}</title>
 <url>{{ site.url }}{{ site.podcast.album_art }}</url>
 <link>{{ site.url }}</link>
-<width>144</width>
-<height>96</height>
+<width>1400</width>
+<height>1400</height>
 </image>
 <itunes:category text="{{ site.podcast.category }}">
 <itunes:category text="{{ site.podcast.subcategory_one }}" />

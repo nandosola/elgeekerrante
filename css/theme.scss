@@ -247,7 +247,7 @@ nav.navbar {
   transition: all 0.7s ease;
 }
 nav.navbar.shrink {
-  min-height: 15px;
+  min-height: 20px;
 }
 .navbar-brand {
   font-size: 40px;
@@ -255,9 +255,9 @@ nav.navbar.shrink {
 
 }
 nav.shrink a {
-  padding-top: 10px !important;
-  padding-bottom: 10px !important;
-  font-size: 15px;
+  padding-top: 20px !important;
+  padding-bottom: 20px !important;
+  font-size: 20px;
 }
 nav.shrink .navbar-brand {
   font-size: 25px;

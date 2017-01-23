@@ -70,7 +70,6 @@ kramdown:
   hard_wrap: true
 
 gems:
-  - jekyll-feed
   - jekyll-sitemap
 
 exclude:

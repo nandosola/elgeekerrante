@@ -1,4 +1,12 @@
 <div class="sidebar ">
+  <h3>Feeds</h3>
+  <ul class="sideBarFeeds">
+    <li><a href="{{ site.baseUrl }}/podcastfiles/geekerrante_podcast.xml">Podcast de El Geek Errante</a></li>
+    <li><a href="{{ site.baseUrl }}/feed.xml">Entradas de la Bitácora</a></li>
+  </ul>
+</div>
+
+<div class="sidebar ">
   <h3>Entradas recientes</h3>
   <ul>
     {% for post in site.posts limit:5 %}

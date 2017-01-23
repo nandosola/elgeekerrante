@@ -46,7 +46,6 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 <itunes:category text="{{ site.podcast.subcategory_one }}" />
 </itunes:category>
 <itunes:keywords>{{ site.podcast.keywords }}</itunes:keywords>
-{% strip %}
 {% for ep in site.tags.ege-podcast %}
   <item>
     <title>EGE {{ forloop.rindex | minus: 1 }}: {{ ep.podcast.title }}</title>
@@ -66,6 +65,5 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
     <itunes:duration>{{ ep.podcast.duration }}</itunes:duration>
   </item>
 {% endfor %}
-{% endstrip %}
 </channel>
 </rss>

@@ -54,7 +54,7 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
     <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
     <dc:creator><![CDATA[{{ site.podcast.author | cdata_escape }}]]></dc:creator>
     <description><![CDATA[{{ ep.excerpt | strip_html | remove_first: ep.podcast.title | lstrip | truncatewords: 50 | expand_urls: site.url | replace_regex:'^.*feeds.soundcloud.com.*','' | rstrip | cdata_escape }}]]></description>
-    <content:encoded><![CDATA[{{ ep.content | replace_regex:'<iframe.*\/iframe>','' | expand_urls: site.url | cdata_escape }}]]></content:encoded>
+    <content:encoded><![CDATA[{{ ep.content | replace_regex:'<iframe.*\/iframe>','' | replace_regex:'^.*Descarga del audio desde SoundCloud.*$','' | expand_urls: site.url | cdata_escape }}]]></content:encoded>
     <enclosure url="{{ ep.podcast.link }}" length="{{ ep.podcast.length }}" type="audio/mpeg" />
     <guid isPermaLink="false">{{ ep.podcast.link }}</guid>
     <itunes:subtitle><![CDATA[{{ ep.excerpt | strip_html | remove_first: ep.podcast.title | lstrip | truncate: 255 | expand_urls: site.url | cdata_escape }}]]></itunes:subtitle>

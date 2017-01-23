@@ -1,22 +1,989 @@
----
-layout: null
----
-
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>{{ site.name }}</title>
-		<description>{{ site.description }}</description>
-		<link>{{site.baseurl | prepend:site.url}}</link>
-		<atom:link href="{{site.baseurl | prepend:site.url}}/feed.xml" rel="self" type="application/rss+xml" />
-		{% for post in site.posts limit:10 %}
+		<title>Cuaderno de bitácora</title>
+		<description>Life's a maze of twisty little passages, all alike</description>
+		<link>http://elgeekerrante.com</link>
+		<atom:link href="http://elgeekerrante.com/feed.xml" rel="self" type="application/rss+xml" />
+		
 			<item>
-				<title>{{ post.title }}</title>
-                                <description>{{ post.content | replace_regex:'.*api\.soundcloud\.com.*','' | xml_escape }}</description>
-				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-				<link>{{post.url | prepend:site.baseurl | prepend:site.url}}</link>
-				<guid isPermaLink="true">{{post.url | prepend:site.baseurl | prepend:site.url}}</guid>
+				<title>El Geek Errante: transmisión #43</title>
+                                <description>&lt;h1 id=&quot;feel-the-time-share-the-pain&quot;&gt;Feel The Time, Share The Pain&lt;/h1&gt;
+&lt;p&gt;Bienvenidos al episodio 43 del podcast del Geek Errante, correspondiente a un momento indefinido del espacio-tiempo, en una dimensión desconocida compuesta de pequeños pasadizos, todos iguales.&lt;/p&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303047851-geek_errante-ege-podcast-ep43.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 54.9MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
+
+&lt;h3 id=&quot;tal-unidad-de-tiempo-como-hoy&quot;&gt;Tal unidad de tiempo como hoy&lt;/h3&gt;
+
+&lt;h5 id=&quot;hace-32-años&quot;&gt;Hace 32 años…&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Febrero del 78: Nace el primer Bulleting Board System (&lt;a href=&quot;https://en.wikipedia.org/wiki/CBBS&quot;&gt;CBBS&lt;/a&gt;) en Chicago.&lt;/li&gt;
+  &lt;li&gt;Mayo del 78: Se envía el primer “Unsolicited Bulk Email” &lt;a href=&quot;http://email-museum.com/2011/10/06/first-spam-was-in-1978/&quot;&gt;el primer Spam&lt;/a&gt;, Spam, Spam…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;y-hace-16-años&quot;&gt;Y hace 16 años&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Octubre del 98: &lt;a href=&quot;http://www-archive.mozilla.org/roadmap/roadmap-26-Oct-1998.html&quot;&gt;Nace Mozilla&lt;/a&gt;, padre de Firefox.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;cuaderno-de-bitácora&quot;&gt;Cuaderno de bitácora&lt;/h3&gt;
+&lt;p&gt;El piloto de la federación nombre en clave Marmitako encuentra una nave abandonada en el espacio.  Dispuesto a venderla como chatarra, la aborda, sin saber que la nave no es otra que “El Geek Errante”, la nave maldita. Qué peligros afrontará el valiente piloto?&lt;/p&gt;
+
+&lt;h3 id=&quot;noticia-de-entrada&quot;&gt;Noticia de entrada&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Encuentran la &lt;a href=&quot;http://www.livescience.com/8221-hangover-molecule-brain.html&quot;&gt;molécula de la resaca&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;miscelánea&quot;&gt;Miscelánea&lt;/h3&gt;
+
+&lt;h5 id=&quot;quickies&quot;&gt;Quickies&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;¿&lt;a href=&quot;https://hipertextual.com/archivo/2009/11/como-se-le-cambian-37376-procesadores-al-superordenador-mas-rapido-del-mundo/&quot;&gt;Cómo se le cambian 37.376 procesadores&lt;/a&gt; al superordenador más rápido del mundo?&lt;/li&gt;
+  &lt;li&gt;Desarrollador: &lt;a href=&quot;http://www.eweek.com/careers/madoff-developers-be-careful-who-you-code-for.html&quot;&gt;cuidado para quién trabajas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;FatELF: &lt;a href=&quot;http://softlibre.barrapunto.com/article.pl?sid=09/10/25/0722230&amp;amp;from=rss&quot;&gt;binarios universales para Linux&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;2010: &lt;a href=&quot;https://developers.slashdot.org/story/09/11/22/1423221/The-State-of-Ruby-VMs-mdash-Ruby-Renaissance&quot;&gt;el año de las VMs de Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;developers--unix&quot;&gt;Developers &amp;amp; UNIX&lt;/h3&gt;
+
+&lt;h5 id=&quot;entrevista-a-el-mago-parte-i&quot;&gt;Entrevista a “El Mago”, parte I&lt;/h5&gt;
+&lt;p&gt;The Doctor entrevista a Gerardo Horvilleur, &lt;a href=&quot;http://www.simplej.com/&quot;&gt;EL MAGO&lt;/a&gt;, quien lleva más tiempo en esto de la informática del que nadie sea capaz de datar.&lt;/p&gt;
+
+&lt;p&gt;En esta ocasión, os introduciremos al mundo del sabor más nuevo de Lisp: &lt;a href=&quot;https://clojure.org/&quot;&gt;Clojure&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Debido a la longitud de la entrevista, se ha dividido en dos partes que serán incluídas en éste y en un próximo episodio.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;sci-fi-to-sci-fact&quot;&gt;Sci-fi to Sci-fact&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://idle.slashdot.org/story/09/11/16/189255/Become-Your-Own-Heir-After-Being-Frozen&quot;&gt;Conviértete en tu propio heredero tras ser congelado&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Sat, 26 Mar 2011 21:02:46 +0100</pubDate>
+				<link>http://elgeekerrante.com/ege-podcast-ep43</link>
+				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep43</guid>
 			</item>
-		{% endfor %}
+		
+			<item>
+				<title>El Geek Errante: transmisión #42</title>
+                                <description>&lt;h1 id=&quot;geeks-go-host&quot;&gt;Geeks Go Host!&lt;/h1&gt;
+&lt;p&gt;Bienvenidos al episodio 42 del podcast del Geek Errante, correspondiente al mes de Noviembre de 2009. Mes cero del año cero de la segunda venida.&lt;/p&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033277-geek_errante-ege-podcast-ep42.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 49.5MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
+
+&lt;h3 id=&quot;tal-noviembre-como-éste&quot;&gt;Tal Noviembre como éste&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;1814 – en Londres, el periódico The Times se convierte en &lt;a href=&quot;http://www.thebookofdays.com/months/nov/29.htm#THE%20FIRST%20NEWSPAPER%20PRINTED%20BY%20STEAM&quot;&gt;el primero del mundo&lt;/a&gt; en imprimirse con una máquina de vapor.&lt;/li&gt;
+  &lt;li&gt;1954 – &lt;a href=&quot;https://en.wikipedia.org/wiki/Sylacauga_(meteorite)&quot;&gt;Un meteorito&lt;/a&gt; de 3,8 kg atraviesa el techo, destruye una radio en la sala de estar, rebota y golpea a la señora Elizabeth Hodges en el vientre.&lt;/li&gt;
+  &lt;li&gt;1957 – la URSS lanza al espacio el segundo satélite que lleva a bordo un ser vivo, el &lt;a href=&quot;https://es.wikipedia.org/wiki/Sputnik_2&quot;&gt;Sputnik II&lt;/a&gt;, con la perra Laika.&lt;/li&gt;
+  &lt;li&gt;1964 – Se lanza la sonda norteamericana &lt;a href=&quot;https://es.wikipedia.org/wiki/Mariner_4&quot;&gt;Mariner 4&lt;/a&gt;, la primera sonda en orbitar alrededor de Marte.&lt;/li&gt;
+  &lt;li&gt;1965 – Lanzamiento de la sonda espacial soviética &lt;a href=&quot;http://es.wikipedia.org/wiki/Venera_3&quot;&gt;Venera 3&lt;/a&gt; a Venus.&lt;/li&gt;
+  &lt;li&gt;1969 – Se establece el &lt;a href=&quot;http://es.wikipedia.org/wiki/ARPANET#Primer_despliegue&quot;&gt;primer enlace de ARPANET&lt;/a&gt;, antecesora de la red internet, realizada entre la UCLA y la Universidad de Stanford.&lt;/li&gt;
+  &lt;li&gt;1971 – Intel presenta el primer microprocesador de chip, el &lt;a href=&quot;http://es.wikipedia.org/wiki/Intel_4004&quot;&gt;4004&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;1974 – España pone en órbita el &lt;a href=&quot;http://es.wikipedia.org/wiki/Intasat&quot;&gt;INTASAT&lt;/a&gt;, su primer satélite artificial.&lt;/li&gt;
+  &lt;li&gt;1974 – Se envía el &lt;a href=&quot;http://es.wikipedia.org/wiki/Mensaje_de_Arecibo&quot;&gt;Mensaje de Arecibo&lt;/a&gt; hacia el espacio exterior, desde el Radiotelescopio de Arecibo.&lt;/li&gt;
+  &lt;li&gt;1979 – &lt;a href=&quot;http://es.wikipedia.org/wiki/Historia_de_las_armas_nucleares#El_incidente_de_la_cinta_equivocada_.28Estados_Unidos.29&quot;&gt;Incidente de la Cinta Equivocada&lt;/a&gt;: un error humano pone a Estados Unidos en prealerta general para la guerra termonuclear.&lt;/li&gt;
+  &lt;li&gt;1988 – desde el MIT se lanza el &lt;a href=&quot;http://es.wikipedia.org/wiki/Gusano_Morris&quot;&gt;Morris Worm&lt;/a&gt;, el primer gusano de internet.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;cuaderno-de-bitácora&quot;&gt;Cuaderno de bitácora&lt;/h3&gt;
+&lt;p&gt;Mr. Solo y el Doctor han pasado un año convertidos en Materia Oscura, tras un accidente con el transportador durante la evacuación de Eroticón-6. El planeta fue reducido a nanopartículas por un bombardeo orbital de la flota de Lesbos-5, orden directa de la pérfida Emperatriz.&lt;/p&gt;
+
+&lt;p&gt;Después de todo este espaciotiempo lejos del Multiverso Bariónico, HoloJorge logra traerlos de vuelta para poder grabar un nuevo podcast.&lt;/p&gt;
+
+&lt;h3 id=&quot;rincón-del-oyente&quot;&gt;Rincón del oyente&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;En este nuevo episodio damos la bienvenida a todos los oyentes al programa, tanto los viejos conocidos como a los nuevos.&lt;/li&gt;
+  &lt;li&gt;Seguidnos en Twitter: geek_errante&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Google Wave de El Geek Errante: geek errante with: public&lt;/del&gt; (D.E.P)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;noticia-de-entrada&quot;&gt;Noticia de entrada&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Apocalipsis 2012
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.astrosociety.org/education/astronomy-resource-guides/astronomical-pseudo-science-a-skeptics-resource-list/&quot;&gt;Astronomy Beat 10/2009&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://astrobiology.nasa.gov/ask-an-astrobiologist/&quot;&gt;Ask an astrobiologist&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;miscelánea&quot;&gt;Miscelánea&lt;/h3&gt;
+
+&lt;h5 id=&quot;quickies&quot;&gt;Quickies&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.pcworld.idg.com.au/article/316004/opposite_twitter_new_site_requires_1_400-character_minimum/&quot;&gt;Woofer&lt;/a&gt;: ¿What’s happening (verbosely)?&lt;/li&gt;
+  &lt;li&gt;Xerox anuncia la tinta metálica: hacia la electrónica imprimible (&lt;a href=&quot;https://www.engadget.com/2009/10/29/xerox-announces-silver-ink-keeps-printable-electronics-dream-al/&quot;&gt;link1&lt;/a&gt;, &lt;a href=&quot;https://www.engadget.com/2006/03/21/scientists-synthesize-plastic-suitable-for-printing-electronics/&quot;&gt;link2&lt;/a&gt;, &lt;a href=&quot;http://iopscience.iop.org/article/10.1088/0957-4484/20/37/375203/meta;jsessionid=BE92B1AF2F8749227AD245A68DCCD869.ip-10-40-1-105&quot;&gt;link3&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;El uso de cifrado de alto nivel salva a un &lt;a href=&quot;http://www.couriermail.com.au/news/queensland/rohan-james-wyllies-appeal-for-breach-of-privacy-conviction-and-sentence-dismissed/news-story/9aab1a668d00b4d3a95be4281bf5ee25?sv=8bca2dfccaa402af397dc484ab553c32&quot;&gt;presunto delincuente&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;entrevista-a-urtzi-larreta-entusiasta-del-mainframe&quot;&gt;Entrevista a Urtzi Larreta, entusiasta del Mainframe&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.euskalencounter.org/euskal16/es/actividades/otras/mainframes.php&quot;&gt;Mainframes en la 16º Euskal Encounter&lt;/a&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://web.archive.org/web/20120305134607/http://www.yggdrasil.tv/?p=101&quot;&gt;Entrada en el blog de Urtzi&lt;/a&gt; correspondiente a la 16º Euskal.&lt;/li&gt;
+      &lt;li&gt;En 2009, también hemos tenido Mainframes: &lt;a href=&quot;http://www.euskalencounter.org/euskal16/es/actividades/otras/mainframes.php&quot;&gt;17º Euskal&lt;/a&gt;, &lt;a href=&quot;http://web.archive.org/web/20120305134607/http://www.yggdrasil.tv/?p=101&quot;&gt;blog de Urtzi&lt;/a&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Más información: &lt;a href=&quot;http://www.publico.es/ciencias/gigante-informatica.html&quot;&gt;publico.es&lt;/a&gt;, &lt;a href=&quot;http://conferencias.euskadigital.net/?p=67&quot;&gt;Euskadi Digital&lt;/a&gt; (podcast).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;developers-y-unix&quot;&gt;Developers y UNIX&lt;/h3&gt;
+
+&lt;h5 id=&quot;quickies-1&quot;&gt;Quickies&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Voto electrónico: Brasil &lt;a href=&quot;https://hardware.slashdot.org/story/09/10/31/0120223/Contest-To-Hack-Brazilian-Voting-Machines&quot;&gt;convoca un concurso&lt;/a&gt; para hackear sus sistemas de e-voting.&lt;/li&gt;
+  &lt;li&gt;Voto electrónico: &lt;a href=&quot;https://www.wired.com/2009/10/open-source&quot;&gt;iniciativas Open Source&lt;/a&gt; basadas en Linux y Ruby On Rails.&lt;/li&gt;
+  &lt;li&gt;Con Kolivas &lt;a href=&quot;https://linux.slashdot.org/story/09/09/06/0433209/con-kolivas-returns-with-a-desktop-oriented-linux-scheduler&quot;&gt;ha vuelto&lt;/a&gt;, con un &lt;a href=&quot;https://en.wikipedia.org/wiki/Brain_Fuck_Scheduler&quot;&gt;scheduler&lt;/a&gt; orientado al desktop. (&lt;a href=&quot;https://groups.google.com/forum/#!topic/linux.kernel/_kwnUUAgrdc%5B1-25%5D&quot;&gt;Thread original en linux.kernel&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;noticias&quot;&gt;Noticias&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Rob Pike presenta Google Go: un nuevo lenguaje orientado a sistemas.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://golang.org/&quot;&gt;golang.org&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=rKnDgT73v8s&quot;&gt;Tech Talk (youtube)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Go!_(programming_language)&quot;&gt;Go!&lt;/a&gt; (con exclamación)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sci-fi-to-sci-fact&quot;&gt;Sci-Fi to Sci-Fact&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/wikireader/wikireader&quot;&gt;WikiReader&lt;/a&gt;: hacia &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy&quot;&gt;THHGTTG&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Tue, 01 Dec 2009 21:54:55 +0100</pubDate>
+				<link>http://elgeekerrante.com/ege-podcast-ep42</link>
+				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep42</guid>
+			</item>
+		
+			<item>
+				<title>El Geek Errante: transmisión #41</title>
+                                <description>&lt;h1 id=&quot;colada-antisocial&quot;&gt;Colada Antisocial&lt;/h1&gt;
+&lt;p&gt;Bienvenidos al episodio del podcast del Geek Errante, grabado el 5 de Julio de 2008. 10 años después de día X de la Iglesia del Subgenius. Otro fin del mundo que no se ha cumplido – 10 años más para slackear.&lt;/p&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033281-geek_errante-ege-podcast-ep41.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 36.3MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
+
+&lt;h3 id=&quot;tal-día-como-hoy&quot;&gt;Tal día como hoy&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;1687 – Isaac Newton publica &lt;a href=&quot;https://plato.stanford.edu/entries/newton-principia/&quot;&gt;Philosophiæ Naturalis Principia Mathematica&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;1937 – Spam, &lt;a href=&quot;http://www.spam.com/varieties/spam-classic&quot;&gt;el rico fiambre enlatado&lt;/a&gt;, es introducido en el mercado por Hormel Foods Corporation.&lt;/li&gt;
+  &lt;li&gt;1946 – El &lt;a href=&quot;https://en.wikipedia.org/wiki/History_of_the_bikini&quot;&gt;bikini&lt;/a&gt; se presenta en París.&lt;/li&gt;
+  &lt;li&gt;1951 – William Shockley inventa el &lt;a href=&quot;https://en.wikipedia.org/wiki/Bipolar_junction_transistor&quot;&gt;transistor BJT&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;1954 – La BBC retransmite &lt;a href=&quot;http://news.bbc.co.uk/onthisday/hi/dates/stories/july/5/newsid_3856000/3856397.stm&quot;&gt;el primer boletín informativo&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;1996 – Nace &lt;a href=&quot;https://en.wikipedia.org/wiki/Dolly_(sheep)&quot;&gt;la oveja Dolly&lt;/a&gt;, el primer mamífero clonado de una célula adulta.&lt;/li&gt;
+  &lt;li&gt;1998 – Japón lanza una &lt;a href=&quot;https://en.wikipedia.org/wiki/Nozomi_(spacecraft)&quot;&gt;sonda a Marte&lt;/a&gt;, uniéndose a USA y Rusia en el club de las naciones exploradoras del espacio.&lt;/li&gt;
+  &lt;li&gt;1810 – Nace &lt;a href=&quot;https://en.wikipedia.org/wiki/P._T._Barnum&quot;&gt;P.T. Barnum&lt;/a&gt;, propietario del Circo Barnum – hogar de Buffalo Bill, Calamity Jane y los freaks más famosos.&lt;/li&gt;
+  &lt;li&gt;1820 – Nace &lt;a href=&quot;https://en.wikipedia.org/wiki/William_John_Macquorn_Rankine&quot;&gt;William JM Rankine&lt;/a&gt;, ingeniero y físico escocés. Desarrolló la teoría completa del motor de vapor y de todos los motores basados en calor.&lt;/li&gt;
+  &lt;li&gt;1833 – Muere &lt;a href=&quot;https://en.wikipedia.org/wiki/Nic%C3%A9phore_Ni%C3%A9pce&quot;&gt;Nicéphore Niépce&lt;/a&gt; (n. 1765). Inventor del velocípedo, del primer motor de combustión interna y de la fotografía.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;cuaderno-de-bitácora&quot;&gt;Cuaderno de bitácora&lt;/h3&gt;
+&lt;p&gt;Como recordarán, la semana pasada nos encontrábamos en el club de Eccentrica Gallumbits en Erotikón 6. Pues bien, seguimos sin movernos de aquí. Las chicas son hermosas, la cerveza romulana y los Jynnan Tonnyx fluyen como el agua y nuestros cuerpos y espíritus se rehúsan a dejar este sitio. Hemos estado a punto de dejar pasar esta semana sin emitir, pero Mr. Solo me ha recordado que hay gente en el multiverso cuya cordura depende de la transmisión oportuna de este podcast. Además, como estamos transmitiendo desde el futuro mediante un transmisor taquiónico, es indispensable que nuestras transmisiones se emitan en los momentos precisos, ya que de lo contrario nos arriesgamos a crear una paradoja temporal que podría abrir el tejido mismo del multiverso…&lt;/p&gt;
+
+&lt;h3 id=&quot;rincón-del-oyente&quot;&gt;Rincón del oyente&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Estamos nominados al &lt;a href=&quot;http://web.archive.org/web/20081006015330/http://www.european-podcast-award.eu/es/start.html&quot;&gt;European Podcast Award 2008&lt;/a&gt; ¡Votadnos!&lt;/li&gt;
+  &lt;li&gt;Concurso primer aniversario: cuéntanos tu experiencia más horrible relacionada con la tecnología.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tripulante-invitado&quot;&gt;Tripulante invitado&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://luy.orcasitas.com/&quot;&gt;LuY&lt;/a&gt; nos relata su experiencia con el lado más pragmático de la electrónica doméstica.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;miscelánea&quot;&gt;Miscelánea&lt;/h3&gt;
+
+&lt;h5 id=&quot;quickies&quot;&gt;Quickies&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Las descargas de bittorrent deciden lo que se ve en la MTV.&lt;/li&gt;
+  &lt;li&gt;Se despierta al &lt;a href=&quot;http://pinktentacle.com/2008/04/80-year-old-gakutensoku-robot-revived-wvideo/&quot;&gt;robot moderno más antiguo de Asia&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;rant&quot;&gt;Rant&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Expansión de dominios DNS: ¿la privatización de Internet?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;developers-y-unix&quot;&gt;Developers y UNIX&lt;/h3&gt;
+
+&lt;h5 id=&quot;quickies-1&quot;&gt;Quickies&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Se desvelan los planes para el &lt;a href=&quot;http://dl.acm.org/citation.cfm?id=1529966&quot;&gt;50 aniversario de Lisp&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.functionaljava.org/&quot;&gt;Functional Java&lt;/a&gt;: biblioteca para hacer programación funcional en Java.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;noticias&quot;&gt;Noticias&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Escalabilidad en la Weboscero. Estudio de dos casos: twitter y linkedin.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sci-fi-to-sci-fact&quot;&gt;Sci-Fi to Sci-Fact&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.engadget.com/2008/04/24/darpa-turns-arthur-c-clarkes-stiletto-into-mahem/&quot;&gt;MAHEM&lt;/a&gt;: El Stiletto de Clarke se hace realidad.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Thu, 02 Oct 2008 15:46:19 +0200</pubDate>
+				<link>http://elgeekerrante.com/ege-podcast-ep41</link>
+				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep41</guid>
+			</item>
+		
+			<item>
+				<title>El Geek Errante: transmisión #40</title>
+                                <description>&lt;h1 id=&quot;de-8-a-64-en-30-minutos&quot;&gt;De 8 a 64 en 30 minutos&lt;/h1&gt;
+&lt;p&gt;Bienvenidos al episodio XL del podcast del Geek Errante. Hoy es 27 de Julio de 2008, día número 54644 de acuerdo con VMS. Faltan 10085 días para el Armagedón NTP.&lt;/p&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033284-geek_errante-ege-podcast-ep40.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 38.9MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
+
+&lt;h3 id=&quot;tal-día-como-hoy&quot;&gt;Tal día como hoy&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;1967 - La compañía de moneda y timbre De La Rue instala &lt;a href=&quot;http://www.bbc.co.uk/london/content/articles/2007/06/26/cash_machine_feature.shtml&quot;&gt;el primer cajero automático&lt;/a&gt; electrónico en Enfield, Gran Bretaña&lt;/li&gt;
+  &lt;li&gt;2005 - AMD presenta una &lt;a href=&quot;https://en.wikipedia.org/wiki/Advanced_Micro_Devices,_Inc._v._Intel_Corp.&quot;&gt;demanda federal anti-monopolio&lt;/a&gt; contra Intel Corporation.&lt;/li&gt;
+  &lt;li&gt;2008 - Se hace efectiva la &lt;a href=&quot;http://www.businessinsider.com/bill-gates-2014-2&quot;&gt;renuncia de William Henry Gates III&lt;/a&gt; como presidente y CEO de la compañía Microsoft.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;cuaderno-de-bitácora&quot;&gt;Cuaderno de bitácora&lt;/h3&gt;
+&lt;p&gt;La tripulación está de licencia en los jardines del club de Eccentrica Gallumbits.&lt;/p&gt;
+
+&lt;h3 id=&quot;rincón-del-oyente&quot;&gt;Rincón del oyente&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Estamos nominados al European Podcast Award 2008 ¡Votadnos!&lt;/li&gt;
+  &lt;li&gt;El 15 de junio se cumplió nuesto 1er aniversario según el calendario de Sol-3. Agradecemos a nuestros acólitos Leonardo Hernández y Stormbringer sus felicitaciones. La celebración oficial será, como debe ser, en el Episodio 42.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;noticia-de-entrada&quot;&gt;Noticia de entrada&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;La Iglesia de La Realidad &lt;a href=&quot;http://www.dvorak.org/blog/2008/06/12/church-of-reality-calls-on-atheists-to-give-up-on-god/&quot;&gt;invita&lt;/a&gt; a lo ateos a olvidarse de Dios&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;miscelánea&quot;&gt;Miscelánea&lt;/h3&gt;
+
+&lt;h5 id=&quot;quickies&quot;&gt;Quickies&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Nueva vida a la Ley de Moore: Los electrones &lt;a href=&quot;https://www.sciencedaily.com/releases/2008/03/080324094514.htm&quot;&gt;viajan&lt;/a&gt; 100 veces más rápido en el grafeno que en el silicio&lt;/li&gt;
+  &lt;li&gt;Nokia &lt;a href=&quot;http://www.nokia.com/en_int/news/releases/2008/12/02/nokia-acquires-symbian-limited&quot;&gt;compra&lt;/a&gt; Symbian y lo hace Open Source&lt;/li&gt;
+  &lt;li&gt;Nuevos TLDs, nuevo &lt;a href=&quot;http://www.reuters.com/article/us-internet-names-idUSN2635186520080626&quot;&gt;despropósito&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;noticias&quot;&gt;Noticias&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;¡&lt;a href=&quot;https://www.wired.com/2008/06/gallery-lasers/&quot;&gt;Feliz&lt;/a&gt; &lt;a href=&quot;https://www.wired.com/2008/05/dayintech-0516-2/&quot;&gt;cumpleaños&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Laser&quot;&gt;láser&lt;/a&gt;!&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.elmundo.es/elmundo/2008/04/10/ciencia/1207844976.html&quot;&gt;El láser más potente del mundo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Boeing y su &lt;a href=&quot;http://gizmodo.com/5013018/boeing-successfully-fires-25-kw-solid-state-lasers-laser-weapons-one-step-closer-to-being-a-reality&quot;&gt;láser militar&lt;/a&gt; de 25kW&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;developers-y-unix&quot;&gt;Developers y UNIX&lt;/h3&gt;
+
+&lt;h5 id=&quot;quickies-1&quot;&gt;Quickies&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://squeak.org/&quot;&gt;Squeak&lt;/a&gt;, la única máquina virtual autorizada hasta ahora por Apple en su &lt;a href=&quot;https://news.squeak.org/2008/06/11/squeak-on-the-iphone/&quot;&gt;iPhone&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twit.tv/shows/floss-weekly/episodes/29&quot;&gt;FLOSS Weekly #29&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Google aporta $$ a &lt;a href=&quot;https://morepypy.blogspot.com.es/2008/06/pypy-improvements.html&quot;&gt;PyPy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ahora que llega el verano… échale un vistazo a &lt;a href=&quot;https://www.linux.com/news/mit-releases-sources-multics-father-unix&quot;&gt;MULTICS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;noticias-1&quot;&gt;Noticias&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Entrevista a &lt;a href=&quot;https://twitter.com/ibannieto&quot;&gt;Iban Nieto&lt;/a&gt;, evangelizador de &lt;a href=&quot;https://es.wikipedia.org/wiki/OpenSolaris&quot;&gt;OpenSolaris&lt;/a&gt; y entusiasta del &lt;a href=&quot;https://www.msx.org/&quot;&gt;MSX&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sci-fi-to-sci-fact&quot;&gt;Sci-Fi to Sci-Fact&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Primeros pasos hacia SkyNet: el ejército de EEUU &lt;a href=&quot;https://www.engadget.com/2008/02/29/army-orders-24-new-sentry-bots-judgment-day-moved-up-two-months/&quot;&gt;amplía&lt;/a&gt; su programa de robots autónomos&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Tue, 15 Jul 2008 16:05:22 +0200</pubDate>
+				<link>http://elgeekerrante.com/ege-podcast-ep40</link>
+				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep40</guid>
+			</item>
+		
+			<item>
+				<title>El Geek Errante: transmisión #39</title>
+                                <description>&lt;h1 id=&quot;las-guerras-olvidadas&quot;&gt;Las Guerras Olvidadas&lt;/h1&gt;
+&lt;p&gt;Bienvenidos al episodio 39 del podcast del Geek Errante. Hoy es sábado 7 de junio de 2008, 30 de Bashans de 1724.&lt;/p&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033289-geek_errante-ege-podcast-ep39.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 39.5MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
+
+&lt;h3 id=&quot;tal-día-como-hoy&quot;&gt;Tal día como hoy&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;1914 - El transatlántico estadounidense &lt;a href=&quot;https://es.wikipedia.org/wiki/Anc%C3%B3n_(barco)&quot;&gt;“SS Ancon”&lt;/a&gt;, de 40.000 toneladas, inaugura el &lt;a href=&quot;https://en.wikipedia.org/wiki/Panama_Canal&quot;&gt;Canal de Panamá&lt;/a&gt;, cruzándolo del océano Atlántico al Pacífico.&lt;/li&gt;
+  &lt;li&gt;1877 - Nace &lt;a href=&quot;http://www.nobelprize.org/nobel_prizes/physics/laureates/1917/barkla-bio.html&quot;&gt;Charles Glover Barkla&lt;/a&gt;, Físico inglés muerto en 1944. Desarrolló las leyes de difusión y transmisión de los rayos X, lo que le valió el Premio Nobel de física en 1917. En su honor se nombró el cráter lunar Barkla.&lt;/li&gt;
+  &lt;li&gt;1886 - Nace &lt;a href=&quot;https://en.wikipedia.org/wiki/Henri_Coand%C4%83&quot;&gt;Henri Coandă&lt;/a&gt;, inventor y pionero rumano en el campo de la aerodinámica, muerto en 1972. Construyó el primer avión a reacción, el Coanda-1910.&lt;/li&gt;
+  &lt;li&gt;1896 - Nace &lt;a href=&quot;http://www.nobelprize.org/nobel_prizes/chemistry/laureates/1966/mulliken-bio.html&quot;&gt;Robert S. Mulliken&lt;/a&gt;, químico norteamericano muerto en 1986, responsable del desarrollo de la teoría orbital molecular, es decir, el modelo orbital para calcular la estructura de las moléculas, desarrollo por el cual ganó el Premio Nobel de química en 1966.&lt;/li&gt;
+  &lt;li&gt;1911 - Viene al Mundo &lt;a href=&quot;https://en.wikipedia.org/wiki/Brooks_Stevens&quot;&gt;Brooks Stevens&lt;/a&gt;, diseñador automotriz muerto en 1995. Aunque se le atribuye la invención de la &lt;a href=&quot;http://web.archive.org/web/20080607014109/http://www.hulger.org/brookes-stevens-planned-obsolescence/&quot;&gt;obsolesencia programada&lt;/a&gt; (la práctica de sobra conocida por todos los geeks de acortar los ciclos de vida de los productos para hacernos comprar más), realmente no la inventó sino que simplemente creó y definió el término.&lt;/li&gt;
+  &lt;li&gt;1954 - Fallece &lt;a href=&quot;https://en.wikipedia.org/wiki/Alan_Turing&quot;&gt;Alan Turing&lt;/a&gt;, Matemático británico y científico de computadores. (b. 1912). Turing es considerado como el padre de la moderna informática.&lt;/li&gt;
+  &lt;li&gt;1942 - Muere &lt;a href=&quot;https://en.wikipedia.org/wiki/Alan_Blumlein&quot;&gt;Alan Blumlein&lt;/a&gt;, Ingeniero electrónico inglés (b. 1903). Blumlein midió la amplitud y frecuencia del oido humano y desarrolló la grabación del sonido y el sonido binaural o stereo.&lt;/li&gt;
+  &lt;li&gt;2006 - La espicha &lt;a href=&quot;https://en.wikipedia.org/wiki/John_Tenta&quot;&gt;John Tenta&lt;/a&gt;, luchador profesional canadiense (b. 1963). Más conocido como &lt;em&gt;¡Terremoto EarthQuake!&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;cuaderno-de-bitácora&quot;&gt;Cuaderno de bitácora&lt;/h3&gt;
+&lt;p&gt;El Juicio a FuTuR3, segunda y última parte&lt;/p&gt;
+
+&lt;h3 id=&quot;rincón-del-oyente-durmiente&quot;&gt;Rincón del Oyente Durmiente&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;CONCURSO IT-Crowd primer aniversario, por cortesía de &lt;a href=&quot;https://twitter.com/moises_macia&quot;&gt;Moisès Macià&lt;/a&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;El concurso se cierra el 14 de julio a las 23:59 UTC+2 - tengan en cuenta que el DVD es de ZONA-2.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;noticia-de-entrada&quot;&gt;Noticia de entrada&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.infoworld.com/article/2649827/misadventures/the-7-dirtiest-jobs-in-it.html&quot;&gt;Los trabajos más sucios de las TI&lt;/a&gt;: el “top 7″&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;miscelanea&quot;&gt;Miscelanea&lt;/h3&gt;
+
+&lt;h5 id=&quot;quickies&quot;&gt;Quickies&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;La feria internacional de libro de Madrid &lt;a href=&quot;http://www.soitu.es/soitu/2008/06/02/sociedadcableada/1212427027_412214.html&quot;&gt;excluye al libro electrónico&lt;/a&gt; en sus estatutos.&lt;/li&gt;
+  &lt;li&gt;Ballmer da la solución a los que no quieren Vista: &lt;a href=&quot;http://www.informationweek.com/software/operating-systems/microsofts-ballmer-touts-vista-to-xp-downgrade-program/d/d-id/1068509&quot;&gt;hacer un downgrade a XP&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;GWAP: &lt;a href=&quot;http://www.gwap.com/&quot;&gt;Games with a purpose&lt;/a&gt;. Enseña a los ordenadores a través de tu entretenimiento.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;follow-up&quot;&gt;Follow-up&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;La Singularidad (EGE#38)
+    &lt;ul&gt;
+      &lt;li&gt;Ray Kurzweil y su &lt;a href=&quot;http://www.nytimes.com/2008/06/03/science/03tier.html&quot;&gt;hacking de rutinas cerebrales “sub-óptimas”&lt;/a&gt;.&lt;/li&gt;
+      &lt;li&gt;Kurzweil ha apostado US$10K con Mitch Kapor, a que para el 2029 un ordenador pasará la Prueba de Turing.&lt;/li&gt;
+      &lt;li&gt;El &lt;a href=&quot;https://plato.stanford.edu/entries/turing-test/&quot;&gt;Test de Turing&lt;/a&gt; y el &lt;a href=&quot;http://loebner.net/Prizef/loebner-prize.html&quot;&gt;Premio Loebner&lt;/a&gt;.&lt;/li&gt;
+      &lt;li&gt;El IEEE saca un &lt;a href=&quot;https://science.slashdot.org/story/08/06/03/1537203/ieee-special-report-on-the-singularity&quot;&gt;special-report sobre la singularidad&lt;/a&gt;: &lt;em&gt;bullsh*t or actual future?&lt;/em&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;developers--unix&quot;&gt;Developers &amp;amp; UNIX&lt;/h3&gt;
+
+&lt;h5 id=&quot;quickies-1&quot;&gt;Quickies&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Helmer, un &lt;a href=&quot;http://helmer.sfe.se/&quot;&gt;Linux cluster en una cajonera de IKEA&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://web.archive.org/web/20081021110541/http://codekata.pragprog.com/&quot;&gt;Code Kata&lt;/a&gt;: programas para mantenerte en forma.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.spinellis.gr/pubs/conf/2008-ICSE-4kernel/html/Spi08b.html&quot;&gt;Una historia&lt;/a&gt; de cuatro kernels.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;follow-ups&quot;&gt;Follow-ups&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;OOXML: apelaciones de última hora.&lt;/li&gt;
+  &lt;li&gt;Microsoft soportará ODF en Office.&lt;/li&gt;
+  &lt;li&gt;¿Será OOXML vs ODF el nuevo ECMAscript?&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Open_Document_Architecture&quot;&gt;ODA&lt;/a&gt; vs &lt;a href=&quot;https://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language&quot;&gt;SGML&lt;/a&gt;: La guerra &lt;a href=&quot;http://cajun.cs.nott.ac.uk/compsci/epo/papers/volume2/issue1/epdxb021.pdf&quot;&gt;olvidada&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sci-fi-to-sci-fact&quot;&gt;Sci-fi to Sci-fact&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cracked.com/article_16400_5-superpowers-science-will-give-us-in-our-lifetime.html&quot;&gt;Top 5 de Súper-poderes Marvel&lt;/a&gt; al alcance de la Ciencia.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Tue, 01 Jul 2008 03:37:45 +0200</pubDate>
+				<link>http://elgeekerrante.com/ege-podcast-ep39</link>
+				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep39</guid>
+			</item>
+		
+			<item>
+				<title>El Geek Errante: transmisión #38</title>
+                                <description>&lt;h1 id=&quot;la-singularidad-está-cerca&quot;&gt;La Singularidad Está Cerca&lt;/h1&gt;
+&lt;p&gt;Hoy es sábado 31 de mayo de 2008, y estáis escuchando el episodio número 38 del podcast de EGE. Exactamente 1665 días antes del fin del mundo.&lt;/p&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033292-geek_errante-ege-podcast-ep38.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 36.2MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
+
+&lt;h3 id=&quot;tal-día-como-hoy&quot;&gt;Tal día como hoy&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;1911 – Se bota el casco del nuevo transatlántico de la clase Olimpíca de la compañía White Star: &lt;a href=&quot;https://en.wikipedia.org/wiki/RMS_Titanic&quot;&gt;RMS Titanic&lt;/a&gt;, en los astilleros de Limerick.&lt;/li&gt;
+  &lt;li&gt;1927 – El último &lt;a href=&quot;https://en.wikipedia.org/wiki/Ford_Model_T&quot;&gt;Ford-T&lt;/a&gt; sale de las cadenas de montaje tras 15.007.003 unidades producidas.&lt;/li&gt;
+  &lt;li&gt;1975 – Se funda la &lt;a href=&quot;http://www.esa.int/ESA&quot;&gt;Agencia Espacial Europea&lt;/a&gt; (ESA).&lt;/li&gt;
+  &lt;li&gt;1931 – Nace John &lt;a href=&quot;http://www.nobelprize.org/nobel_prizes/physics/laureates/1972/schrieffer-bio.html&quot;&gt;Robert Schrieffer&lt;/a&gt;, físico norteamenticano ganador del premio Nobel de física en 1972 junto con John Bardeen y Leon Cooper por desarrollar la &lt;a href=&quot;https://en.wikipedia.org/wiki/BCS_theory&quot;&gt;teoría BCS&lt;/a&gt;, nombrada con las iniciales de los apellidos de sus creadores, la cual explica la superconductividad convencional.&lt;/li&gt;
+  &lt;li&gt;1932 – Nace &lt;a href=&quot;https://en.wikipedia.org/wiki/Jay_Miner&quot;&gt;Jay Miner&lt;/a&gt;, “the Amiga Father” – diseñador de circuítos americano, muerto en 1994. Su aportación más conocida al mundo de la tecnología popular fue el mítico &lt;a href=&quot;https://en.wikipedia.org/wiki/Amiga&quot;&gt;Amiga&lt;/a&gt;, aunque previamente desarrolló el chip gráfico de la igualmente legendaria &lt;a href=&quot;https://en.wikipedia.org/wiki/Atari_2600&quot;&gt;Atari 2600&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;1832 – Muere &lt;a href=&quot;https://en.wikipedia.org/wiki/%C3%89variste_Galois&quot;&gt;Évariste Galois&lt;/a&gt;, matemático francés, nacido en 1811. Sentó las bases para lo que se conoce como la teoría de Galois, la cual prové una conexión entre la teoría de campos algebraicos y la teoría de grupos.&lt;/li&gt;
+  &lt;li&gt;1986 – Fallece &lt;a href=&quot;http://www.nobelprize.org/nobel_prizes/physics/laureates/1975/rainwater-bio.html&quot;&gt;James Rainwater&lt;/a&gt;, físico norteamericano nacido en 1917, ganador del premio Nobel de física en 1975 junto a Ben Mottelson y Aage Niels Bohr (hijo de Niels Bohr Senior) por el descubrimiento de la relación entre el movimiento colectivo de partículas en núcleos atómicos.&lt;/li&gt;
+  &lt;li&gt;2006 – La diña &lt;a href=&quot;http://www.nobelprize.org/nobel_prizes/physics/laureates/2002/davis-bio.html&quot;&gt;Raymond Davis Jr.&lt;/a&gt;, ganador del premio Nobél de Física en 2002 ex-aequo con Masatoshi Koshiba y el italoamericano Riccardo Giacconi por sus contribuciones pioneras en la astrofísica, y en particular por la detección de neutrinos cósmicos y la resolución del &lt;a href=&quot;https://en.wikipedia.org/wiki/Solar_neutrino_problem&quot;&gt;enigma de los neutrinos solares&lt;/a&gt;. Tenía casi 88 años cuando recibió el galardón, lo cual le convierte en el ganador más anciano de un Premio Nobel.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;cuaderno-de-bitácora&quot;&gt;Cuaderno de bitácora&lt;/h3&gt;
+&lt;p&gt;La semana pasada, tras un viaje alucinante y aleatorio por el multiverso, el Geek Errante volvió a esto que cada vez más incorrectamente llamada “realidad”. Recalibramos el sistema de transmisión taquiónica, esperando que la sincronización temporal sea correcta y que esta transmisión no llegue al pasado antes de la anterior. Para esclarecer lo ocurrido durante nuestra ausencia hemos decidido enjuiciar a FuTuR3 por el acto de aparente traición que representa el haber intentado vender por piezas al Geek Errante. Nos hemos visto obligados a reemplazar la personalidad de HoloJorge por el programa Juicio.lisp para que lleve el registro del juicio y que su red neuronal nos sirva de jurado. Así que pasamos a uno de los episodios más esperados de cuantos hemos hecho.&lt;/p&gt;
+
+&lt;h3 id=&quot;rincón-del-oyente&quot;&gt;Rincón del Oyente&lt;/h3&gt;
+&lt;p&gt;Como de costumbre, nuestros concursos son los más desorganizados del Universo después de la entropía. En fin. Con un mes de retraso, anunciamos hoy al ganador o ganadora. No si antes escuchar el comentario de voz de Leonardo Hernández y Laura Bárcena, de pasionporelovoide.com – en el que la pareja más dinámica de la &lt;a href=&quot;http://pasionporelovoide.com/podcast/&quot;&gt;podcastfera deportiva&lt;/a&gt; se despacha a gusto con la compañía de Cupertino.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;And the winner is… ¡Paco Estéban!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;noticia-de-entrada&quot;&gt;Noticia de entrada&lt;/h3&gt;
+&lt;p&gt;Los científicos quieren cambiar de era geológica: &lt;a href=&quot;http://dotearth.blogs.nytimes.com/2008/01/28/earth-is-us/&quot;&gt;bienvenidos al Antropoceno&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;miscelanea&quot;&gt;Miscelanea&lt;/h3&gt;
+
+&lt;h5 id=&quot;quickies&quot;&gt;Quickies&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;DARPA creará un &lt;a href=&quot;http://www.theregister.co.uk/2008/05/07/darpa_cyber_range_rfp/&quot;&gt;entorno masivo de simulación de cyber-guerra&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Bletchley Park, &lt;a href=&quot;http://www.theregister.co.uk/2008/05/30/bletchley_park/&quot;&gt;en bancarrota&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;El &lt;a href=&quot;https://it.slashdot.org/story/08/05/16/146252/fermilab-calls-for-code-crackers&quot;&gt;misterioso mensaje&lt;/a&gt; recibido en Fermilab. (&lt;a href=&quot;https://it.slashdot.org/story/08/05/20/0114211/breaking-the-fermilab-code&quot;&gt;&lt;em&gt;Actualizado&lt;/em&gt;&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;tema-la-singularidad&quot;&gt;Tema: La Singularidad&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ray Kurzweil hará &lt;a href=&quot;https://www.wired.com/2008/03/ff-kurzweil/&quot;&gt;todo lo posible&lt;/a&gt; para ser testigo (y para no morirse)&lt;/li&gt;
+  &lt;li&gt;El movimiento transhumanista.&lt;/li&gt;
+  &lt;li&gt;Extropianos, Futuristas y Cyber-punks.&lt;/li&gt;
+  &lt;li&gt;Críticas&lt;/li&gt;
+  &lt;li&gt;Podcast: &lt;a href=&quot;https://en.wikipedia.org/wiki/Singularity_Summit#2007&quot;&gt;The Singularity Summit ‘07&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;developers--unix&quot;&gt;Developers &amp;amp; UNIX&lt;/h3&gt;
+
+&lt;h5 id=&quot;quickies-1&quot;&gt;Quickies&lt;/h5&gt;
+&lt;p&gt;-&lt;a href=&quot;http://www.osnews.com/story/19731/The-25-Year-Old-UNIX-Bug&quot;&gt;Un bug de 25 años&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Después de tres años, &lt;a href=&quot;https://yro.slashdot.org/story/08/05/08/1951206/After-3-Years-Freenet-07-Released&quot;&gt;se lanza Freenet 0.7&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Un grupo de investigadores &lt;a href=&quot;https://it.slashdot.org/story/08/04/24/1426249/researchers-infiltrate-and-pollute-storm-botnet&quot;&gt;se cuela en la botnet St0rm&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;tema-captchas&quot;&gt;Tema: CAPTCHAs&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Introducción.&lt;/li&gt;
+  &lt;li&gt;Rompiendo el &lt;a href=&quot;http://arstechnica.com/security/2008/04/gone-in-60-seconds-spambot-cracks-livehotmail-captcha/&quot;&gt;CAPTCHA de Hotmail&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Rompiendo el &lt;a href=&quot;http://web.archive.org/web/20100225114910/http://securitylabs.websense.com/content/Blogs/2919.aspx&quot;&gt;CAPTCHA de GMail&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://web.archive.org/web/20100217152744/http://www.captchasolver.com/&quot;&gt;CaptchaSolver.COM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A veces veo gatitos: &lt;a href=&quot;https://thepcspy.com/read/the_cutest_humantest_kittenauth/&quot;&gt;KittenAuth&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;¡Y el audio-captcha &lt;a href=&quot;http://web.archive.org/web/20100213054416/http://blog.wintercore.com/?p=11#more-11&quot;&gt;también se puede romper&lt;/a&gt;!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sci-fi-to-sci-fact&quot;&gt;Sci-fi to Sci-fact&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Simpsons to Fact: &lt;a href=&quot;http://www.nytimes.com/2008/05/30/us/30grease.html&quot;&gt;El robo de grasa se hace realidad&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Thu, 12 Jun 2008 04:21:02 +0200</pubDate>
+				<link>http://elgeekerrante.com/ege-podcast-ep38</link>
+				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep38</guid>
+			</item>
+		
+			<item>
+				<title>El Geek Errante: transmisión #37</title>
+                                <description>&lt;h1 id=&quot;algo-huele-a-Ácido-sulfhídrico-en-china&quot;&gt;Algo Huele a Ácido Sulfhídrico en China&lt;/h1&gt;
+&lt;p&gt;Bienvenidos a la transmisión número 37 de El Geek Errante, grabada el sábado 24 de mayo de 2008 . Fecha irrelevante según el calendario Borg.&lt;/p&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033294-geek_errante-ege-podcast-ep37.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 45.0MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Lo primero es pedir disculpas a nuestros oyentes por el largo paréntesis entre los dos último episodios. Sobre todo gracias a aquellos de vosotros que os habéis preocupado por enviarnos mails, comentarios o incluso escrito posts acerca de nuestra misteriosa desaparición. También queremos transmitir nuestra preocupación por los problemas de conectividad que hemos tenido entre nuestro servidor, sito en San Diego, California y la red de Telefónica-RIMA. Han sido subsanados, y esperamos que no hayan supuesto ningún contratiempo grave para nuestros seguidores.¶&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;¡Vamos pues con las show notes!&lt;/p&gt;
+
+&lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
+
+&lt;h3 id=&quot;tal-día-como-hoy&quot;&gt;Tal día como hoy&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;1626 - &lt;a href=&quot;https://en.wikipedia.org/wiki/Peter_Minuit&quot;&gt;Peter Minuit&lt;/a&gt; compra Manhattan a una tribu de indios Metoac.&lt;/li&gt;
+  &lt;li&gt;1844 - &lt;a href=&quot;https://en.wikipedia.org/wiki/Samuel_Morse&quot;&gt;Samuel Morse&lt;/a&gt; envía desde el Capitolio el mítico mensaje a su asistente: “What hath God wrought”.&lt;/li&gt;
+  &lt;li&gt;1940 - &lt;a href=&quot;https://en.wikipedia.org/wiki/Igor_Sikorsky&quot;&gt;Igor Sikorsky&lt;/a&gt; realiza el primer vuelo sin amarres a bordo del primer helicóptero de un solo rotor y estabilizador de cola.&lt;/li&gt;
+  &lt;li&gt;1962 - El astronauta norteamericano &lt;a href=&quot;https://en.wikipedia.org/wiki/Scott_Carpenter&quot;&gt;Scott Carpenter&lt;/a&gt; orbita la tierra tres veces a bordo de la capsula &lt;a href=&quot;http://www-pao.ksc.nasa.gov/history/mercury/ma-7/ma-7.htm&quot;&gt;Aurora-7&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;1970 - Comienza e la URSS el &lt;a href=&quot;https://en.wikipedia.org/wiki/Kola_Superdeep_Borehole&quot;&gt;Proyecto de Excavación Súper-profunda de Kola&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;2004 - Corea del Norte &lt;a href=&quot;http://web.archive.org/web/20080907065607/http://www.mobilemonday.net/news/north-korea-bans-mobile-phones&quot;&gt;prohíbe los teléfonos móviles&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;1686 - Nace &lt;a href=&quot;https://en.wikipedia.org/wiki/Daniel_Gabriel_Fahrenheit&quot;&gt;Gabriel Fahrenheit&lt;/a&gt;, físico, inventor y fabricante alemán de termómetros.&lt;/li&gt;
+  &lt;li&gt;1868 - Nace &lt;a href=&quot;https://en.wikipedia.org/wiki/Charlie_Taylor_(mechanic)&quot;&gt;Charlie Taylor&lt;/a&gt;, primer profesional de mantenimiento de aeronaves.&lt;/li&gt;
+  &lt;li&gt;1543 - Fallece &lt;a href=&quot;https://en.wikipedia.org/wiki/Nicolaus_Copernicus&quot;&gt;Nicolaus Copernicus&lt;/a&gt;, astrónomo polaco nacido en 1473, quien devolvió al ser humano a un pequeño planeta girando alrededor de una estrella bastante normal, situada en una región poco interesante del borde menos turístico de la Vía Láctea.&lt;/li&gt;
+  &lt;li&gt;1734 - Muere &lt;a href=&quot;https://en.wikipedia.org/wiki/Georg_Ernst_Stahl&quot;&gt;Georg Ernst Stahl&lt;/a&gt;, padre de la entrañablemente obsoleta teoría del flogisto.&lt;/li&gt;
+  &lt;li&gt;1969 - Muere &lt;a href=&quot;https://en.wikipedia.org/wiki/Willy_Ley&quot;&gt;Willy Ley&lt;/a&gt;, ingeniero aerospacial americano de orígen alemán. Puso el espacio al alcance de las masas gracias a libros de divulgación como The Conquest of Space (1949) y &lt;a href=&quot;https://www.amazon.com/Conquest-moon-Wernher-Von-Braun/dp/B0007DVW7A&quot;&gt;The Conquest of the Moon&lt;/a&gt; (junto a Wernher von Braun y Fred Whipple, 1953). También fue asesor cientifico del Congreso estadounidense y de series y películas de Hollywood.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;cuaderno-de-bitácora&quot;&gt;Cuaderno de bitácora&lt;/h3&gt;
+&lt;p&gt;Al reconectar las piezas que había desmontado futur3, el Doctor genera accidentalmente una inversión de probabilidad, transformándose la realidad en una sucesión aleatoria y finita de eventos catastróficos y lamentables. Al final logramos regresar a nuestro espaciotiempo, si bien con los transmisores taquiónicos muy dañados. Pueden haber pasado semanas sin que se hayan recibido nuestras emisiones.&lt;/p&gt;
+
+&lt;p&gt;De momento, futur3 permanece confinado en el calabozo, a la espera de juicio.&lt;/p&gt;
+
+&lt;h3 id=&quot;rincón-del-oyente&quot;&gt;Rincón del Oyente&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Hanok: &lt;a href=&quot;https://www.youtube.com/watch?v=zPt7LW8uk4I&quot;&gt;Video de la Conferencia&lt;/a&gt; de Richard Stallman en la Universidad de Córdoba (España).&lt;/li&gt;
+  &lt;li&gt;Blas: Duda sobre el uso de licencias tipo GPL en software comercial.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;noticia-de-entrada&quot;&gt;Noticia de entrada&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://science.slashdot.org/story/08/02/13/1418216/outer-space-has-a-smell&quot;&gt;El Espacio tiene olor&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;miscelanea&quot;&gt;Miscelanea&lt;/h3&gt;
+
+&lt;h5 id=&quot;quickies&quot;&gt;Quickies&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Nanoclusters: &lt;a href=&quot;https://science.slashdot.org/story/08/04/11/1422259/nanoclusters-break-superconductivity-record&quot;&gt;superconductores “casi” a temperatura ambiente&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;La NASA y BT &lt;a href=&quot;http://web.archive.org/web/20080531020928/http://networks.silicon.com/mobile/0,39024665,39170084,00.htm?r=7&quot;&gt;planean una red satelital en la Luna&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Se comercializa &lt;a href=&quot;http://www.tendencias21.net/En-el-mercado-el-primer-dispositivo-que-controla-videojuegos-solo-con-la-mente_a2094.html?&quot;&gt;el primer interfaz cerebro-ordenador&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;follow-ups&quot;&gt;Follow-Ups&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;El follow-up de los 700MHz - Se comentó en EGE#08 y EGE#18
+    &lt;ul&gt;
+      &lt;li&gt;Recordando: ¿Por qué es importante este espectro?&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://gizmodo.com/370350/fcc-700mhz-auction-winners-verizon-wins-c-block&quot;&gt;La subasta terminó el 18 de Marzo&lt;/a&gt;.&lt;/li&gt;
+      &lt;li&gt;Cinco bloques: A, B, C, D y E, divididos por regiones.
+        &lt;ul&gt;
+          &lt;li&gt;Bloque A: sin ganador claro&lt;/li&gt;
+          &lt;li&gt;Bloque B: ATT, Qualcomm&lt;/li&gt;
+          &lt;li&gt;Bloque C: &lt;a href=&quot;http://www.marketwatch.com/story/verizon-wins-bids-on-open-spectrum-eyed-by-google&quot;&gt;Verizon ganó&lt;/a&gt; prácticamente todas las licencias
+            &lt;ul&gt;
+              &lt;li&gt;Es el bloque de “acceso abierto”.&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;https://publicpolicy.googleblog.com/2008/03/end-of-fcc-700-mhz-auction.html&quot;&gt;Participó Google&lt;/a&gt;.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Bloque D: no se pujó lo suficiente. Habrá una nueva subasta.
+            &lt;ul&gt;
+              &lt;li&gt;Se utilizará en conjunto con grupos de seguridad pública.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Bloque E: Frontier Wireless y Qualcomm.
+            &lt;ul&gt;
+              &lt;li&gt;Bajo ancho de banda.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;developers--unix&quot;&gt;Developers &amp;amp; UNIX&lt;/h3&gt;
+
+&lt;h5 id=&quot;quickies-1&quot;&gt;Quickies&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Storm++ = &lt;a href=&quot;http://www.darkreading.com/attacks-breaches/new-massive-botnet-twice-the-size-of-storm/d/d-id/1129410&quot;&gt;Kraken&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.theregister.co.uk/2008/02/28/rootkit_wars/&quot;&gt;Competencia entre rootkits&lt;/a&gt;, la lucha por la superviviencia.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techcrunch.com/2008/04/07/google-jumps-head-first-into-web-services-with-google-app-engine/&quot;&gt;AppEngine&lt;/a&gt;, el servicio cloud computing de Google.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;especial&quot;&gt;Especial&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://boingboing.net/2008/03/03/how-and-why-the-grea.html&quot;&gt;El Gran Firewall de China&lt;/a&gt;: ¿cómo funciona?
+    &lt;ul&gt;
+      &lt;li&gt;Introducción.&lt;/li&gt;
+      &lt;li&gt;Técnicas de bloqueo implementadas.&lt;/li&gt;
+      &lt;li&gt;Workarounds.&lt;/li&gt;
+      &lt;li&gt;La función real del Gran Firewall.&lt;/li&gt;
+      &lt;li&gt;Las Olimpiadas.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;p2p-y-derecho-digital&quot;&gt;P2P y Derecho Digital&lt;/h3&gt;
+
+&lt;h5 id=&quot;quickies-2&quot;&gt;Quickies&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Creative Commons libera LiveContent 2.0: &lt;a href=&quot;https://wiki.creativecommons.org/wiki/LiveContent&quot;&gt;enlace al proyecto&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://web.archive.org/web/20081005053646/http://blogs.zdnet.com/storage/?p=303&quot;&gt;P4P&lt;/a&gt;: versión mejorada de P2P. &lt;a href=&quot;http://codex.cs.yale.edu/avi/home-page/p4p-dir/p4p.html&quot;&gt;Proyecto P4PGW en la Universidad de Yale&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Desde el Dpto. de Patentes Ridículas: &lt;a href=&quot;https://science.slashdot.org/story/08/04/11/0335206/satellite-abandoned-due-to-orbital-patent&quot;&gt;Un satélite abandonado gracias a una patente&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;follow-ups-1&quot;&gt;Follow-Ups&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;OOXML ya es estándar ISO. ¿Ha dejado la ISO de ser relevante?
+    &lt;ul&gt;
+      &lt;li&gt;Hablamos de esto en EGE#08, 11, 12, 13, 27 y 28.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;En resumen: más de lo mismo:
+    &lt;ul&gt;
+      &lt;li&gt;Esta aprobación demuestra que &lt;a href=&quot;https://lnxwalt.wordpress.com/2008/04/08/is-this-what-it-takes-to-push-ooxml-into-the-market/&quot;&gt;la ISO ya no funciona&lt;/a&gt;.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://web.archive.org/web/20081006121935/http://notes2self.net/archive/2008/02/20/odf-1-2-roadmap-per-rob-weir.aspx&quot;&gt;No solo esto&lt;/a&gt;, sino que las 6K páginas de la especificación no están completas.&lt;/li&gt;
+      &lt;li&gt;Está claro que OOXML más que ser pro-estándares es &lt;a href=&quot;http://boycottnovell.com/2008/04/08/shenanigans-and-novell-for-ooxml/&quot;&gt;anti-ODF&lt;/a&gt;.&lt;/li&gt;
+      &lt;li&gt;El 90% del revenue de la División Business de MS viene de Office.&lt;/li&gt;
+      &lt;li&gt;Es probable que utilicen las mismas tácticas para evitar la estandarización de ODF 1.2 (2009)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.noooxml.org/&quot;&gt;¡No a OOXML!&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Problemas con el estándar:
+    &lt;ul&gt;
+      &lt;li&gt;Ya hay un estándar llamado ODF.&lt;/li&gt;
+      &lt;li&gt;La especificación está cubierta por patentes de Microsoft.&lt;/li&gt;
+      &lt;li&gt;OOXML no cumple ninguno de los requisitos para ser un estándar.&lt;/li&gt;
+      &lt;li&gt;El estándar no ha sido implementado todavía ni por MS ni por nadie más.&lt;/li&gt;
+      &lt;li&gt;OOXML se puede implementar totalmente sólo sobre Windows.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sci-fi-to-sci-fact&quot;&gt;Sci-fi to Sci-fact&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://web.archive.org/web/20081004002425/http://dsc.discovery.com/news/2008/04/04/space-hibernation.html&quot;&gt;Se ensayan métodos de hibernación&lt;/a&gt; para viajes a Marte y más allá.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://science.slashdot.org/story/08/03/25/2136206/suspended-animation-in-mice-without-freezing&quot;&gt;La respuesta más prometedora&lt;/a&gt; puede ser algo desagradable.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Mon, 26 May 2008 06:03:12 +0200</pubDate>
+				<link>http://elgeekerrante.com/ege-podcast-ep37</link>
+				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep37</guid>
+			</item>
+		
+			<item>
+				<title>El Geek Errante: transmisión #36</title>
+                                <description>&lt;h1 id=&quot;a-podcasting-odyssey&quot;&gt;A Podcasting Odyssey&lt;/h1&gt;
+&lt;p&gt;Bienvenidos al episodio XXXVI del podcast del Geek Errante. Hoy es domingo 6 de abril de 2008. Día 17 de la estación B del año 88 de la era Asimoviana.&lt;/p&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033295-geek_errante-ege-podcast-ep36.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 49.0MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
+
+&lt;h3 id=&quot;tal-día-como-hoy&quot;&gt;Tal día como hoy&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Conmemoración del nacimiento de Jesucristo, &lt;a href=&quot;http://www.mrm.org/virgin-birth&quot;&gt;de acuerdo con la iglesia mormona&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;1869 - Se patenta el celuloide (nitrato de celulosa) con el nombre de &lt;a href=&quot;https://en.wikipedia.org/wiki/Celluloid&quot;&gt;Xilonita&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;1965 - Lanzamiento de &lt;a href=&quot;https://en.wikipedia.org/wiki/Intelsat_I&quot;&gt;Early Bird&lt;/a&gt;, el primer satélite de comunicaciones en órbita geosíncrona.&lt;/li&gt;
+  &lt;li&gt;1973 - Lanzamiento de la sonda interplanetaria &lt;a href=&quot;https://en.wikipedia.org/wiki/Pioneer_11&quot;&gt;Pioneer 11&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;1890 - Nace &lt;a href=&quot;https://en.wikipedia.org/wiki/Anthony_Fokker&quot;&gt;Anthony Fokker&lt;/a&gt; diseñador neerlandés de aeronaves.&lt;/li&gt;
+  &lt;li&gt;1903 - Nace &lt;a href=&quot;https://en.wikipedia.org/wiki/Harold_Eugene_Edgerton&quot;&gt;Harold Edgerton&lt;/a&gt; ingeniero americano, profesor en el MIT, inventor de la &lt;a href=&quot;http://techtv.mit.edu/collections/docedgertonvideo&quot;&gt;fotografía estroboscópica&lt;/a&gt; y del &lt;a href=&quot;http://web.mit.edu/6.933/www/edgerton.html&quot;&gt;sónar de escaneo lateral&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;1928 - Nace &lt;a href=&quot;https://en.wikipedia.org/wiki/James_Watson&quot;&gt;James D. Watson&lt;/a&gt; genetista americano co-descubridor de la &lt;a href=&quot;https://en.wikipedia.org/wiki/DNA#/media/File:DNA_Structure%2BKey%2BLabelled.pn_NoBB.png&quot;&gt;estructura de doble hélice del ADN&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;1590 - Muere &lt;a href=&quot;https://en.wikipedia.org/wiki/Francis_Walsingham&quot;&gt;Francis Walsingham&lt;/a&gt;, maestro de espías de la reina Isabel I de Inglaterra, pionero en la práctica de la inteligencia moderna tanto para espionaje como para seguridad interna.&lt;/li&gt;
+  &lt;li&gt;1992 - Muere &lt;a href=&quot;https://en.wikipedia.org/wiki/Isaac_Asimov&quot;&gt;Isaac Asimov&lt;/a&gt;. Maestro de la Ciencia-Ficción.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;cuaderno-de-bitácora&quot;&gt;Cuaderno de bitácora&lt;/h3&gt;
+&lt;p&gt;El algoritmo del marinero borracho da sus frutos y Mr.Solo y El Doctor encuentran El Geek Errante orbitando alrededor de un asteroide, detectan alrededor suya un campo de energía generado por otra nave, lo cual les hace temerse lo peor, pero para su sorpresa se encuentran con IKEA3, la nave de FuTuR3, quien es sorprendido con “las manos en la masa”.&lt;/p&gt;
+
+&lt;h3 id=&quot;rincón-del-oyente&quot;&gt;Rincón del oyente&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Duda legal de Aldo Orozco sobre el SDK del iPhone.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.pasionporelovoide.com/&quot;&gt;Leonardo Hernández&lt;/a&gt; nos comenta el canon digital en Canadá.&lt;/li&gt;
+  &lt;li&gt;Seguimos con el concurso “Apple Apesta” ¡Escríbenos!&lt;/li&gt;
+  &lt;li&gt;Concurso HackIt: &lt;a href=&quot;http://web.archive.org/web/20080723134755/http://elgeekerrante.com/geek-puzzle/&quot;&gt;Geek Puzzle&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;noticia-de-entrada&quot;&gt;Noticia de entrada&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://boingboing.net/2008/03/03/petitioners-seek-par.html&quot;&gt;Piden perdón a una bruja&lt;/a&gt; encarcelada en 1944 en Escocia.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;follow-ups&quot;&gt;Follow-Ups&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;EGE#33: las bondades de la cafeina.
+    &lt;ul&gt;
+      &lt;li&gt;Un nuevo estudio demuestra que &lt;a href=&quot;http://news.bbc.co.uk/2/hi/health/7326839.stm&quot;&gt;el café protege al cerebro&lt;/a&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;miscelanea&quot;&gt;Miscelanea&lt;/h3&gt;
+
+&lt;h5 id=&quot;quickies&quot;&gt;Quickies&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Nuestros respetos para &lt;a href=&quot;https://es.wikipedia.org/wiki/Arthur_C._Clarke&quot;&gt;Arthur C. Clarke&lt;/a&gt;, uno de los maestros de la Ciencia Ficción.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;noticias&quot;&gt;Noticias&lt;/h5&gt;
+&lt;p&gt;Esta semana damos rienda suelta a nuestro lado más techie comentando los &lt;a href=&quot;https://citp.princeton.edu/research/memory/&quot;&gt;experimentos que han realizado en la Universidad de Princeton&lt;/a&gt; sobre cómo el enfriamiento de los módulos RAM es usado para aumentar el tiempo en que los datos permanecen recuperables después de eliminar la alimentación.&lt;/p&gt;
+
+&lt;p&gt;También comentamos los ataques clásicos por Firewire:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://web.archive.org/web/20080803180929/http://md.hudora.de/presentations/&quot;&gt;0wned by an iPod&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://web.archive.org/web/20080706125900/http://storm.net.nz/projects/16&quot;&gt;winlockpwn&lt;/a&gt;, que se aprovecha del &lt;a href=&quot;https://en.wikipedia.org/wiki/Direct_memory_access&quot;&gt;Acceso Directo a Memoria&lt;/a&gt; de este bus para también realizar volcados de memoria.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;developers--unix&quot;&gt;Developers &amp;amp; UNIX&lt;/h3&gt;
+
+&lt;h5 id=&quot;quickies-1&quot;&gt;Quickies&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wired.com/2008/04/daniel_k-who-fi&quot;&gt;El hacker&lt;/a&gt; que le hacía el &lt;a href=&quot;http://gadgets.boingboing.net/2008/03/31/creative-stops-hacke.html&quot;&gt;trabajo sucio&lt;/a&gt; a Creative Labs.&lt;/li&gt;
+  &lt;li&gt;La &lt;a href=&quot;http://blog.sfgate.com/localnews/2008/07/09/hans-reiser-trial-july-9-2008/&quot;&gt;historia del juicio&lt;/a&gt; a &lt;a href=&quot;https://en.wikipedia.org/wiki/Hans_Reiser&quot;&gt;Hans Reiser&lt;/a&gt; y cómo &lt;a href=&quot;https://en.wikipedia.org/wiki/ReiserFS&quot;&gt;ReiserFS&lt;/a&gt; ha sobrevivido a la desaparición de &lt;a href=&quot;https://en.wikipedia.org/wiki/Namesys&quot;&gt;Namesys&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;noticias-1&quot;&gt;Noticias&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Especial &lt;a href=&quot;http://www.jython.org/&quot;&gt;Jython&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://headius.blogspot.com.es/2008/01/jythons-back-baby.html&quot;&gt;El regreso de Jython&lt;/a&gt;.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.jython.org/archive/21/docs/differences.html&quot;&gt;Diferencias entre Python y Jython&lt;/a&gt;.&lt;/li&gt;
+      &lt;li&gt;Sun, &lt;a href=&quot;http://www.zdnet.com/article/pythons-future-looks-bright/&quot;&gt;patrocinador de Python&lt;/a&gt;.&lt;/li&gt;
+      &lt;li&gt;Ted Leung y Frank Wierzbicki, &lt;a href=&quot;http://www.javahispano.org/antiguo_javahispano_org/2008/3/6/sun-contrata-al-lider-del-proyecto-jython.html&quot;&gt;nuevos fichajes de Sun&lt;/a&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Y ya que estamos: &lt;a href=&quot;https://www.python.org/doc/&quot;&gt;Introducción a Python&lt;/a&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;Historia y versiones.&lt;/li&gt;
+      &lt;li&gt;Características, variantes e implementaciones (&lt;a href=&quot;https://en.wikipedia.org/wiki/CPython&quot;&gt;CPython&lt;/a&gt;, Jython, &lt;a href=&quot;https://github.com/IronLanguages/ironpython3&quot;&gt;Iron Python&lt;/a&gt;, &lt;a href=&quot;https://bitbucket.org/stackless-dev/stackless/wiki/Home&quot;&gt;Stackless Python&lt;/a&gt;, &lt;a href=&quot;http://psyco.sourceforge.net/&quot;&gt;Psyco&lt;/a&gt;, &lt;a href=&quot;http://pypy.org/&quot;&gt;PyPy&lt;/a&gt;, &lt;a href=&quot;https://github.com/parrot/parrot/wiki/Languages&quot;&gt;Parrot&lt;/a&gt;, &lt;a href=&quot;https://code.google.com/archive/p/epy/&quot;&gt;Epy&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Python_for_S60&quot;&gt;PyS60&lt;/a&gt;).&lt;/li&gt;
+      &lt;li&gt;Interesante: &lt;a href=&quot;http://www.theserverside.com/news/thread.tss?thread_id=48965&quot;&gt;Manejo de memoria en CPython y CRuby&lt;/a&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;p2p-y-derecho-digital&quot;&gt;P2P y Derecho Digital&lt;/h3&gt;
+
+&lt;h5 id=&quot;quickies-2&quot;&gt;Quickies&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Las casas editoriales &lt;a href=&quot;https://news.slashdot.org/story/08/03/11/0633233/book-publishers-abandoning-drm&quot;&gt;abandonan el DRM&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Pirate_Bay&quot;&gt;The Pirate Bay&lt;/a&gt; le recomienda a Hollywood que monte sus propios trackers.
+    &lt;ul&gt;
+      &lt;li&gt;(&lt;a href=&quot;https://www.youtube.com/watch?v=kEyZzb-u3oA&quot;&gt;entrevista en dayrobber.com&lt;/a&gt;)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://it.slashdot.org/story/08/02/16/0422249/bittorrent-devs-introduce-comcast-proof-encryption&quot;&gt;Cifrando las transferencias&lt;/a&gt; BitTorrent.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;noticias-2&quot;&gt;Noticias&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;La fiebre anti P2P se extiende por Europa.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.irishtimes.com/news/eircom-taken-to-court-over-illegal-music-downloads-1.819721&quot;&gt;Irlanda&lt;/a&gt;: la industria musical denuncia a ISPs y quiere filtrado de protocolos P2P.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://torrentfreak.com/ifpi-forces-block-of-file-sharing-site-080306/&quot;&gt;Israel&lt;/a&gt;: cierran el acceso a sitio de torrents por sentencia judicial.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.thelocal.se/20080314/10474&quot;&gt;Suecia&lt;/a&gt;: los ISPs entregarán las IPs de los clietes que usen P2P a las entidades gestoras.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://torrentfreak.com/isps-refuse-mpaa-request-080328/&quot;&gt;Noruega&lt;/a&gt;: los ISPs se plantan ante un requerimiento de filtrado P2P de la MPAA.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sci-fi-to-sci-fact&quot;&gt;Sci-fi to Sci-Fact&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.salon.com/2008/01/19/moon_real_estate/&quot;&gt;¿De quién es la Luna?&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.lunarembassy.com/&quot;&gt;Embajada de La Luna&lt;/a&gt;: se buscan tontos propietarios.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Outer_Space_Treaty&quot;&gt;Tratado del Espacio Exterior&lt;/a&gt; (1967)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Las Empresas pueden llegar a la Luna antes que la próxima misión de la NASA en 2019.
+    &lt;ul&gt;
+      &lt;li&gt;¿cómo se regulará la explotación de los recursos del Sistema Solar?&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://memory-alpha.wikia.com/wiki/United_Federation_of_Planets&quot;&gt;La Federación&lt;/a&gt; es la respuesta.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Thu, 10 Apr 2008 23:44:37 +0200</pubDate>
+				<link>http://elgeekerrante.com/ege-podcast-ep36</link>
+				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep36</guid>
+			</item>
+		
+			<item>
+				<title>El Geek Errante: transmisión #35</title>
+                                <description>&lt;h1 id=&quot;el-bit-errante&quot;&gt;El Bit Errante&lt;/h1&gt;
+&lt;p&gt;Bienvenidos al episodio 0×23 del podcast del Geek Errante. Hoy es 8 de Marzo de 2008, 22 de Epiphi de 2756.&lt;/p&gt;
+
+&lt;p&gt;Una felicitación especial a tod@s nuestr@s oyentes que tengan la suerte de contar con un doble cromosoma X.&lt;/p&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033300-geek_errante-ege-podcast-ep35.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 48.1MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
+
+&lt;h3 id=&quot;tal-día-como-hoy&quot;&gt;Tal día como hoy&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;1618 - Johannes Kepler descubre la tercera &lt;a href=&quot;http://web.archive.org/web/20080910180310/http://csep10.phys.utk.edu/astr161/lect/history/kepler.html&quot;&gt;Ley del Movimiento Planetario&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;1939 - J.R.R. Tolkien da su ponencia seminal titulada &lt;a href=&quot;https://en.wikipedia.org/wiki/On_Fairy-Stories&quot;&gt;“On Fairy-Stories”&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;1950 - El Mariscal Voroshilov anuncia que &lt;a href=&quot;https://en.wikipedia.org/wiki/Soviet_atomic_bomb_project&quot;&gt;la URSS tiene la bomba&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;1879 - Nace &lt;a href=&quot;https://en.wikipedia.org/wiki/Otto_Hahn&quot;&gt;Otto Hahn&lt;/a&gt;, quien obtuvo el Nobel en 1944 por el descubrimiento de la fisión nuclear.&lt;/li&gt;
+  &lt;li&gt;1917 - Fallece &lt;a href=&quot;https://en.wikipedia.org/wiki/Ferdinand_von_Zeppelin&quot;&gt;Ferdinand von Zeppelin&lt;/a&gt;, ingeniero aeronáutico alemán.&lt;/li&gt;
+  &lt;li&gt;1923 - Muere &lt;a href=&quot;https://en.wikipedia.org/wiki/Johannes_Diderik_van_der_Waals&quot;&gt;Johannes Diderik van der Waals&lt;/a&gt;, Nobel de física de 1910 y padre de la química nuclear.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;cuaderno-de-bitácora&quot;&gt;Cuaderno de bitácora&lt;/h3&gt;
+&lt;p&gt;Tras desesperados intentos de evasión de las fuerzas mercenarias de Derechos de Autor de la Galaxia Megalón 5, El Geek Errante fue atrapado por un rayo tractor de su destructor intergaláctico. Futur3 y HoloJorge han sido detenidos, nuestra nave confiscada y Doc y Mr.Solo han logrado escapar en una lanzadera.&lt;/p&gt;
+
+&lt;h3 id=&quot;rincón-del-oyente&quot;&gt;Rincón del oyente&lt;/h3&gt;
+&lt;p&gt;Seguimos con el concurso “Apple Apesta”. ¡Escríbenos!&lt;/p&gt;
+
+&lt;h3 id=&quot;noticia-de-entrada&quot;&gt;Noticia de entrada&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Los globos y la salud: &lt;a href=&quot;http://www.theoildrum.com/node/3484&quot;&gt;la crisis del Helio&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;miscelanea&quot;&gt;Miscelanea&lt;/h3&gt;
+
+&lt;h5 id=&quot;quickies&quot;&gt;Quickies&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;¿&lt;a href=&quot;http://boingboing.net/2008/03/03/do-coat-hangers-soun.html&quot;&gt;Suenan las Perchas de colgar ropa&lt;/a&gt; igual que un Monster Cable?&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://arstechnica.com/gadgets/2008/02/aussie-team-claims-5gbps-wireless-breakthrough/&quot;&gt;Nuevo chip para comunicaciones inalambricas&lt;/a&gt;: 5Gbps y hasta 10 metros.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://web.archive.org/web/20080914103929/http://blogs.sun.com/webmink/entry/openoffice_org_goes_to_lgplv3&quot;&gt;OpenOffice será GPLv3&lt;/a&gt; y soportará OpenGL.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;especial-retromadrid-08&quot;&gt;Especial RetroMadrid ‘08&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Entrevista a &lt;a href=&quot;https://twitter.com/MadriSX&quot;&gt;Rafael Corrales&lt;/a&gt; (director del evento)
+    &lt;ul&gt;
+      &lt;li&gt;Web de &lt;a href=&quot;http://www.retromadrid.org/&quot;&gt;RetroMadrid&lt;/a&gt;.&lt;/li&gt;
+      &lt;li&gt;Web de la &lt;a href=&quot;http://www.auic.es/&quot;&gt;Asociación de Usuarios de Informática Clásica&lt;/a&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Entrevista a Luis, uno de los expositores y coleccionista de h/w &lt;del&gt;obsoleto&lt;/del&gt; clásico.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.symbos.de/&quot;&gt;SymbOS&lt;/a&gt;: un SO Multitarea para CPUs Amstrad de 8bits.&lt;/li&gt;
+  &lt;li&gt;Daniel y Alejandra, beta-testers profesionales.&lt;/li&gt;
+  &lt;li&gt;Confesiones de un desarrollador MSX: St4r
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.matranet.net/&quot;&gt;Matra Computer Automations&lt;/a&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;developers--unix&quot;&gt;Developers &amp;amp; UNIX&lt;/h3&gt;
+
+&lt;h5 id=&quot;quickies-1&quot;&gt;Quickies&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;z10: &lt;a href=&quot;https://phys.org/news/2008-02-ibm-mainframe.html&quot;&gt;el nuevo mainframe de IBM&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.slashdot.org/story/08/02/23/1313229/rms-steps-down-as-emacs-maintainer&quot;&gt;Stallman deja EMACS&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;El grupo 29A &lt;a href=&quot;http://blog.hispasec.com/laboratorio/273.html&quot;&gt;anuncia oficialmente su retirada&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;p2p-y-derecho-digital&quot;&gt;P2P y Derecho Digital&lt;/h3&gt;
+
+&lt;h5 id=&quot;quickies-2&quot;&gt;Quickies&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;Para Google, &lt;a href=&quot;http://arstechnica.com/tech-policy/2008/02/google-no-black-and-white-regulation-of-ip-addresses/&quot;&gt;la dirección IP no es un dato de carácter personal&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;La EU pide &lt;a href=&quot;http://www.theregister.co.uk/2008/02/22/rfid_tags_deactivate_retailers/&quot;&gt;desactivar los tags RFID&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Propuesta: &lt;a href=&quot;https://entertainment.slashdot.org/story/08/02/14/1626228/eu-commissioner-proposes-95-year-copyright&quot;&gt;95 años de Copyright para Europa&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sci-fi-to-sci-fact&quot;&gt;Sci-fi to Sci-fact&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;EEUU: Los &lt;a href=&quot;http://www.nytimes.com/2008/02/24/health/24dna.html&quot;&gt;tests de ADN obligatorios&lt;/a&gt; han provocado que determinadas personas paguen por falsificar los resultados.
+    &lt;ul&gt;
+      &lt;li&gt;Referencias: &lt;a href=&quot;http://www.imdb.com/title/tt0119177/&quot;&gt;GATTACA&lt;/a&gt;, &lt;a href=&quot;https://www.huxley.net/&quot;&gt;Brave New World&lt;/a&gt; y demás distopías futuras.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Thu, 03 Apr 2008 06:42:59 +0200</pubDate>
+				<link>http://elgeekerrante.com/ege-podcast-ep35</link>
+				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep35</guid>
+			</item>
+		
+			<item>
+				<title>El Geek Errante: transmisión #34</title>
+                                <description>&lt;h1 id=&quot;territorio-cherokee&quot;&gt;Territorio Cherokee&lt;/h1&gt;
+&lt;p&gt;Bienvenidos al episodio 0×22 del podcast del Geek Errante. Hoy es sábado 1 de marzo de 2008. O lo que es lo mismo: Menga Pasah Laba Pon Paniron Saniscara Brahma Dangu Manusa (Pahang)&lt;/p&gt;
+
+
+&lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033303-geek_errante-ege-podcast-ep34.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 48.6MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
+
+&lt;h3 id=&quot;tal-día-como-hoy&quot;&gt;Tal día como hoy&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;1954 - Se detona la bomba de hidrógeno &lt;a href=&quot;http://nuclearweaponarchive.org/Usa/Tests/Castle.html&quot;&gt;Castle Bravo&lt;/a&gt;, de 15 megatones, en el &lt;a href=&quot;http://bikiniatoll.com/&quot;&gt;Atolón Bikini&lt;/a&gt; en el Océano Pacifico.&lt;/li&gt;
+  &lt;li&gt;1896 - &lt;a href=&quot;https://en.wikipedia.org/wiki/Henri_Becquerel&quot;&gt;Henri Becquerel&lt;/a&gt; descubre la radiactividad mientras investigaba las propiedades fosforescentes de las sales de Uranio.&lt;/li&gt;
+  &lt;li&gt;1873 - Comienza la fabricación y comercialización de &lt;a href=&quot;http://web.archive.org/web/20100414101916/http://home.earthlink.net/~dcrehr/firsttw.html&quot;&gt;la primera máquina de escribir&lt;/a&gt;, de la mano de  E. Remington &amp;amp; Sons.&lt;/li&gt;
+  &lt;li&gt;1956 – La Asociación Internacional del Transporte Aéreo (IATA) finaliza el draft del &lt;a href=&quot;https://es.wikipedia.org/wiki/Alfabeto_radiof%C3%B3nico&quot;&gt;Alfabeto Fonético Aeronáutico&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;1966 -  La sonda espacial &lt;a href=&quot;https://en.wikipedia.org/wiki/Venera_3&quot;&gt;Venera 3&lt;/a&gt;, lanzada el 16 de noviembre de 1965 desde Baikonour, llega a Venus.&lt;/li&gt;
+  &lt;li&gt;1991 – Fallece &lt;a href=&quot;https://en.wikipedia.org/wiki/Edwin_H._Land&quot;&gt;Edwin H. Land&lt;/a&gt; (nacido en 1909), científico estadounidense fundador de Polaroid y ejemplo de vida para todos los geeks.&lt;/li&gt;
+  &lt;li&gt;1928 - Nace &lt;a href=&quot;http://www.papert.org/&quot;&gt;Seymour Papert&lt;/a&gt;, matemático sudafricano creador de &lt;a href=&quot;https://en.wikipedia.org/wiki/Logo_%28programming_language%29&quot;&gt;LOGO&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;cuaderno-de-bitácora&quot;&gt;Cuaderno de bitácora&lt;/h3&gt;
+&lt;p&gt;Un fallo en el sistema de restore de holopersonalidades provoca la violación del Principio de Exclusión de Freud. Chaos ensues.&lt;/p&gt;
+
+&lt;h3 id=&quot;rincón-del-oyente&quot;&gt;Rincón del oyente&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ganadores del concurso Open Solaris: Loro Sapiens, riky rasca, Gelical, cinderL y Alejandro Nieto. ¡Felicidades! En breve nos pondremos en contacto con vosotros.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nuevo Concurso&lt;/strong&gt;: dinos cinco razones por las que Apple apesta, y podrás llevarte un iWork’08 nuevecito y sin estrenar. ¡Escríbenos!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;noticia-de-entrada&quot;&gt;Noticia de entrada&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Electro-boy: un chico de 12 años &lt;a href=&quot;https://www.engadget.com/2008/03/02/12-year-old-magneto-man-breaks-every-computer-he-touches/&quot;&gt;rompe toda la electronica a su alrededor&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;miscelanea&quot;&gt;Miscelanea&lt;/h3&gt;
+
+&lt;h5 id=&quot;quickies&quot;&gt;Quickies&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;La epidemia del &lt;a href=&quot;http://web.archive.org/web/20080224010259/http://news.yahoo.com/s/ap/20080213/ap_on_hi_te/techbit_servers_that_lie&quot;&gt;DNS spoofing&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://web.archive.org/web/20080518121512/http://online.wsj.com/public/article/SB120347353988378955.html?&quot;&gt;Cobertura inalámbrica mediante globos&lt;/a&gt;… Y a Google parece que le gusta la idea.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tecnologia.elpais.com/tecnologia/2008/02/26/actualidad/1204018080_850215.html&quot;&gt;Nuevo cable submarino&lt;/a&gt; entre EEUU y Japón.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;developers--unix&quot;&gt;Developers &amp;amp; UNIX&lt;/h3&gt;
+
+&lt;h5 id=&quot;entrevista-a-Álvaro-lópez-ortega&quot;&gt;Entrevista a Álvaro López Ortega&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1QbBZsAE2fgihbtZL3A5UvemjB7dYrRY7enkHz-ftvvs/edit?usp=sharing&quot;&gt;Guión de la entrevista&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/cherokee/webserver&quot;&gt;Web del Proyecto Cherokee&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://alobbs.com/&quot;&gt;Página personal&lt;/a&gt; de Álvaro.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;p2p-y-derecho-digital&quot;&gt;P2P y Derecho Digital&lt;/h3&gt;
+
+&lt;h5 id=&quot;quickies-1&quot;&gt;Quickies&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://torrentfreak.com/eu-invests-22-million-in-next-generation-bittorrent-client/&quot;&gt;La UE invierte €14,8M&lt;/a&gt; en el desarrollo de clientes bit-torrent.&lt;/li&gt;
+  &lt;li&gt;El Pentágono: &lt;a href=&quot;http://www.globalresearch.ca/pentagon-the-internet-needs-to-be-dealt-with-as-if-it-were-an-enemy-weapons-system/7980&quot;&gt;“Internet es un arma enemiga”&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://web.archive.org/web/20080222021805/http://news.yahoo.com/s/nm/20080204/wr_nm/denmark_piratebay_dc&quot;&gt;Tele2 DK bloquea PirateBay&lt;/a&gt; por una sentencia judicial.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sci-fi-to-sci-fact&quot;&gt;Sci-fi to Sci-Fact&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;La Universitat Politécnica de Valencia &lt;a href=&quot;http://www.20minutos.es/noticia/354312/0/ecuaciones/matematicas/elecciones/&quot;&gt;inventa la psicohistoria&lt;/a&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;Referencias: &lt;a href=&quot;https://en.wikipedia.org/wiki/Foundation_series&quot;&gt;Novelas de la Fundación&lt;/a&gt;, de Isaac Asimov.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Mon, 17 Mar 2008 23:35:27 +0100</pubDate>
+				<link>http://elgeekerrante.com/ege-podcast-ep34</link>
+				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep34</guid>
+			</item>
+		
 	</channel>
 </rss>

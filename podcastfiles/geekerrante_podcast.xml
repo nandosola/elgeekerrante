@@ -45,6 +45,249 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 <itunes:keywords>geek,tecnologia,gpl,linux,software,hacking,unix</itunes:keywords>
 
   <item>
+    <title>EGE 44: Obsolescencia Contraprogramada</title>
+    <link>http://elgeekerrante.com/ege-podcast-ep44</link>
+    <comments>http://elgeekerrante.com/ege-podcast-ep44#comments</comments>
+    <pubDate>Sun, 23 Apr 2017 17:07:13 +0200</pubDate>
+    <dc:creator><![CDATA[La tripulación de El Geek Errante]]></dc:creator>
+    <description><![CDATA[Bienvenidos al episodio 44 del podcast de El Geek Errante. Hoy es el día Acre del 5º Desacuerdo del año 3183 de Nuestra Señora de La Discordia.]]></description>
+    <content:encoded><![CDATA[<h1 id="obsolescencia-contraprogramada">Obsolescencia Contraprogramada</h1>
+<p> Bienvenidos al episodio 44 del podcast de El Geek Errante. Hoy es el día Acre del 5º Desacuerdo del año 3183 de Nuestra Señora de La Discordia.</p>
+
+
+
+
+<h2 id="show-notes">Show notes</h2>
+
+<h3 id="la-recuperacion-de-los-archivos-de-el-geek-errante">La recuperación de los archivos de El Geek Errante</h3>
+<ul>
+  <li>Casi dos meses para montar la nueva web y recuperar enlaces</li>
+  <li>Kudos, <a href="https://archive.org/">archive.org</a>.</li>
+  <li>Problemas para mantener los enlaces actualizados en la web: SEO del malo, compañías que desaparecen, <a href="https://medium.com/@stilkov/why-i-hate-your-single-page-app-f08bb4ff9134">SPAs</a></li>
+  <li><a href="https://www.w3.org/Provider/Style/URI">Cool URLs don’t change</a></li>
+  <li>El drama de <a href="https://twitter.com/kriptopolis">Kriptopolis</a></li>
+  <li>Archive.org y el <a href="https://tech.slashdot.org/story/17/04/23/0027207/should-archiveorg-ignore-robotstxt-directives-and-cache-everything">robots.txt</a></li>
+  <li>Cuando los acortadores de URLs <a href="https://techcrunch.com/2009/08/14/following-the-trim-incident-301works-is-ready-to-insure-shortened-urls/">desaparecen</a></li>
+  <li>El caso <a href="https://en.wikipedia.org/wiki/FeedBurner">FeedBurner</a>, un zombi de la weboscero.</li>
+</ul>
+
+<h3 id="noticias-desde-la-tardis-i">Noticias desde la TARDIS (I)</h3>
+<ul>
+  <li><a href="http://www.bbc.com/mundo/noticias/2015/04/150421_tecnologia_noruega_radio_fm_cambio_digital_ig">Noruega pone fin a la FM terrestre</a>
+    <ul>
+      <li>Consorcio <a href="https://www.worlddab.org/">WorldDAB</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Countries_using_DAB/DMB">Países con servicio DAB</a></li>
+      <li><a href="https://media.info/radio/opinion/dab-and-dab-the-differences-and-its-use-in-the-uk">Transición de DAB a DAB+</a></li>
+      <li><a href="https://www.youtube.com/watch?v=ryNtz1nxmO4">Ataques contra sistemas DAB</a>.</li>
+      <li><a href="http://www.opendigitalradio.org/">OpenDigitalRadio</a></li>
+      <li>Radios comunitarias DAB en <a href="https://www.theregister.co.uk/2013/08/06/open_source_hacks_dab_to_the_masses/">UK</a> y <a href="http://tipok.org.ua/node/41">Ucrania</a>.</li>
+      <li><a href="https://es.wikipedia.org/wiki/In-band_on-channel">Sistema IBOC</a> (EEUU)</li>
+      <li><a href="https://en.wikipedia.org/wiki/Digital_Radio_Mondiale">Digital Radio Mondiale</a></li>
+      <li><a href="https://www.youtube.com/watch?v=X1tWXz_dqIE">La nyckelharpa</a> hace estallar cerebros</li>
+    </ul>
+  </li>
+  <li>
+    <p>La NASA <a href="http://www.reuters.com/article/us-nasa-tapes-idUSTRE56F5MK20090716">afirma haber borrado</a> las cintas originales del alunizaje del Apollo 11</p>
+  </li>
+  <li><a href="https://en.wikipedia.org/wiki/Doctor_Who_missing_episodes">Los episodios perdidos de Dr. Who</a></li>
+</ul>
+
+<h3 id="arqueología-digital-i">Arqueología Digital (I)</h3>
+
+<h4 id="labor-de-archiveorg--internet-archive">Labor de Archive.org / Internet Archive.</h4>
+<ul>
+  <li>Archive.org <a href="https://blog.archive.org/2016/11/29/help-us-keep-the-archive-free-accessible-and-private/">se muda a Canadá</a>, gracias a Trump.</li>
+  <li>Wayback machine <a href="https://tech.slashdot.org/story/16/05/19/160220/federal-judge-says-internet-archives-wayback-machine-a-perfectly-legitimate-source-of-evidence">como prueba en juicios</a>.</li>
+  <li>Brewster Kahle, <a href="http://www.newyorker.com/magazine/2015/01/26/cobweb">empresario y visionario</a></li>
+  <li>Proyecto <a href="http://www.netpreserve.org/openwayback">OpenWayback</a>, con <a href="https://github.com/internetarchive/wayback">su código fuente</a> y todo.</li>
+  <li><a href="https://en.wikipedia.org/wiki/International_Internet_Preservation_Consortium">Consorcio Internacional para la Preservación de Internet</a></li>
+  <li>Así funciona <a href="https://www.quora.com/How-much-data-does-Wayback-Machine-store">Wayback Machine</a></li>
+  <li>El <a href="https://gizmodo.com/the-wayback-machine-is-getting-a-search-engine-1739099940">motor de búsqueda</a> de Wayback Machine.</li>
+  <li>El redirector de redirectores: <a href="https://en.wikipedia.org/wiki/Persistent_uniform_resource_locator">PURL</a></li>
+  <li><a href="http://www.enterprisestorageforum.com/technology/features/article.php/3633256/The-Wayback-Machine-From-Petabytes-to-PetaBoxes.htm">La tecnología detrás de Archive.org</a>
+    <ul>
+      <li><a href="https://www.linux.com/news/behind-wayback-machine">Los inicios</a></li>
+      <li><a href="https://archive.org/web/petabox.php">Petabox</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="formatos-obsoletos">Formatos obsoletos</h4>
+<ul>
+  <li>Software
+    <ul>
+      <li><a href="https://archive.org/details/historicalsoftware">Historical Software Archive</a></li>
+      <li><a href="http://vetusware.com/">VETUSWARE</a> y <a href="http://www.abandonia.com/">abandonia</a></li>
+      <li><a href="http://www.documentliberation.org/about/">The Document Liberation Project</a>
+        <ul>
+          <li><a href="https://wiki.documentfoundation.org/DLP/Libraries#Suggested_formats">Formatos soportados</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Hardware
+    <ul>
+      <li><a href="http://www.experimentaljetset.nl/archive/lostformats">The Lost Format Preservation Society</a></li>
+      <li><a href="http://www.obsoletemedia.org/">The Museum of Obsolete Media</a>
+        <ul>
+          <li><a href="http://www.obsoletemedia.org/media-preservation/media-stability-ratings/">Índice de estabilidad</a></li>
+          <li><a href="http://www.obsoletemedia.org/media-preservation/obsolescence-ratings/">Índice de obsolescencia</a></li>
+        </ul>
+      </li>
+      <li><a href="http://www.digitaltrends.com/computing/why-do-floppy-disks-still-exist-the-world-isnt-ready-to-move-on/">El floppy se resiste a morir</a></li>
+      <li><a href="http://www.storagecraft.com/blog/data-storage-lifespan/">Vida media del almacenamiento convencional</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="noticias-desde-la-tardis-ii">Noticias desde la TARDIS (II)</h3>
+<ul>
+  <li><a href="http://www.bbc.com/news/technology-21297024">Sony fabricará el último sistema MiniDisk</a></li>
+  <li><a href="https://www.dailydot.com/upstream/marion-stokes-vhs-internet-archive-input/">La increíble colección de vídeos de una mujer vivirá eternamente en Internet</a></li>
+  <li><a href="http://www.theverge.com/2014/4/24/5646554/andy-warhols-lost-amiga-computer-art-photo-essay">Tras 30 años se recupera el arte digital de Andy Warhol, realizado en un Amiga</a>
+    <ul>
+      <li>Misma noticia, <a href="https://www.wired.com/2014/05/watch-andy-warhol-computer-art/">en WIRED</a></li>
+      <li><a href="http://www.club.cc.cmu.edu/">Carnegie-Mellon computer Club</a></li>
+      <li><a href="http://www.kryoflux.com/">KryoFlux</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="arqueología-digital-ii">Arqueología Digital (II)</h3>
+
+<h4 id="implicaciones-prácticas">Implicaciones prácticas</h4>
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/Open_Archival_Information_System">Open Archival Information System</a>
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/Consultative_Committee_for_Space_Data_Systems">Consultative Committee for Space Data Systems</a></li>
+    </ul>
+  </li>
+  <li><a href="https://en.wikibooks.org/wiki/Choosing_The_Right_File_Format/Print_version">Guía para elegir el formato de archivo adecuado</a>
+    <ul>
+      <li><a href="https://en.wikibooks.org/wiki/Choosing_The_Right_File_Format/Print_version#Quick_Guide_to_recommended_formats">Más recomendaciones</a></li>
+    </ul>
+  </li>
+  <li><a href="http://www.backupreview.info/2016/08/24/legacy-storage-dead-or-alive/">¿Los backups tradicionales están muriendo?</a></li>
+  <li>Ejemplos domésticos: CrashPlan, Carbonite, Backblaze, Mozy, TarSnap, AWS Glacier.</li>
+  <li>BlueRay como alternativa
+    <ul>
+      <li>Sony y Panasonic <a href="http://www.theinquirer.net/inquirer/news/2333250/sony-and-panasonic-unveil-archival-disc-as-blu-ray-successor">anuncian Archival Disc</a>. Pensado precisamente para backup.</li>
+      <li>Sony anuncia un <a href="http://www.techhive.com/article/3057230/storage/sony-cranks-up-optical-disc-storage-to-33tb.html">BluRay de 3.3 TB</a>, parece que <a href="http://www.hardwarezone.com.sg/tech-news-sony-s-latest-33tb-archiving-storage-system-boasts-shelf-life-100-years">durará hasta 100 años</a> y que los lectores serán <a href="http://www.visuals.co.uk/5013743-odsd280u.html">un pelín caros</a></li>
+      <li><a href="http://www.mdisc.com/">M-Disk</a>: los mormones <a href="http://ask.lib.byu.edu/a.php?qid=309884">tienen la respuesta</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="archivos-para-el-apocalipsis">Archivos para el Apocalipsis</h4>
+<ul>
+  <li><a href="http://rosettaproject.org/">The Rosetta Project</a> (parte de la <a href="http://longnow.org/">Long Now Foundation</a>)</li>
+  <li><a href="https://en.wikipedia.org/wiki/Rosetta_Stone">La Piedra de Rosetta</a> original</li>
+</ul>
+
+<h3 id="sci-fi-to-sci-fact">Sci-fi to Sci-fact</h3>
+<ul>
+  <li>Almacenamiento en ADN</li>
+</ul>
+
+<h4 id="sci-fi">Sci-Fi</h4>
+<ul>
+  <li><a href="https://www.goodreads.com/book/show/1902160.The_Preserving_Machine">The Preserving Machine</a> (Philip K. Dick, 1953)</li>
+  <li><a href="https://www.goodreads.com/book/show/12953520-year-zero">Year Zero</a> (Rob Reid, 2012)</li>
+</ul>
+
+<h4 id="sci-fact">Sci-Fact</h4>
+<ul>
+  <li><a href="http://www.bbc.com/mundo/noticias/2013/01/130124_ventajas_archivar_documentos_adn">Las ventajas de archivar en ADN</a></li>
+  <li><a href="http://www.bbc.com/future/story/20130724-saving-civilisation-in-one-room">Los tímidos inicios</a></li>
+  <li><a href="https://www.technologyreview.com/s/601851/microsoft-reports-a-big-leap-forward-for-dna-data-storage/">Microsoft también ha explorado este campo</a></li>
+  <li><a href="http://science.sciencemag.org/content/355/6328/950.full">DNA Fountain: protocolo de almacenamiento robusto en ADN</a>
+    <ul>
+      <li><a href="http://dnafountain.teamerlich.org/">Página del proyecto</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="licencia">Licencia</h2>
+<p>El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita <a href="http://es.creativecommons.org/blog/licencias/">http://es.creativecommons.org/blog/licencias/</a></p>
+
+]]></content:encoded>
+    <enclosure url="http://feeds.soundcloud.com/stream/319099575-geek_errante-ege-podcast-ep44.mp3" length="89083559" type="audio/mpeg" />
+    <guid isPermaLink="false">http://feeds.soundcloud.com/stream/319099575-geek_errante-ege-podcast-ep44.mp3</guid>
+    <itunes:subtitle><![CDATA[Bienvenidos al episodio 44 del podcast de El Geek Errante. Hoy es el día Acre del 5º Desacuerdo del año 3183 de Nuestra Señora de La Discordia.
+
+]]></itunes:subtitle>
+    <itunes:summary><![CDATA[Bienvenidos al episodio 44 del podcast de El Geek Errante. Hoy es el día Acre del 5º Desacuerdo del año 3183 de Nuestra Señora de La Discordia.
+
+
+
+
+Show notes
+
+La recuperación de los archivos de El Geek Errante
+
+  Casi dos meses para montar la nueva web y recuperar enlaces
+  Kudos, archive.org.
+  Problemas para mantener los enlaces actualizados en la web: SEO del malo, compañías que desaparecen, SPAs
+  Cool URLs don’t change
+  El drama de Kriptopolis
+  Archive.org y el robots.txt
+  Cuando los acortadores de URLs desaparecen
+  El caso FeedBurner, un zombi de la weboscero.
+
+Noticias desde la TARDIS (I)
+  Noruega pone fin a la FM terrestre
+  La NASA afirma haber borrado las cintas originales del alunizaje del Apollo 11
+  Los episodios perdidos de Dr. Who
+
+Arqueología Digital (I)
+
+  Labor de Archive.org / Internet Archive.
+    Archive.org se muda a Canadá, gracias a Trump.
+    Wayback machine como prueba en juicios.
+    Brewster Kahle, empresario y visionario
+    Proyecto OpenWayback, con su código fuente y todo.
+    Así funciona Wayback Machine
+    La tecnología detrás de Archive.org
+
+Formatos obsoletos
+
+  Software
+  Historical Software Archive
+  The Document Liberation Project
+
+  Hardware
+    The Lost Format Preservation Society
+    The Museum of Obsolete Media
+    El floppy se resiste a morir
+    Vida media del almacenamiento convencional
+
+Noticias desde la TARDIS (II)
+  Sony fabricará el último sistema MiniDisk
+  La increíble colección de vídeos de una mujer vivirá eternamente en Internet
+  Tras 30 años se recupera el arte digital de Andy Warhol, realizado en un Amiga
+
+Arqueología Digital (II)
+
+  Implicaciones prácticas
+    Open Archival Information System
+    Guía para elegir el formato de archivo adecuado
+    Ejemplos domésticos: CrashPlan, Carbonite, Backblaze, Mozy, TarSnap, AWS Glacier.
+    BlueRay como alternativa
+
+  Archivos para el Apocalipsis
+  The Rosetta Project (parte de la Long Now Foundation)
+
+Sci-fi to Sci-fact
+  Almacenamiento en ADN
+
+]]></itunes:summary>
+    <itunes:author>La tripulación de El Geek Errante</itunes:author>
+    <itunes:image href="http://elgeekerrante.com/images/ege_itunes_logo.jpg" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:duration>01:32:45</itunes:duration>
+  </item>
+
+  <item>
     <title>EGE 43: Feel The Time, Share The Pain</title>
     <link>http://elgeekerrante.com/ege-podcast-ep43</link>
     <comments>http://elgeekerrante.com/ege-podcast-ep43#comments</comments>

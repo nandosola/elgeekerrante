@@ -2,6 +2,7 @@
 layout: post
 title: "El Geek Errante: transmisión #44"
 date: 2017-04-23 17:07:13 +0200
+comments: true
 tags:
  - ege-podcast
 categories:

@@ -71,11 +71,10 @@ kramdown:
 
 gems:
   - jekyll-sitemap
-  # See Gemfile:
-  #- jekyll-feed
 
 exclude:
   - README.md
   - LICENSE
   - Gemfile
   - Gemfile.lock
+  - bin

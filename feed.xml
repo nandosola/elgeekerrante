@@ -1,7 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.3.1">Jekyll</generator><link href="http://elgeekerrante.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://elgeekerrante.com/" rel="alternate" type="text/html" /><updated>2017-04-24T17:25:02+02:00</updated><id>http://elgeekerrante.com/</id><title type="html">Cuaderno de bitácora</title><subtitle>Life's a maze of twisty little passages, all alike</subtitle><entry><title type="html">El Geek Errante: transmisión #44</title><link href="http://elgeekerrante.com/ege-podcast-ep44" rel="alternate" type="text/html" title="El Geek Errante: transmisión #44" /><published>2017-04-23T17:07:13+02:00</published><updated>2017-04-23T17:07:13+02:00</updated><id>http://elgeekerrante.com/ege-podcast-ep44</id><content type="html" xml:base="http://elgeekerrante.com/ege-podcast-ep44">&lt;h1 id=&quot;obsolescencia-contraprogramada&quot;&gt;Obsolescencia Contraprogramada&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Cuaderno de bitácora</title>
+		<description>Life's a maze of twisty little passages, all alike</description>
+		<link>http://elgeekerrante.com</link>
+		<atom:link href="http://elgeekerrante.com/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>El Geek Errante: transmisión #44</title>
+                                <description>&lt;h1 id=&quot;obsolescencia-contraprogramada&quot;&gt;Obsolescencia Contraprogramada&lt;/h1&gt;
 &lt;p&gt;Bienvenidos al episodio 44 del podcast de El Geek Errante. Hoy es el día Acre del 5º Desacuerdo del año 3183 de Nuestra Señora de La Discordia: regocijaos, pues hoy celebramos la fiesta del  “Mojoday”. Un día perfecto para cambiar de bando y defender a capa y espada lo que antes considerabas absurdo e indefendible.&lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/319099575&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+
 &lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/319099575-geek_errante-ege-podcast-ep44.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 85.0MB)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
@@ -156,10 +166,20 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
-&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="ege-podcast" /><summary type="html">Obsolescencia Contraprogramada Bienvenidos al episodio 44 del podcast de El Geek Errante. Hoy es el día Acre del 5º Desacuerdo del año 3183 de Nuestra Señora de La Discordia: regocijaos, pues hoy celebramos la fiesta del “Mojoday”. Un día perfecto para cambiar de bando y defender a capa y espada lo que antes considerabas absurdo e indefendible.</summary></entry><entry><title type="html">El Geek Errante: transmisión #43</title><link href="http://elgeekerrante.com/ege-podcast-ep43" rel="alternate" type="text/html" title="El Geek Errante: transmisión #43" /><published>2011-03-26T21:02:46+01:00</published><updated>2011-03-26T21:02:46+01:00</updated><id>http://elgeekerrante.com/ege-podcast-ep43</id><content type="html" xml:base="http://elgeekerrante.com/ege-podcast-ep43">&lt;h1 id=&quot;feel-the-time-share-the-pain&quot;&gt;Feel The Time, Share The Pain&lt;/h1&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Sun, 23 Apr 2017 17:07:13 +0200</pubDate>
+				<link>http://elgeekerrante.com/ege-podcast-ep44</link>
+				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep44</guid>
+			</item>
+		
+			<item>
+				<title>El Geek Errante: transmisión #43</title>
+                                <description>&lt;h1 id=&quot;feel-the-time-share-the-pain&quot;&gt;Feel The Time, Share The Pain&lt;/h1&gt;
 &lt;p&gt;Bienvenidos al episodio 43 del podcast del Geek Errante, correspondiente a un momento indefinido del espacio-tiempo, en una dimensión desconocida compuesta de pequeños pasadizos, todos iguales.&lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303047851&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+
 &lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303047851-geek_errante-ege-podcast-ep43.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 54.9MB)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
@@ -212,10 +232,20 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
-&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="ege-podcast" /><summary type="html">Feel The Time, Share The Pain Bienvenidos al episodio 43 del podcast del Geek Errante, correspondiente a un momento indefinido del espacio-tiempo, en una dimensión desconocida compuesta de pequeños pasadizos, todos iguales.</summary></entry><entry><title type="html">El Geek Errante: transmisión #42</title><link href="http://elgeekerrante.com/ege-podcast-ep42" rel="alternate" type="text/html" title="El Geek Errante: transmisión #42" /><published>2009-12-01T21:54:55+01:00</published><updated>2009-12-01T21:54:55+01:00</updated><id>http://elgeekerrante.com/ege-podcast-ep42</id><content type="html" xml:base="http://elgeekerrante.com/ege-podcast-ep42">&lt;h1 id=&quot;geeks-go-host&quot;&gt;Geeks Go Host!&lt;/h1&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Sat, 26 Mar 2011 21:02:46 +0100</pubDate>
+				<link>http://elgeekerrante.com/ege-podcast-ep43</link>
+				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep43</guid>
+			</item>
+		
+			<item>
+				<title>El Geek Errante: transmisión #42</title>
+                                <description>&lt;h1 id=&quot;geeks-go-host&quot;&gt;Geeks Go Host!&lt;/h1&gt;
 &lt;p&gt;Bienvenidos al episodio 42 del podcast del Geek Errante, correspondiente al mes de Noviembre de 2009. Mes cero del año cero de la segunda venida.&lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033277&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+
 &lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033277-geek_errante-ege-podcast-ep42.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 49.5MB)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
@@ -303,10 +333,20 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
-&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="ege-podcast" /><summary type="html">Geeks Go Host! Bienvenidos al episodio 42 del podcast del Geek Errante, correspondiente al mes de Noviembre de 2009. Mes cero del año cero de la segunda venida.</summary></entry><entry><title type="html">El Geek Errante: transmisión #41</title><link href="http://elgeekerrante.com/ege-podcast-ep41" rel="alternate" type="text/html" title="El Geek Errante: transmisión #41" /><published>2008-10-02T15:46:19+02:00</published><updated>2008-10-02T15:46:19+02:00</updated><id>http://elgeekerrante.com/ege-podcast-ep41</id><content type="html" xml:base="http://elgeekerrante.com/ege-podcast-ep41">&lt;h1 id=&quot;colada-antisocial&quot;&gt;Colada Antisocial&lt;/h1&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Tue, 01 Dec 2009 21:54:55 +0100</pubDate>
+				<link>http://elgeekerrante.com/ege-podcast-ep42</link>
+				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep42</guid>
+			</item>
+		
+			<item>
+				<title>El Geek Errante: transmisión #41</title>
+                                <description>&lt;h1 id=&quot;colada-antisocial&quot;&gt;Colada Antisocial&lt;/h1&gt;
 &lt;p&gt;Bienvenidos al episodio del podcast del Geek Errante, grabado el 5 de Julio de 2008. 10 años después de día X de la Iglesia del Subgenius. Otro fin del mundo que no se ha cumplido – 10 años más para slackear.&lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033281&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+
 &lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033281-geek_errante-ege-podcast-ep41.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 36.3MB)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
@@ -371,10 +411,20 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
-&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="ege-podcast" /><summary type="html">Colada Antisocial Bienvenidos al episodio del podcast del Geek Errante, grabado el 5 de Julio de 2008. 10 años después de día X de la Iglesia del Subgenius. Otro fin del mundo que no se ha cumplido – 10 años más para slackear.</summary></entry><entry><title type="html">El Geek Errante: transmisión #40</title><link href="http://elgeekerrante.com/ege-podcast-ep40" rel="alternate" type="text/html" title="El Geek Errante: transmisión #40" /><published>2008-07-15T16:05:22+02:00</published><updated>2008-07-15T16:05:22+02:00</updated><id>http://elgeekerrante.com/ege-podcast-ep40</id><content type="html" xml:base="http://elgeekerrante.com/ege-podcast-ep40">&lt;h1 id=&quot;de-8-a-64-en-30-minutos&quot;&gt;De 8 a 64 en 30 minutos&lt;/h1&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Thu, 02 Oct 2008 15:46:19 +0200</pubDate>
+				<link>http://elgeekerrante.com/ege-podcast-ep41</link>
+				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep41</guid>
+			</item>
+		
+			<item>
+				<title>El Geek Errante: transmisión #40</title>
+                                <description>&lt;h1 id=&quot;de-8-a-64-en-30-minutos&quot;&gt;De 8 a 64 en 30 minutos&lt;/h1&gt;
 &lt;p&gt;Bienvenidos al episodio XL del podcast del Geek Errante. Hoy es 27 de Julio de 2008, día número 54644 de acuerdo con VMS. Faltan 10085 días para el Armagedón NTP.&lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033284&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+
 &lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033284-geek_errante-ege-podcast-ep40.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 38.9MB)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
@@ -437,10 +487,20 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
-&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="ege-podcast" /><summary type="html">De 8 a 64 en 30 minutos Bienvenidos al episodio XL del podcast del Geek Errante. Hoy es 27 de Julio de 2008, día número 54644 de acuerdo con VMS. Faltan 10085 días para el Armagedón NTP.</summary></entry><entry><title type="html">El Geek Errante: transmisión #39</title><link href="http://elgeekerrante.com/ege-podcast-ep39" rel="alternate" type="text/html" title="El Geek Errante: transmisión #39" /><published>2008-07-01T03:37:45+02:00</published><updated>2008-07-01T03:37:45+02:00</updated><id>http://elgeekerrante.com/ege-podcast-ep39</id><content type="html" xml:base="http://elgeekerrante.com/ege-podcast-ep39">&lt;h1 id=&quot;las-guerras-olvidadas&quot;&gt;Las Guerras Olvidadas&lt;/h1&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Tue, 15 Jul 2008 16:05:22 +0200</pubDate>
+				<link>http://elgeekerrante.com/ege-podcast-ep40</link>
+				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep40</guid>
+			</item>
+		
+			<item>
+				<title>El Geek Errante: transmisión #39</title>
+                                <description>&lt;h1 id=&quot;las-guerras-olvidadas&quot;&gt;Las Guerras Olvidadas&lt;/h1&gt;
 &lt;p&gt;Bienvenidos al episodio 39 del podcast del Geek Errante. Hoy es sábado 7 de junio de 2008, 30 de Bashans de 1724.&lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033289&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+
 &lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033289-geek_errante-ege-podcast-ep39.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 39.5MB)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
@@ -518,10 +578,20 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
-&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="ege-podcast" /><summary type="html">Las Guerras Olvidadas Bienvenidos al episodio 39 del podcast del Geek Errante. Hoy es sábado 7 de junio de 2008, 30 de Bashans de 1724.</summary></entry><entry><title type="html">El Geek Errante: transmisión #38</title><link href="http://elgeekerrante.com/ege-podcast-ep38" rel="alternate" type="text/html" title="El Geek Errante: transmisión #38" /><published>2008-06-12T04:21:02+02:00</published><updated>2008-06-12T04:21:02+02:00</updated><id>http://elgeekerrante.com/ege-podcast-ep38</id><content type="html" xml:base="http://elgeekerrante.com/ege-podcast-ep38">&lt;h1 id=&quot;la-singularidad-está-cerca&quot;&gt;La Singularidad Está Cerca&lt;/h1&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Tue, 01 Jul 2008 03:37:45 +0200</pubDate>
+				<link>http://elgeekerrante.com/ege-podcast-ep39</link>
+				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep39</guid>
+			</item>
+		
+			<item>
+				<title>El Geek Errante: transmisión #38</title>
+                                <description>&lt;h1 id=&quot;la-singularidad-está-cerca&quot;&gt;La Singularidad Está Cerca&lt;/h1&gt;
 &lt;p&gt;Hoy es sábado 31 de mayo de 2008, y estáis escuchando el episodio número 38 del podcast de EGE. Exactamente 1665 días antes del fin del mundo.&lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033292&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+
 &lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033292-geek_errante-ege-podcast-ep38.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 36.2MB)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
@@ -593,10 +663,20 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
-&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="ege-podcast" /><summary type="html">La Singularidad Está Cerca Hoy es sábado 31 de mayo de 2008, y estáis escuchando el episodio número 38 del podcast de EGE. Exactamente 1665 días antes del fin del mundo.</summary></entry><entry><title type="html">El Geek Errante: transmisión #37</title><link href="http://elgeekerrante.com/ege-podcast-ep37" rel="alternate" type="text/html" title="El Geek Errante: transmisión #37" /><published>2008-05-26T06:03:12+02:00</published><updated>2008-05-26T06:03:12+02:00</updated><id>http://elgeekerrante.com/ege-podcast-ep37</id><content type="html" xml:base="http://elgeekerrante.com/ege-podcast-ep37">&lt;h1 id=&quot;algo-huele-a-Ácido-sulfhídrico-en-china&quot;&gt;Algo Huele a Ácido Sulfhídrico en China&lt;/h1&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Thu, 12 Jun 2008 04:21:02 +0200</pubDate>
+				<link>http://elgeekerrante.com/ege-podcast-ep38</link>
+				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep38</guid>
+			</item>
+		
+			<item>
+				<title>El Geek Errante: transmisión #37</title>
+                                <description>&lt;h1 id=&quot;algo-huele-a-Ácido-sulfhídrico-en-china&quot;&gt;Algo Huele a Ácido Sulfhídrico en China&lt;/h1&gt;
 &lt;p&gt;Bienvenidos a la transmisión número 37 de El Geek Errante, grabada el sábado 24 de mayo de 2008 . Fecha irrelevante según el calendario Borg.&lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033294&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+
 &lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033294-geek_errante-ege-podcast-ep37.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 45.0MB)&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -748,10 +828,20 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
-&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="ege-podcast" /><summary type="html">Algo Huele a Ácido Sulfhídrico en China Bienvenidos a la transmisión número 37 de El Geek Errante, grabada el sábado 24 de mayo de 2008 . Fecha irrelevante según el calendario Borg.</summary></entry><entry><title type="html">El Geek Errante: transmisión #36</title><link href="http://elgeekerrante.com/ege-podcast-ep36" rel="alternate" type="text/html" title="El Geek Errante: transmisión #36" /><published>2008-04-10T23:44:37+02:00</published><updated>2008-04-10T23:44:37+02:00</updated><id>http://elgeekerrante.com/ege-podcast-ep36</id><content type="html" xml:base="http://elgeekerrante.com/ege-podcast-ep36">&lt;h1 id=&quot;a-podcasting-odyssey&quot;&gt;A Podcasting Odyssey&lt;/h1&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Mon, 26 May 2008 06:03:12 +0200</pubDate>
+				<link>http://elgeekerrante.com/ege-podcast-ep37</link>
+				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep37</guid>
+			</item>
+		
+			<item>
+				<title>El Geek Errante: transmisión #36</title>
+                                <description>&lt;h1 id=&quot;a-podcasting-odyssey&quot;&gt;A Podcasting Odyssey&lt;/h1&gt;
 &lt;p&gt;Bienvenidos al episodio XXXVI del podcast del Geek Errante. Hoy es domingo 6 de abril de 2008. Día 17 de la estación B del año 88 de la era Asimoviana.&lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033295&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+
 &lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033295-geek_errante-ege-podcast-ep36.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 49.0MB)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
@@ -879,12 +969,22 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
-&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="ege-podcast" /><summary type="html">A Podcasting Odyssey Bienvenidos al episodio XXXVI del podcast del Geek Errante. Hoy es domingo 6 de abril de 2008. Día 17 de la estación B del año 88 de la era Asimoviana.</summary></entry><entry><title type="html">El Geek Errante: transmisión #35</title><link href="http://elgeekerrante.com/ege-podcast-ep35" rel="alternate" type="text/html" title="El Geek Errante: transmisión #35" /><published>2008-04-03T06:42:59+02:00</published><updated>2008-04-03T06:42:59+02:00</updated><id>http://elgeekerrante.com/ege-podcast-ep35</id><content type="html" xml:base="http://elgeekerrante.com/ege-podcast-ep35">&lt;h1 id=&quot;el-bit-errante&quot;&gt;El Bit Errante&lt;/h1&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Thu, 10 Apr 2008 23:44:37 +0200</pubDate>
+				<link>http://elgeekerrante.com/ege-podcast-ep36</link>
+				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep36</guid>
+			</item>
+		
+			<item>
+				<title>El Geek Errante: transmisión #35</title>
+                                <description>&lt;h1 id=&quot;el-bit-errante&quot;&gt;El Bit Errante&lt;/h1&gt;
 &lt;p&gt;Bienvenidos al episodio 0×23 del podcast del Geek Errante. Hoy es 8 de Marzo de 2008, 22 de Epiphi de 2756.&lt;/p&gt;
 
 &lt;p&gt;Una felicitación especial a tod@s nuestr@s oyentes que tengan la suerte de contar con un doble cromosoma X.&lt;/p&gt;
 
-&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033300&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+
 &lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033300-geek_errante-ege-podcast-ep35.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 48.1MB)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
@@ -965,4 +1065,13 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
-&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="ege-podcast" /><summary type="html">El Bit Errante Bienvenidos al episodio 0×23 del podcast del Geek Errante. Hoy es 8 de Marzo de 2008, 22 de Epiphi de 2756.</summary></entry></feed>
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
+
+</description>
+				<pubDate>Thu, 03 Apr 2008 06:42:59 +0200</pubDate>
+				<link>http://elgeekerrante.com/ege-podcast-ep35</link>
+				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep35</guid>
+			</item>
+		
+	</channel>
+</rss>

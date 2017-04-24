@@ -15,10 +15,10 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 <description>Bienvenidos a bordo del Geek Errante. Nuestra misión en cada episodio es llevar a ustedes, geeks y frikis de habla hispana, los comentarios técnicos más profundos, las noticias tecnológicas más interesantes, las opiniones más políticamente incorrectas y por qué no, un toque de humor geek. Cada semana El Doctor, Mr. Solo, HoloJorge y FuTuR3 llevarán a sus reproductores de MP3, a través de su transmisor subespacial, el contenido más geek de la podosfera en español. Esperamos que este viaje sea de su agrado.</description>
 <category  domain="Tech%20News">Technology</category>
 <copyright>Creative Commons Attribution-NonCommercial-NoDerivs 2.5 Spain</copyright>
-<lastBuildDate>Mon, 23 Jan 2017 21:24:31 +0100</lastBuildDate>
-<pubDate>Mon, 23 Jan 2017 21:24:31 +0100</pubDate>
+<lastBuildDate>Mon, 24 Apr 2017 18:57:25 +0200</lastBuildDate>
+<pubDate>Mon, 24 Apr 2017 18:57:25 +0200</pubDate>
 <language>es</language>
-<sy:updateBase>2017-01-23T21:24+0100</sy:updateBase>
+<sy:updateBase>2017-04-24T18:57+0200</sy:updateBase>
 <sy:updatePeriod>monthly</sy:updatePeriod>
 <sy:updateFrequency>1</sy:updateFrequency>
 <generator>http://jekyllrb.com</generator>
@@ -50,16 +50,19 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
     <comments>http://elgeekerrante.com/ege-podcast-ep44#comments</comments>
     <pubDate>Sun, 23 Apr 2017 17:07:13 +0200</pubDate>
     <dc:creator><![CDATA[La tripulación de El Geek Errante]]></dc:creator>
-    <description><![CDATA[Bienvenidos al episodio 44 del podcast de El Geek Errante. Hoy es el día Acre del 5º Desacuerdo del año 3183 de Nuestra Señora de La Discordia.]]></description>
+    <description><![CDATA[Bienvenidos al episodio 44 del podcast de El Geek Errante. Hoy es el día Acre del 5º Desacuerdo del año 3183 de Nuestra Señora de La Discordia: regocijaos, pues hoy celebramos la fiesta del “Mojoday”. Un día perfecto para cambiar de bando y defender a capa y espada lo que...]]></description>
     <content:encoded><![CDATA[<h1 id="obsolescencia-contraprogramada">Obsolescencia Contraprogramada</h1>
-<p> Bienvenidos al episodio 44 del podcast de El Geek Errante. Hoy es el día Acre del 5º Desacuerdo del año 3183 de Nuestra Señora de La Discordia.</p>
+<p>Bienvenidos al episodio 44 del podcast de El Geek Errante. Hoy es el día Acre del 5º Desacuerdo del año 3183 de Nuestra Señora de La Discordia: regocijaos, pues hoy celebramos la fiesta del  “Mojoday”. Un día perfecto para cambiar de bando y defender a capa y espada lo que antes considerabas absurdo e indefendible.</p>
 
 
 
 
 <h2 id="show-notes">Show notes</h2>
 
-<h3 id="la-recuperacion-de-los-archivos-de-el-geek-errante">La recuperación de los archivos de El Geek Errante</h3>
+<h3 id="cuaderno-de-bitácora">Cuaderno de bitácora</h3>
+<p>El Doctor y Mr.Solo están internados en el Asilo para seres multidimensionales enloquecidos de Sta. Cthulhina de Arkham. Cada día es gris y consiste en pura rutina. Pero hoy han logrado escaparse para grabar el podcast vía fusión mental vulcaniana desde el Palacio De La Mente del Doctor.</p>
+
+<h3 id="la-recuperación-de-los-archivos-de-el-geek-errante">La recuperación de los archivos de El Geek Errante</h3>
 <ul>
   <li>Casi dos meses para montar la nueva web y recuperar enlaces</li>
   <li>Kudos, <a href="https://archive.org/">archive.org</a>.</li>
@@ -86,9 +89,7 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
       <li><a href="https://www.youtube.com/watch?v=X1tWXz_dqIE">La nyckelharpa</a> hace estallar cerebros</li>
     </ul>
   </li>
-  <li>
-    <p>La NASA <a href="http://www.reuters.com/article/us-nasa-tapes-idUSTRE56F5MK20090716">afirma haber borrado</a> las cintas originales del alunizaje del Apollo 11</p>
-  </li>
+  <li>La NASA <a href="http://www.reuters.com/article/us-nasa-tapes-idUSTRE56F5MK20090716">afirma haber borrado</a> las cintas originales del alunizaje del Apollo 11</li>
   <li><a href="https://en.wikipedia.org/wiki/Doctor_Who_missing_episodes">Los episodios perdidos de Dr. Who</a></li>
 </ul>
 
@@ -213,15 +214,16 @@ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
 ]]></content:encoded>
     <enclosure url="http://feeds.soundcloud.com/stream/319099575-geek_errante-ege-podcast-ep44.mp3" length="89083559" type="audio/mpeg" />
     <guid isPermaLink="false">http://feeds.soundcloud.com/stream/319099575-geek_errante-ege-podcast-ep44.mp3</guid>
-    <itunes:subtitle><![CDATA[Bienvenidos al episodio 44 del podcast de El Geek Errante. Hoy es el día Acre del 5º Desacuerdo del año 3183 de Nuestra Señora de La Discordia.
-
-]]></itunes:subtitle>
-    <itunes:summary><![CDATA[Bienvenidos al episodio 44 del podcast de El Geek Errante. Hoy es el día Acre del 5º Desacuerdo del año 3183 de Nuestra Señora de La Discordia.
+    <itunes:subtitle><![CDATA[Bienvenidos al episodio 44 del podcast de El Geek Errante. Hoy es el día Acre del 5º Desacuerdo del año 3183 de Nuestra Señora de La Discordia: regocijaos, pues hoy celebramos la fiesta del  “Mojoday”. Un día perfecto para cambiar de bando y defender a...]]></itunes:subtitle>
+    <itunes:summary><![CDATA[Bienvenidos al episodio 44 del podcast de El Geek Errante. Hoy es el día Acre del 5º Desacuerdo del año 3183 de Nuestra Señora de La Discordia: regocijaos, pues hoy celebramos la fiesta del  “Mojoday”. Un día perfecto para cambiar de bando y defender a capa y espada lo que antes considerabas absurdo e indefendible.
 
 
 
 
 Show notes
+
+Cuaderno de bitácora
+El Doctor y Mr.Solo están internados en el Asilo para seres multidimensionales enloquecidos de Sta. Cthulhina de Arkham. Cada día es gris y consiste en pura rutina. Pero hoy han logrado escaparse para grabar el podcast vía fusión mental vulcaniana desde el Palacio De La Mente del Doctor.
 
 La recuperación de los archivos de El Geek Errante
 
@@ -234,51 +236,143 @@ La recuperación de los archivos de El Geek Errante
   Cuando los acortadores de URLs desaparecen
   El caso FeedBurner, un zombi de la weboscero.
 
+
 Noticias desde la TARDIS (I)
+
   Noruega pone fin a la FM terrestre
+    
+      Consorcio WorldDAB
+      Países con servicio DAB
+      Transición de DAB a DAB+
+      Ataques contra sistemas DAB.
+      OpenDigitalRadio
+      Radios comunitarias DAB en UK y Ucrania.
+      Sistema IBOC (EEUU)
+      Digital Radio Mondiale
+      La nyckelharpa hace estallar cerebros
+    
+  
   La NASA afirma haber borrado las cintas originales del alunizaje del Apollo 11
   Los episodios perdidos de Dr. Who
 
+
 Arqueología Digital (I)
 
-  Labor de Archive.org / Internet Archive.
-    Archive.org se muda a Canadá, gracias a Trump.
-    Wayback machine como prueba en juicios.
-    Brewster Kahle, empresario y visionario
-    Proyecto OpenWayback, con su código fuente y todo.
-    Así funciona Wayback Machine
-    La tecnología detrás de Archive.org
+Labor de Archive.org / Internet Archive.
+
+  Archive.org se muda a Canadá, gracias a Trump.
+  Wayback machine como prueba en juicios.
+  Brewster Kahle, empresario y visionario
+  Proyecto OpenWayback, con su código fuente y todo.
+  Consorcio Internacional para la Preservación de Internet
+  Así funciona Wayback Machine
+  El motor de búsqueda de Wayback Machine.
+  El redirector de redirectores: PURL
+  La tecnología detrás de Archive.org
+    
+      Los inicios
+      Petabox
+    
+  
+
 
 Formatos obsoletos
 
   Software
-  Historical Software Archive
-  The Document Liberation Project
-
+    
+      Historical Software Archive
+      VETUSWARE y abandonia
+      The Document Liberation Project
+        
+          Formatos soportados
+        
+      
+    
+  
   Hardware
-    The Lost Format Preservation Society
-    The Museum of Obsolete Media
-    El floppy se resiste a morir
-    Vida media del almacenamiento convencional
+    
+      The Lost Format Preservation Society
+      The Museum of Obsolete Media
+        
+          Índice de estabilidad
+          Índice de obsolescencia
+        
+      
+      El floppy se resiste a morir
+      Vida media del almacenamiento convencional
+    
+  
+
 
 Noticias desde la TARDIS (II)
+
   Sony fabricará el último sistema MiniDisk
   La increíble colección de vídeos de una mujer vivirá eternamente en Internet
   Tras 30 años se recupera el arte digital de Andy Warhol, realizado en un Amiga
+    
+      Misma noticia, en WIRED
+      Carnegie-Mellon computer Club
+      KryoFlux
+    
+  
+
 
 Arqueología Digital (II)
 
-  Implicaciones prácticas
-    Open Archival Information System
-    Guía para elegir el formato de archivo adecuado
-    Ejemplos domésticos: CrashPlan, Carbonite, Backblaze, Mozy, TarSnap, AWS Glacier.
-    BlueRay como alternativa
+Implicaciones prácticas
 
-  Archivos para el Apocalipsis
+  Open Archival Information System
+    
+      Consultative Committee for Space Data Systems
+    
+  
+  Guía para elegir el formato de archivo adecuado
+    
+      Más recomendaciones
+    
+  
+  ¿Los backups tradicionales están muriendo?
+  Ejemplos domésticos: CrashPlan, Carbonite, Backblaze, Mozy, TarSnap, AWS Glacier.
+  BlueRay como alternativa
+    
+      Sony y Panasonic anuncian Archival Disc. Pensado precisamente para backup.
+      Sony anuncia un BluRay de 3.3 TB, parece que durará hasta 100 años y que los lectores serán un pelín caros
+      M-Disk: los mormones tienen la respuesta
+    
+  
+
+
+Archivos para el Apocalipsis
+
   The Rosetta Project (parte de la Long Now Foundation)
+  La Piedra de Rosetta original
+
 
 Sci-fi to Sci-fact
+
   Almacenamiento en ADN
+
+
+Sci-Fi
+
+  The Preserving Machine (Philip K. Dick, 1953)
+  Year Zero (Rob Reid, 2012)
+
+
+Sci-Fact
+
+  Las ventajas de archivar en ADN
+  Los tímidos inicios
+  Microsoft también ha explorado este campo
+  DNA Fountain: protocolo de almacenamiento robusto en ADN
+    
+      Página del proyecto
+    
+  
+
+
+
+
 
 ]]></itunes:summary>
     <itunes:author>La tripulación de El Geek Errante</itunes:author>

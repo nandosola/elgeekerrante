@@ -22,7 +22,6 @@ module Jekyll
           puts("Generating tag '#{tag}'")
           write_tag_index(site, File.join(dir, tag), tag)
         end
-        puts("If you want to update GitHub pages, please copy _site/tag/ to the root directory and push the changes.")
       end
     end
     def write_tag_index(site, dir, tag)

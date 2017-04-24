@@ -26,7 +26,7 @@
 
     {% if site.share.gplus %}
     <li class="share-google-plus">
-      <a href="https://plus.google.com/share?url={{ site.url | append: page.url}}" target="_blank" title="Share on Google Plus">
+      <a href="https://plus.google.com/share?url={{ site.url | append: page.url}}" onclick="javascript:window.open(this.href, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;" title="Share on Google+">
         <span class="fa-stack fa-lg">
           <i class="fa fa-square-o fa-stack-2x"></i>
           <i class="fa fa-google-plus fa-stack-1x"></i>

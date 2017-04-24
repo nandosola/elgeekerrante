@@ -1,17 +1,165 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Cuaderno de bitácora</title>
-		<description>Life's a maze of twisty little passages, all alike</description>
-		<link>http://elgeekerrante.com</link>
-		<atom:link href="http://elgeekerrante.com/feed.xml" rel="self" type="application/rss+xml" />
-		
-			<item>
-				<title>El Geek Errante: transmisión #43</title>
-                                <description>&lt;h1 id=&quot;feel-the-time-share-the-pain&quot;&gt;Feel The Time, Share The Pain&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.3.1">Jekyll</generator><link href="http://elgeekerrante.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://elgeekerrante.com/" rel="alternate" type="text/html" /><updated>2017-04-24T17:25:02+02:00</updated><id>http://elgeekerrante.com/</id><title type="html">Cuaderno de bitácora</title><subtitle>Life's a maze of twisty little passages, all alike</subtitle><entry><title type="html">El Geek Errante: transmisión #44</title><link href="http://elgeekerrante.com/ege-podcast-ep44" rel="alternate" type="text/html" title="El Geek Errante: transmisión #44" /><published>2017-04-23T17:07:13+02:00</published><updated>2017-04-23T17:07:13+02:00</updated><id>http://elgeekerrante.com/ege-podcast-ep44</id><content type="html" xml:base="http://elgeekerrante.com/ege-podcast-ep44">&lt;h1 id=&quot;obsolescencia-contraprogramada&quot;&gt;Obsolescencia Contraprogramada&lt;/h1&gt;
+&lt;p&gt;Bienvenidos al episodio 44 del podcast de El Geek Errante. Hoy es el día Acre del 5º Desacuerdo del año 3183 de Nuestra Señora de La Discordia: regocijaos, pues hoy celebramos la fiesta del  “Mojoday”. Un día perfecto para cambiar de bando y defender a capa y espada lo que antes considerabas absurdo e indefendible.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/319099575&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/319099575-geek_errante-ege-podcast-ep44.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 85.0MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
+
+&lt;h3 id=&quot;cuaderno-de-bitácora&quot;&gt;Cuaderno de bitácora&lt;/h3&gt;
+&lt;p&gt;El Doctor y Mr.Solo están internados en el Asilo para seres multidimensionales enloquecidos de Sta. Cthulhina de Arkham. Cada día es gris y consiste en pura rutina. Pero hoy han logrado escaparse para grabar el podcast vía fusión mental vulcaniana desde el Palacio De La Mente del Doctor.&lt;/p&gt;
+
+&lt;h3 id=&quot;la-recuperación-de-los-archivos-de-el-geek-errante&quot;&gt;La recuperación de los archivos de El Geek Errante&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Casi dos meses para montar la nueva web y recuperar enlaces&lt;/li&gt;
+  &lt;li&gt;Kudos, &lt;a href=&quot;https://archive.org/&quot;&gt;archive.org&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Problemas para mantener los enlaces actualizados en la web: SEO del malo, compañías que desaparecen, &lt;a href=&quot;https://medium.com/@stilkov/why-i-hate-your-single-page-app-f08bb4ff9134&quot;&gt;SPAs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.w3.org/Provider/Style/URI&quot;&gt;Cool URLs don’t change&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;El drama de &lt;a href=&quot;https://twitter.com/kriptopolis&quot;&gt;Kriptopolis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Archive.org y el &lt;a href=&quot;https://tech.slashdot.org/story/17/04/23/0027207/should-archiveorg-ignore-robotstxt-directives-and-cache-everything&quot;&gt;robots.txt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Cuando los acortadores de URLs &lt;a href=&quot;https://techcrunch.com/2009/08/14/following-the-trim-incident-301works-is-ready-to-insure-shortened-urls/&quot;&gt;desaparecen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;El caso &lt;a href=&quot;https://en.wikipedia.org/wiki/FeedBurner&quot;&gt;FeedBurner&lt;/a&gt;, un zombi de la weboscero.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;noticias-desde-la-tardis-i&quot;&gt;Noticias desde la TARDIS (I)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bbc.com/mundo/noticias/2015/04/150421_tecnologia_noruega_radio_fm_cambio_digital_ig&quot;&gt;Noruega pone fin a la FM terrestre&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Consorcio &lt;a href=&quot;https://www.worlddab.org/&quot;&gt;WorldDAB&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Countries_using_DAB/DMB&quot;&gt;Países con servicio DAB&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://media.info/radio/opinion/dab-and-dab-the-differences-and-its-use-in-the-uk&quot;&gt;Transición de DAB a DAB+&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ryNtz1nxmO4&quot;&gt;Ataques contra sistemas DAB&lt;/a&gt;.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.opendigitalradio.org/&quot;&gt;OpenDigitalRadio&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Radios comunitarias DAB en &lt;a href=&quot;https://www.theregister.co.uk/2013/08/06/open_source_hacks_dab_to_the_masses/&quot;&gt;UK&lt;/a&gt; y &lt;a href=&quot;http://tipok.org.ua/node/41&quot;&gt;Ucrania&lt;/a&gt;.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://es.wikipedia.org/wiki/In-band_on-channel&quot;&gt;Sistema IBOC&lt;/a&gt; (EEUU)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Digital_Radio_Mondiale&quot;&gt;Digital Radio Mondiale&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=X1tWXz_dqIE&quot;&gt;La nyckelharpa&lt;/a&gt; hace estallar cerebros&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;La NASA &lt;a href=&quot;http://www.reuters.com/article/us-nasa-tapes-idUSTRE56F5MK20090716&quot;&gt;afirma haber borrado&lt;/a&gt; las cintas originales del alunizaje del Apollo 11&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Doctor_Who_missing_episodes&quot;&gt;Los episodios perdidos de Dr. Who&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;arqueología-digital-i&quot;&gt;Arqueología Digital (I)&lt;/h3&gt;
+
+&lt;h4 id=&quot;labor-de-archiveorg--internet-archive&quot;&gt;Labor de Archive.org / Internet Archive.&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Archive.org &lt;a href=&quot;https://blog.archive.org/2016/11/29/help-us-keep-the-archive-free-accessible-and-private/&quot;&gt;se muda a Canadá&lt;/a&gt;, gracias a Trump.&lt;/li&gt;
+  &lt;li&gt;Wayback machine &lt;a href=&quot;https://tech.slashdot.org/story/16/05/19/160220/federal-judge-says-internet-archives-wayback-machine-a-perfectly-legitimate-source-of-evidence&quot;&gt;como prueba en juicios&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Brewster Kahle, &lt;a href=&quot;http://www.newyorker.com/magazine/2015/01/26/cobweb&quot;&gt;empresario y visionario&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Proyecto &lt;a href=&quot;http://www.netpreserve.org/openwayback&quot;&gt;OpenWayback&lt;/a&gt;, con &lt;a href=&quot;https://github.com/internetarchive/wayback&quot;&gt;su código fuente&lt;/a&gt; y todo.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/International_Internet_Preservation_Consortium&quot;&gt;Consorcio Internacional para la Preservación de Internet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Así funciona &lt;a href=&quot;https://www.quora.com/How-much-data-does-Wayback-Machine-store&quot;&gt;Wayback Machine&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;El &lt;a href=&quot;https://gizmodo.com/the-wayback-machine-is-getting-a-search-engine-1739099940&quot;&gt;motor de búsqueda&lt;/a&gt; de Wayback Machine.&lt;/li&gt;
+  &lt;li&gt;El redirector de redirectores: &lt;a href=&quot;https://en.wikipedia.org/wiki/Persistent_uniform_resource_locator&quot;&gt;PURL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.enterprisestorageforum.com/technology/features/article.php/3633256/The-Wayback-Machine-From-Petabytes-to-PetaBoxes.htm&quot;&gt;La tecnología detrás de Archive.org&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.linux.com/news/behind-wayback-machine&quot;&gt;Los inicios&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://archive.org/web/petabox.php&quot;&gt;Petabox&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;formatos-obsoletos&quot;&gt;Formatos obsoletos&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Software
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://archive.org/details/historicalsoftware&quot;&gt;Historical Software Archive&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://vetusware.com/&quot;&gt;VETUSWARE&lt;/a&gt; y &lt;a href=&quot;http://www.abandonia.com/&quot;&gt;abandonia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.documentliberation.org/about/&quot;&gt;The Document Liberation Project&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://wiki.documentfoundation.org/DLP/Libraries#Suggested_formats&quot;&gt;Formatos soportados&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Hardware
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.experimentaljetset.nl/archive/lostformats&quot;&gt;The Lost Format Preservation Society&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.obsoletemedia.org/&quot;&gt;The Museum of Obsolete Media&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;http://www.obsoletemedia.org/media-preservation/media-stability-ratings/&quot;&gt;Índice de estabilidad&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;http://www.obsoletemedia.org/media-preservation/obsolescence-ratings/&quot;&gt;Índice de obsolescencia&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.digitaltrends.com/computing/why-do-floppy-disks-still-exist-the-world-isnt-ready-to-move-on/&quot;&gt;El floppy se resiste a morir&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.storagecraft.com/blog/data-storage-lifespan/&quot;&gt;Vida media del almacenamiento convencional&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;noticias-desde-la-tardis-ii&quot;&gt;Noticias desde la TARDIS (II)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bbc.com/news/technology-21297024&quot;&gt;Sony fabricará el último sistema MiniDisk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dailydot.com/upstream/marion-stokes-vhs-internet-archive-input/&quot;&gt;La increíble colección de vídeos de una mujer vivirá eternamente en Internet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.theverge.com/2014/4/24/5646554/andy-warhols-lost-amiga-computer-art-photo-essay&quot;&gt;Tras 30 años se recupera el arte digital de Andy Warhol, realizado en un Amiga&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Misma noticia, &lt;a href=&quot;https://www.wired.com/2014/05/watch-andy-warhol-computer-art/&quot;&gt;en WIRED&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.club.cc.cmu.edu/&quot;&gt;Carnegie-Mellon computer Club&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.kryoflux.com/&quot;&gt;KryoFlux&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;arqueología-digital-ii&quot;&gt;Arqueología Digital (II)&lt;/h3&gt;
+
+&lt;h4 id=&quot;implicaciones-prácticas&quot;&gt;Implicaciones prácticas&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Open_Archival_Information_System&quot;&gt;Open Archival Information System&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Consultative_Committee_for_Space_Data_Systems&quot;&gt;Consultative Committee for Space Data Systems&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikibooks.org/wiki/Choosing_The_Right_File_Format/Print_version&quot;&gt;Guía para elegir el formato de archivo adecuado&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://en.wikibooks.org/wiki/Choosing_The_Right_File_Format/Print_version#Quick_Guide_to_recommended_formats&quot;&gt;Más recomendaciones&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.backupreview.info/2016/08/24/legacy-storage-dead-or-alive/&quot;&gt;¿Los backups tradicionales están muriendo?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Ejemplos domésticos: CrashPlan, Carbonite, Backblaze, Mozy, TarSnap, AWS Glacier.&lt;/li&gt;
+  &lt;li&gt;BlueRay como alternativa
+    &lt;ul&gt;
+      &lt;li&gt;Sony y Panasonic &lt;a href=&quot;http://www.theinquirer.net/inquirer/news/2333250/sony-and-panasonic-unveil-archival-disc-as-blu-ray-successor&quot;&gt;anuncian Archival Disc&lt;/a&gt;. Pensado precisamente para backup.&lt;/li&gt;
+      &lt;li&gt;Sony anuncia un &lt;a href=&quot;http://www.techhive.com/article/3057230/storage/sony-cranks-up-optical-disc-storage-to-33tb.html&quot;&gt;BluRay de 3.3 TB&lt;/a&gt;, parece que &lt;a href=&quot;http://www.hardwarezone.com.sg/tech-news-sony-s-latest-33tb-archiving-storage-system-boasts-shelf-life-100-years&quot;&gt;durará hasta 100 años&lt;/a&gt; y que los lectores serán &lt;a href=&quot;http://www.visuals.co.uk/5013743-odsd280u.html&quot;&gt;un pelín caros&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.mdisc.com/&quot;&gt;M-Disk&lt;/a&gt;: los mormones &lt;a href=&quot;http://ask.lib.byu.edu/a.php?qid=309884&quot;&gt;tienen la respuesta&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;archivos-para-el-apocalipsis&quot;&gt;Archivos para el Apocalipsis&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rosettaproject.org/&quot;&gt;The Rosetta Project&lt;/a&gt; (parte de la &lt;a href=&quot;http://longnow.org/&quot;&gt;Long Now Foundation&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Rosetta_Stone&quot;&gt;La Piedra de Rosetta&lt;/a&gt; original&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sci-fi-to-sci-fact&quot;&gt;Sci-fi to Sci-fact&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Almacenamiento en ADN&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;sci-fi&quot;&gt;Sci-Fi&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/1902160.The_Preserving_Machine&quot;&gt;The Preserving Machine&lt;/a&gt; (Philip K. Dick, 1953)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/12953520-year-zero&quot;&gt;Year Zero&lt;/a&gt; (Rob Reid, 2012)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;sci-fact&quot;&gt;Sci-Fact&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bbc.com/mundo/noticias/2013/01/130124_ventajas_archivar_documentos_adn&quot;&gt;Las ventajas de archivar en ADN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bbc.com/future/story/20130724-saving-civilisation-in-one-room&quot;&gt;Los tímidos inicios&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.technologyreview.com/s/601851/microsoft-reports-a-big-leap-forward-for-dna-data-storage/&quot;&gt;Microsoft también ha explorado este campo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://science.sciencemag.org/content/355/6328/950.full&quot;&gt;DNA Fountain: protocolo de almacenamiento robusto en ADN&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://dnafountain.teamerlich.org/&quot;&gt;Página del proyecto&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="ege-podcast" /><summary type="html">Obsolescencia Contraprogramada Bienvenidos al episodio 44 del podcast de El Geek Errante. Hoy es el día Acre del 5º Desacuerdo del año 3183 de Nuestra Señora de La Discordia: regocijaos, pues hoy celebramos la fiesta del “Mojoday”. Un día perfecto para cambiar de bando y defender a capa y espada lo que antes considerabas absurdo e indefendible.</summary></entry><entry><title type="html">El Geek Errante: transmisión #43</title><link href="http://elgeekerrante.com/ege-podcast-ep43" rel="alternate" type="text/html" title="El Geek Errante: transmisión #43" /><published>2011-03-26T21:02:46+01:00</published><updated>2011-03-26T21:02:46+01:00</updated><id>http://elgeekerrante.com/ege-podcast-ep43</id><content type="html" xml:base="http://elgeekerrante.com/ege-podcast-ep43">&lt;h1 id=&quot;feel-the-time-share-the-pain&quot;&gt;Feel The Time, Share The Pain&lt;/h1&gt;
 &lt;p&gt;Bienvenidos al episodio 43 del podcast del Geek Errante, correspondiente a un momento indefinido del espacio-tiempo, en una dimensión desconocida compuesta de pequeños pasadizos, todos iguales.&lt;/p&gt;
 
-
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303047851&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303047851-geek_errante-ege-podcast-ep43.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 54.9MB)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
@@ -64,20 +212,10 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
-&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
-
-</description>
-				<pubDate>Sat, 26 Mar 2011 21:02:46 +0100</pubDate>
-				<link>http://elgeekerrante.com/ege-podcast-ep43</link>
-				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep43</guid>
-			</item>
-		
-			<item>
-				<title>El Geek Errante: transmisión #42</title>
-                                <description>&lt;h1 id=&quot;geeks-go-host&quot;&gt;Geeks Go Host!&lt;/h1&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="ege-podcast" /><summary type="html">Feel The Time, Share The Pain Bienvenidos al episodio 43 del podcast del Geek Errante, correspondiente a un momento indefinido del espacio-tiempo, en una dimensión desconocida compuesta de pequeños pasadizos, todos iguales.</summary></entry><entry><title type="html">El Geek Errante: transmisión #42</title><link href="http://elgeekerrante.com/ege-podcast-ep42" rel="alternate" type="text/html" title="El Geek Errante: transmisión #42" /><published>2009-12-01T21:54:55+01:00</published><updated>2009-12-01T21:54:55+01:00</updated><id>http://elgeekerrante.com/ege-podcast-ep42</id><content type="html" xml:base="http://elgeekerrante.com/ege-podcast-ep42">&lt;h1 id=&quot;geeks-go-host&quot;&gt;Geeks Go Host!&lt;/h1&gt;
 &lt;p&gt;Bienvenidos al episodio 42 del podcast del Geek Errante, correspondiente al mes de Noviembre de 2009. Mes cero del año cero de la segunda venida.&lt;/p&gt;
 
-
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033277&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033277-geek_errante-ege-podcast-ep42.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 49.5MB)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
@@ -165,20 +303,10 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
-&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
-
-</description>
-				<pubDate>Tue, 01 Dec 2009 21:54:55 +0100</pubDate>
-				<link>http://elgeekerrante.com/ege-podcast-ep42</link>
-				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep42</guid>
-			</item>
-		
-			<item>
-				<title>El Geek Errante: transmisión #41</title>
-                                <description>&lt;h1 id=&quot;colada-antisocial&quot;&gt;Colada Antisocial&lt;/h1&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="ege-podcast" /><summary type="html">Geeks Go Host! Bienvenidos al episodio 42 del podcast del Geek Errante, correspondiente al mes de Noviembre de 2009. Mes cero del año cero de la segunda venida.</summary></entry><entry><title type="html">El Geek Errante: transmisión #41</title><link href="http://elgeekerrante.com/ege-podcast-ep41" rel="alternate" type="text/html" title="El Geek Errante: transmisión #41" /><published>2008-10-02T15:46:19+02:00</published><updated>2008-10-02T15:46:19+02:00</updated><id>http://elgeekerrante.com/ege-podcast-ep41</id><content type="html" xml:base="http://elgeekerrante.com/ege-podcast-ep41">&lt;h1 id=&quot;colada-antisocial&quot;&gt;Colada Antisocial&lt;/h1&gt;
 &lt;p&gt;Bienvenidos al episodio del podcast del Geek Errante, grabado el 5 de Julio de 2008. 10 años después de día X de la Iglesia del Subgenius. Otro fin del mundo que no se ha cumplido – 10 años más para slackear.&lt;/p&gt;
 
-
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033281&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033281-geek_errante-ege-podcast-ep41.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 36.3MB)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
@@ -243,20 +371,10 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
-&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
-
-</description>
-				<pubDate>Thu, 02 Oct 2008 15:46:19 +0200</pubDate>
-				<link>http://elgeekerrante.com/ege-podcast-ep41</link>
-				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep41</guid>
-			</item>
-		
-			<item>
-				<title>El Geek Errante: transmisión #40</title>
-                                <description>&lt;h1 id=&quot;de-8-a-64-en-30-minutos&quot;&gt;De 8 a 64 en 30 minutos&lt;/h1&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="ege-podcast" /><summary type="html">Colada Antisocial Bienvenidos al episodio del podcast del Geek Errante, grabado el 5 de Julio de 2008. 10 años después de día X de la Iglesia del Subgenius. Otro fin del mundo que no se ha cumplido – 10 años más para slackear.</summary></entry><entry><title type="html">El Geek Errante: transmisión #40</title><link href="http://elgeekerrante.com/ege-podcast-ep40" rel="alternate" type="text/html" title="El Geek Errante: transmisión #40" /><published>2008-07-15T16:05:22+02:00</published><updated>2008-07-15T16:05:22+02:00</updated><id>http://elgeekerrante.com/ege-podcast-ep40</id><content type="html" xml:base="http://elgeekerrante.com/ege-podcast-ep40">&lt;h1 id=&quot;de-8-a-64-en-30-minutos&quot;&gt;De 8 a 64 en 30 minutos&lt;/h1&gt;
 &lt;p&gt;Bienvenidos al episodio XL del podcast del Geek Errante. Hoy es 27 de Julio de 2008, día número 54644 de acuerdo con VMS. Faltan 10085 días para el Armagedón NTP.&lt;/p&gt;
 
-
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033284&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033284-geek_errante-ege-podcast-ep40.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 38.9MB)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
@@ -319,20 +437,10 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
-&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
-
-</description>
-				<pubDate>Tue, 15 Jul 2008 16:05:22 +0200</pubDate>
-				<link>http://elgeekerrante.com/ege-podcast-ep40</link>
-				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep40</guid>
-			</item>
-		
-			<item>
-				<title>El Geek Errante: transmisión #39</title>
-                                <description>&lt;h1 id=&quot;las-guerras-olvidadas&quot;&gt;Las Guerras Olvidadas&lt;/h1&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="ege-podcast" /><summary type="html">De 8 a 64 en 30 minutos Bienvenidos al episodio XL del podcast del Geek Errante. Hoy es 27 de Julio de 2008, día número 54644 de acuerdo con VMS. Faltan 10085 días para el Armagedón NTP.</summary></entry><entry><title type="html">El Geek Errante: transmisión #39</title><link href="http://elgeekerrante.com/ege-podcast-ep39" rel="alternate" type="text/html" title="El Geek Errante: transmisión #39" /><published>2008-07-01T03:37:45+02:00</published><updated>2008-07-01T03:37:45+02:00</updated><id>http://elgeekerrante.com/ege-podcast-ep39</id><content type="html" xml:base="http://elgeekerrante.com/ege-podcast-ep39">&lt;h1 id=&quot;las-guerras-olvidadas&quot;&gt;Las Guerras Olvidadas&lt;/h1&gt;
 &lt;p&gt;Bienvenidos al episodio 39 del podcast del Geek Errante. Hoy es sábado 7 de junio de 2008, 30 de Bashans de 1724.&lt;/p&gt;
 
-
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033289&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033289-geek_errante-ege-podcast-ep39.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 39.5MB)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
@@ -410,20 +518,10 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
-&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
-
-</description>
-				<pubDate>Tue, 01 Jul 2008 03:37:45 +0200</pubDate>
-				<link>http://elgeekerrante.com/ege-podcast-ep39</link>
-				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep39</guid>
-			</item>
-		
-			<item>
-				<title>El Geek Errante: transmisión #38</title>
-                                <description>&lt;h1 id=&quot;la-singularidad-está-cerca&quot;&gt;La Singularidad Está Cerca&lt;/h1&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="ege-podcast" /><summary type="html">Las Guerras Olvidadas Bienvenidos al episodio 39 del podcast del Geek Errante. Hoy es sábado 7 de junio de 2008, 30 de Bashans de 1724.</summary></entry><entry><title type="html">El Geek Errante: transmisión #38</title><link href="http://elgeekerrante.com/ege-podcast-ep38" rel="alternate" type="text/html" title="El Geek Errante: transmisión #38" /><published>2008-06-12T04:21:02+02:00</published><updated>2008-06-12T04:21:02+02:00</updated><id>http://elgeekerrante.com/ege-podcast-ep38</id><content type="html" xml:base="http://elgeekerrante.com/ege-podcast-ep38">&lt;h1 id=&quot;la-singularidad-está-cerca&quot;&gt;La Singularidad Está Cerca&lt;/h1&gt;
 &lt;p&gt;Hoy es sábado 31 de mayo de 2008, y estáis escuchando el episodio número 38 del podcast de EGE. Exactamente 1665 días antes del fin del mundo.&lt;/p&gt;
 
-
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033292&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033292-geek_errante-ege-podcast-ep38.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 36.2MB)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
@@ -495,20 +593,10 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
-&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
-
-</description>
-				<pubDate>Thu, 12 Jun 2008 04:21:02 +0200</pubDate>
-				<link>http://elgeekerrante.com/ege-podcast-ep38</link>
-				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep38</guid>
-			</item>
-		
-			<item>
-				<title>El Geek Errante: transmisión #37</title>
-                                <description>&lt;h1 id=&quot;algo-huele-a-Ácido-sulfhídrico-en-china&quot;&gt;Algo Huele a Ácido Sulfhídrico en China&lt;/h1&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="ege-podcast" /><summary type="html">La Singularidad Está Cerca Hoy es sábado 31 de mayo de 2008, y estáis escuchando el episodio número 38 del podcast de EGE. Exactamente 1665 días antes del fin del mundo.</summary></entry><entry><title type="html">El Geek Errante: transmisión #37</title><link href="http://elgeekerrante.com/ege-podcast-ep37" rel="alternate" type="text/html" title="El Geek Errante: transmisión #37" /><published>2008-05-26T06:03:12+02:00</published><updated>2008-05-26T06:03:12+02:00</updated><id>http://elgeekerrante.com/ege-podcast-ep37</id><content type="html" xml:base="http://elgeekerrante.com/ege-podcast-ep37">&lt;h1 id=&quot;algo-huele-a-Ácido-sulfhídrico-en-china&quot;&gt;Algo Huele a Ácido Sulfhídrico en China&lt;/h1&gt;
 &lt;p&gt;Bienvenidos a la transmisión número 37 de El Geek Errante, grabada el sábado 24 de mayo de 2008 . Fecha irrelevante según el calendario Borg.&lt;/p&gt;
 
-
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033294&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033294-geek_errante-ege-podcast-ep37.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 45.0MB)&lt;/a&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -660,20 +748,10 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
-&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
-
-</description>
-				<pubDate>Mon, 26 May 2008 06:03:12 +0200</pubDate>
-				<link>http://elgeekerrante.com/ege-podcast-ep37</link>
-				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep37</guid>
-			</item>
-		
-			<item>
-				<title>El Geek Errante: transmisión #36</title>
-                                <description>&lt;h1 id=&quot;a-podcasting-odyssey&quot;&gt;A Podcasting Odyssey&lt;/h1&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="ege-podcast" /><summary type="html">Algo Huele a Ácido Sulfhídrico en China Bienvenidos a la transmisión número 37 de El Geek Errante, grabada el sábado 24 de mayo de 2008 . Fecha irrelevante según el calendario Borg.</summary></entry><entry><title type="html">El Geek Errante: transmisión #36</title><link href="http://elgeekerrante.com/ege-podcast-ep36" rel="alternate" type="text/html" title="El Geek Errante: transmisión #36" /><published>2008-04-10T23:44:37+02:00</published><updated>2008-04-10T23:44:37+02:00</updated><id>http://elgeekerrante.com/ege-podcast-ep36</id><content type="html" xml:base="http://elgeekerrante.com/ege-podcast-ep36">&lt;h1 id=&quot;a-podcasting-odyssey&quot;&gt;A Podcasting Odyssey&lt;/h1&gt;
 &lt;p&gt;Bienvenidos al episodio XXXVI del podcast del Geek Errante. Hoy es domingo 6 de abril de 2008. Día 17 de la estación B del año 88 de la era Asimoviana.&lt;/p&gt;
 
-
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033295&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033295-geek_errante-ege-podcast-ep36.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 49.0MB)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
@@ -801,22 +879,12 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
-&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
-
-</description>
-				<pubDate>Thu, 10 Apr 2008 23:44:37 +0200</pubDate>
-				<link>http://elgeekerrante.com/ege-podcast-ep36</link>
-				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep36</guid>
-			</item>
-		
-			<item>
-				<title>El Geek Errante: transmisión #35</title>
-                                <description>&lt;h1 id=&quot;el-bit-errante&quot;&gt;El Bit Errante&lt;/h1&gt;
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="ege-podcast" /><summary type="html">A Podcasting Odyssey Bienvenidos al episodio XXXVI del podcast del Geek Errante. Hoy es domingo 6 de abril de 2008. Día 17 de la estación B del año 88 de la era Asimoviana.</summary></entry><entry><title type="html">El Geek Errante: transmisión #35</title><link href="http://elgeekerrante.com/ege-podcast-ep35" rel="alternate" type="text/html" title="El Geek Errante: transmisión #35" /><published>2008-04-03T06:42:59+02:00</published><updated>2008-04-03T06:42:59+02:00</updated><id>http://elgeekerrante.com/ege-podcast-ep35</id><content type="html" xml:base="http://elgeekerrante.com/ege-podcast-ep35">&lt;h1 id=&quot;el-bit-errante&quot;&gt;El Bit Errante&lt;/h1&gt;
 &lt;p&gt;Bienvenidos al episodio 0×23 del podcast del Geek Errante. Hoy es 8 de Marzo de 2008, 22 de Epiphi de 2756.&lt;/p&gt;
 
 &lt;p&gt;Una felicitación especial a tod@s nuestr@s oyentes que tengan la suerte de contar con un doble cromosoma X.&lt;/p&gt;
 
-
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/303033300&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033300-geek_errante-ege-podcast-ep35.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 48.1MB)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
@@ -897,93 +965,4 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
-&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
-
-</description>
-				<pubDate>Thu, 03 Apr 2008 06:42:59 +0200</pubDate>
-				<link>http://elgeekerrante.com/ege-podcast-ep35</link>
-				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep35</guid>
-			</item>
-		
-			<item>
-				<title>El Geek Errante: transmisión #34</title>
-                                <description>&lt;h1 id=&quot;territorio-cherokee&quot;&gt;Territorio Cherokee&lt;/h1&gt;
-&lt;p&gt;Bienvenidos al episodio 0×22 del podcast del Geek Errante. Hoy es sábado 1 de marzo de 2008. O lo que es lo mismo: Menga Pasah Laba Pon Paniron Saniscara Brahma Dangu Manusa (Pahang)&lt;/p&gt;
-
-
-&lt;p&gt;&lt;a href=&quot;http://feeds.soundcloud.com/stream/303033303-geek_errante-ege-podcast-ep34.mp3&quot;&gt;Descarga del audio desde SoundCloud (mp3, 48.6MB)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;show-notes&quot;&gt;Show notes&lt;/h2&gt;
-
-&lt;h3 id=&quot;tal-día-como-hoy&quot;&gt;Tal día como hoy&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;1954 - Se detona la bomba de hidrógeno &lt;a href=&quot;http://nuclearweaponarchive.org/Usa/Tests/Castle.html&quot;&gt;Castle Bravo&lt;/a&gt;, de 15 megatones, en el &lt;a href=&quot;http://bikiniatoll.com/&quot;&gt;Atolón Bikini&lt;/a&gt; en el Océano Pacifico.&lt;/li&gt;
-  &lt;li&gt;1896 - &lt;a href=&quot;https://en.wikipedia.org/wiki/Henri_Becquerel&quot;&gt;Henri Becquerel&lt;/a&gt; descubre la radiactividad mientras investigaba las propiedades fosforescentes de las sales de Uranio.&lt;/li&gt;
-  &lt;li&gt;1873 - Comienza la fabricación y comercialización de &lt;a href=&quot;http://web.archive.org/web/20100414101916/http://home.earthlink.net/~dcrehr/firsttw.html&quot;&gt;la primera máquina de escribir&lt;/a&gt;, de la mano de  E. Remington &amp;amp; Sons.&lt;/li&gt;
-  &lt;li&gt;1956 – La Asociación Internacional del Transporte Aéreo (IATA) finaliza el draft del &lt;a href=&quot;https://es.wikipedia.org/wiki/Alfabeto_radiof%C3%B3nico&quot;&gt;Alfabeto Fonético Aeronáutico&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;1966 -  La sonda espacial &lt;a href=&quot;https://en.wikipedia.org/wiki/Venera_3&quot;&gt;Venera 3&lt;/a&gt;, lanzada el 16 de noviembre de 1965 desde Baikonour, llega a Venus.&lt;/li&gt;
-  &lt;li&gt;1991 – Fallece &lt;a href=&quot;https://en.wikipedia.org/wiki/Edwin_H._Land&quot;&gt;Edwin H. Land&lt;/a&gt; (nacido en 1909), científico estadounidense fundador de Polaroid y ejemplo de vida para todos los geeks.&lt;/li&gt;
-  &lt;li&gt;1928 - Nace &lt;a href=&quot;http://www.papert.org/&quot;&gt;Seymour Papert&lt;/a&gt;, matemático sudafricano creador de &lt;a href=&quot;https://en.wikipedia.org/wiki/Logo_%28programming_language%29&quot;&gt;LOGO&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;cuaderno-de-bitácora&quot;&gt;Cuaderno de bitácora&lt;/h3&gt;
-&lt;p&gt;Un fallo en el sistema de restore de holopersonalidades provoca la violación del Principio de Exclusión de Freud. Chaos ensues.&lt;/p&gt;
-
-&lt;h3 id=&quot;rincón-del-oyente&quot;&gt;Rincón del oyente&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Ganadores del concurso Open Solaris: Loro Sapiens, riky rasca, Gelical, cinderL y Alejandro Nieto. ¡Felicidades! En breve nos pondremos en contacto con vosotros.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Nuevo Concurso&lt;/strong&gt;: dinos cinco razones por las que Apple apesta, y podrás llevarte un iWork’08 nuevecito y sin estrenar. ¡Escríbenos!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;noticia-de-entrada&quot;&gt;Noticia de entrada&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Electro-boy: un chico de 12 años &lt;a href=&quot;https://www.engadget.com/2008/03/02/12-year-old-magneto-man-breaks-every-computer-he-touches/&quot;&gt;rompe toda la electronica a su alrededor&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;miscelanea&quot;&gt;Miscelanea&lt;/h3&gt;
-
-&lt;h5 id=&quot;quickies&quot;&gt;Quickies&lt;/h5&gt;
-&lt;ul&gt;
-  &lt;li&gt;La epidemia del &lt;a href=&quot;http://web.archive.org/web/20080224010259/http://news.yahoo.com/s/ap/20080213/ap_on_hi_te/techbit_servers_that_lie&quot;&gt;DNS spoofing&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://web.archive.org/web/20080518121512/http://online.wsj.com/public/article/SB120347353988378955.html?&quot;&gt;Cobertura inalámbrica mediante globos&lt;/a&gt;… Y a Google parece que le gusta la idea.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://tecnologia.elpais.com/tecnologia/2008/02/26/actualidad/1204018080_850215.html&quot;&gt;Nuevo cable submarino&lt;/a&gt; entre EEUU y Japón.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;developers--unix&quot;&gt;Developers &amp;amp; UNIX&lt;/h3&gt;
-
-&lt;h5 id=&quot;entrevista-a-Álvaro-lópez-ortega&quot;&gt;Entrevista a Álvaro López Ortega&lt;/h5&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1QbBZsAE2fgihbtZL3A5UvemjB7dYrRY7enkHz-ftvvs/edit?usp=sharing&quot;&gt;Guión de la entrevista&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/cherokee/webserver&quot;&gt;Web del Proyecto Cherokee&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://alobbs.com/&quot;&gt;Página personal&lt;/a&gt; de Álvaro.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;p2p-y-derecho-digital&quot;&gt;P2P y Derecho Digital&lt;/h3&gt;
-
-&lt;h5 id=&quot;quickies-1&quot;&gt;Quickies&lt;/h5&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://torrentfreak.com/eu-invests-22-million-in-next-generation-bittorrent-client/&quot;&gt;La UE invierte €14,8M&lt;/a&gt; en el desarrollo de clientes bit-torrent.&lt;/li&gt;
-  &lt;li&gt;El Pentágono: &lt;a href=&quot;http://www.globalresearch.ca/pentagon-the-internet-needs-to-be-dealt-with-as-if-it-were-an-enemy-weapons-system/7980&quot;&gt;“Internet es un arma enemiga”&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://web.archive.org/web/20080222021805/http://news.yahoo.com/s/nm/20080204/wr_nm/denmark_piratebay_dc&quot;&gt;Tele2 DK bloquea PirateBay&lt;/a&gt; por una sentencia judicial.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;sci-fi-to-sci-fact&quot;&gt;Sci-fi to Sci-Fact&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;La Universitat Politécnica de Valencia &lt;a href=&quot;http://www.20minutos.es/noticia/354312/0/ecuaciones/matematicas/elecciones/&quot;&gt;inventa la psicohistoria&lt;/a&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;Referencias: &lt;a href=&quot;https://en.wikipedia.org/wiki/Foundation_series&quot;&gt;Novelas de la Fundación&lt;/a&gt;, de Isaac Asimov.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;licencia&quot;&gt;Licencia&lt;/h2&gt;
-&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;
-
-</description>
-				<pubDate>Mon, 17 Mar 2008 23:35:27 +0100</pubDate>
-				<link>http://elgeekerrante.com/ege-podcast-ep34</link>
-				<guid isPermaLink="true">http://elgeekerrante.com/ege-podcast-ep34</guid>
-			</item>
-		
-	</channel>
-</rss>
+&lt;p&gt;El 100% de este podcast se ha elaborado a partir de bits reciclados, y se distribuye bajo una licencia Creative Commons Atribución-no comercial-share alike 2.5 o superior de España. Para más información, visita &lt;a href=&quot;http://es.creativecommons.org/blog/licencias/&quot;&gt;http://es.creativecommons.org/blog/licencias/&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="ege-podcast" /><summary type="html">El Bit Errante Bienvenidos al episodio 0×23 del podcast del Geek Errante. Hoy es 8 de Marzo de 2008, 22 de Epiphi de 2756.</summary></entry></feed>

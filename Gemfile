@@ -18,4 +18,18 @@ gem "jekyll", "3.3.1"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
    gem "jekyll-sitemap", "~> 1.0.0"
+   #
+   # GitHub Pages don't support plugins.
+   # To update the blog feed, please follow the steps below:
+   #
+   # 1. Uncomment the jekyll-feed gem
+   # 2. Uncomment the gem in _config.yml ('gems' section)
+   # 3. bundle update
+   # 4. rebuild site
+   # 5. copy _site/feed.xml to the root dir. Check the new entries are there.
+   # 6. Comment all the uncommented lines
+   # 7. bundle update
+   # 8. Push the new feed
+   #
+   #gem "jekyll-feed", "~> 0.6"
 end

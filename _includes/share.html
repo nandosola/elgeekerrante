@@ -15,7 +15,7 @@
 
     {% if site.share.twitter %}
     <li class="share-twitter">
-      <a href="https://twitter.com/intent/tweet?url={{ site.url | append: page.url }}&text={{page.title | remove: "#" | append: ' — ' | url_encode}}" target="_blank" title="Tweet"/>
+      <a href="https://twitter.com/intent/tweet?url={{ site.url | append: page.url }}&text={{page.title | remove: "#" | append: ' — ' | url_encode}}&hashtags={{ site.twitter.hastags | join: ',' }}&via={{ site.twitter.username }}" target="_blank" title="Tweet"/>
         <span class="fa-stack fa-lg">
           <i class="fa fa-square-o fa-stack-2x"></i>
           <i class="fa fa-twitter fa-stack-1x"></i>

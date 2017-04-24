@@ -2,6 +2,7 @@
 layout: post
 title: "El Geek Errante: transmisión #27"
 date: 2008-01-02 20:29:07 +0100
+share: true
 tags:
  - ege-podcast
 categories:

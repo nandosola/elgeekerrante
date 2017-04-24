@@ -2,6 +2,7 @@
 layout: post
 title: "El Geek Errante: transmisión #09"
 date: 2007-08-17 08:43:43 +0200
+share: true
 tags:
  - ege-podcast
 categories:

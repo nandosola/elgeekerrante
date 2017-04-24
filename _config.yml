@@ -17,7 +17,7 @@ share:
   gplus: true
   linkedin: false
   pinterest: false
-  email: true
+  email: false
 
 social:
   github: ""

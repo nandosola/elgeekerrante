@@ -2,6 +2,7 @@
 layout: post
 title: "Mondo Sci-Fi: transmisión #04"
 date: 2007-09-11 18:33:56 +0200
+share: true
 tags:
  - msf-podcast
 categories:

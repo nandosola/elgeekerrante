@@ -15,7 +15,7 @@
 
     {% if site.share.twitter %}
     <li class="share-twitter">
-      <a href="https://twitter.com/intent/tweet?url={{ site.url | append: page.url }}&text={{page.title}}" target="_blank" title="Tweet">
+      <a href="https://twitter.com/intent/tweet?url={{ site.url | append: page.url }}&text={{page.title | remove: "#" | append: ' — ' | url_encode}}" target="_blank" title="Tweet"/>
         <span class="fa-stack fa-lg">
           <i class="fa fa-square-o fa-stack-2x"></i>
           <i class="fa fa-twitter fa-stack-1x"></i>
@@ -37,7 +37,7 @@
 
     {% if site.share.linkedin %}
     <li class="share-linkedin">
-      <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url | append: page.url }}&title={{page.title}}&summary={{page.description}}&source=" target="_blank" title="Share on LinkedIn">
+      <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url | append: page.url }}&title={{page.title}}&summary={{page.title | url_encode}}&source=" target="_blank" title="Share on LinkedIn">
         <span class="fa-stack fa-lg">
           <i class="fa fa-circle-thin fa-stack-2x"></i>
           <i class="fa fa-linkedin fa-stack-1x"></i>
@@ -59,7 +59,7 @@
 
     {% if site.share.email %}
     <li class="share-envelope">
-      <a href="mailto:?&subject={{page.title}}&body={{page.description | append: ' ' | append: site.url | append: page.url}}" target="_blank" title="Email">
+      <a href="mailto:?&subject={{page.title}}&body={{page.title | append: ' ' | append: site.url | append: page.url}}" target="_blank" title="Email">
         <span class="fa-stack fa-lg">
           <i class="fa fa-circle-thin fa-stack-2x"></i>
           <i class="fa fa-envelope-o fa-stack-1x"></i>

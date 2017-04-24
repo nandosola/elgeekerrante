@@ -2,6 +2,7 @@
 layout: post
 title: "El Geek Errante: transmisión #37"
 date: 2008-05-26 06:03:12 +0200
+share: true
 tags:
  - ege-podcast
 categories:

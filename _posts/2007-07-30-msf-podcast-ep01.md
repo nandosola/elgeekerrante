@@ -2,6 +2,7 @@
 layout: post
 title: "Mondo Sci-Fi: transmisión #01"
 date: 2007-07-30 18:34:36 +0200
+share: true
 tags:
  - msf-podcast
 categories:

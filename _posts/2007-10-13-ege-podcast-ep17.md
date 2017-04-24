@@ -2,6 +2,7 @@
 layout: post
 title: "El Geek Errante: transmisión #17"
 date: 2007-10-13 12:39:41 +0200
+share: true
 tags:
  - ege-podcast
 categories:

@@ -1,9 +1,9 @@
 #!/usr/bin/env bash -e
 
 BASEDIR="${PWD}"
-PODCASTDIR="${PWD}/podcastfiles"
-TAGDIR="${PWD}/tag"
-SITEDIR="${PWD}/_site"
+PODCASTDIR="${BASEDIR}/podcastfiles"
+TAGDIR="${BASEDIR}/tag"
+SITEDIR="${BASEDIR}/_site"
 
 bundle_cmd="/usr/bin/env bundle exec"
 jekyll_clean="${bundle_cmd} jekyll clean"

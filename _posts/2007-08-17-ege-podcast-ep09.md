@@ -3,6 +3,10 @@ layout: post
 title: "El Geek Errante: transmisión #09"
 date: 2007-08-17 08:43:43 +0200
 share: true
+hashtags:
+ - ElGeekErrante
+ - podcast
+ - EGE09
 tags:
  - ege-podcast
 categories:

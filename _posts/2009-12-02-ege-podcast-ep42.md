@@ -3,6 +3,10 @@ layout: post
 title: "El Geek Errante: transmisión #42"
 date: 2009-12-01 21:54:55 +0100
 share: true
+hashtags:
+ - ElGeekErrante
+ - podcast
+ - EGE42
 tags:
  - ege-podcast
 categories:

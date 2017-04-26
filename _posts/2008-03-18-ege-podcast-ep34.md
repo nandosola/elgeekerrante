@@ -3,6 +3,10 @@ layout: post
 title: "El Geek Errante: transmisión #34"
 date: 2008-03-17 23:35:27 +0100
 share: true
+hashtags:
+ - ElGeekErrante
+ - podcast
+ - EGE34
 tags:
  - ege-podcast
 categories:

@@ -3,6 +3,10 @@ layout: post
 title: "El Geek Errante: transmisión #43"
 date: 2011-03-26 21:02:46 +0100
 share: true
+hashtags:
+ - ElGeekErrante
+ - podcast
+ - EGE43
 tags:
  - ege-podcast
 categories:

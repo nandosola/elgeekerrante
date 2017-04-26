@@ -3,6 +3,10 @@ layout: post
 title: "El Geek Errante: transmisión #26"
 date: 2007-12-21 03:09:59 +0100
 share: true
+hashtags:
+ - ElGeekErrante
+ - podcast
+ - EGE26
 tags:
  - ege-podcast
 categories:

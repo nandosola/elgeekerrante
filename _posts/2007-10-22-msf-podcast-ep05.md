@@ -3,6 +3,10 @@ layout: post
 title: "Mondo Sci-Fi: transmisión #05"
 date: 2007-10-22 17:13:48 +0200
 share: true
+hashtags:
+ - MondoSciFi
+ - podcast
+ - MSF05
 tags:
  - msf-podcast
 categories:

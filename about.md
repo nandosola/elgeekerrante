@@ -19,7 +19,7 @@ El ritmo vertiginoso de publicación de un episodio por semana y nuestro perfecc
 - Efemérides
 - *Space opera* por entregas
 - Comentario de noticias de tecnología, Apple, Sun, desarrollo, hacking, P2P, derecho de internet y un poquito de ciencia..
-- Desarrollo *profundo* de cualquier tema relacionado con alguna noticia: cables oceánicos, IPv6, gusanos malignos, entrevistas, cobertura de eventos como Retro-Madrid…
+- Desarrollo *profundo* de cualquier tema relacionado con alguna noticia: cables oceánicos, IPv6, gusanos malignos, entrevistas, cobertura de eventos como [Retro-Madrid](http://www.retromadrid.org/)…
 - Comentarios y reseñas sobre el mundo de la ciencia-ficción, que poco después pasó a su propio podcast llamado **Mondo Sci-Fi**.
 
 ![El Geek Errante](/images/ege_logo.jpg){: .center-image .img-thumbnail }
@@ -36,7 +36,7 @@ En las navidades de 2016, nueve años después de los primeros bits del podcast 
 1. Por un lado, mantener nuestros episodios siempre disponibles y los enlaces siempre vivos. Parece un tópico, pero el ritmo de Internet es muy rápido. Noticias candentes de hace 10 años ya no importan. Sus enlaces se han perdido en servidores apagados. O ya no funcionan gracias a algún consultor SEO que no ha caido en meter *redirects*.
 2. Por otro lado, *volver a grabar*.
 
-Así que la primera deuda con todas y todos vosotros está saldada: aquí teneis los archivos de ***EGE***, **Mondo Sci-Fi** y los capítulos del podcast de Venera7 que fueron la precuela de ***EGE***. Con sus *show-notes* actualizadas y sin enlaces rotos. Ha sido un trabajo minucioso y emocionante que nos ha llevado casi un mes: hemos tenido que recurrir a [Archive.org](http://web.archive.org/web/*/http://elgeekerrante.com) para rescatar uno a uno cada episodio. Cada enlace ha sido validado y comprobado.
+Así que la primera deuda con todas y todos vosotros está saldada: aquí teneis los archivos de ***EGE***, **Mondo Sci-Fi** y los capítulos del podcast de Venera7 que fueron la precuela de ***EGE***. Con sus *show-notes* actualizadas y sin enlaces rotos. Ha sido un trabajo minucioso y emocionante que nos ha llevado casi un mes: hemos tenido que recurrir a [Archive.org](http://web.archive.org/web/*/http://elgeekerrante.com) para rescatar uno a uno cada episodio. Cada enlace ha sido validado y comprobado. Restaurar los comentarios de las entradas habría supuesto mucho esfuerzo extra, por lo que decidimos no hacerlo.
 
 Con respecto al segundo punto, aunque la tripulación se encuentre físicamente dispersa, nos hemos propuesto que, comenzando en 2017, vamos a retomar las emisiones subespaciales. El formato cambia, pero el espíritu permanece. Todos los tripulantes seguimos vinculados al mundo técnico de alto nivel, y nunca hemos dejado de participar en él. Además, tenemos ganas de aportar algo al ya *consolidado* mundillo del podcasting en español. Y es que como dijo un árabe loco hace muchos, muchos años:
 

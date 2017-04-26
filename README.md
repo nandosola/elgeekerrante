@@ -14,7 +14,6 @@ Optionally you can use:
 
  - [Disqus](http://disqus.com) as a comments system;
  - [Google Analytics](http://www.google.com/analytics/);
- - [Yandex Metrica](http://metrica.yandex.com);
  - Blog tags;
  - Share buttons.
 

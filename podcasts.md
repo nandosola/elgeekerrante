@@ -57,7 +57,6 @@ title: Podcasts
 ### Historia & Filosofía
 - [Los Crononautas](http://www.loscrononautas.com/)
 - [HistoCast](https://www.histocast.com/)
-- [Pienso luego ya tu sabeh](http://audiosonoro.com/category/piensoluegoya/)
 - [Zafarrancho Podcast](https://zafarranchopodcast.wordpress.com/)
 
 ### Inclasificable

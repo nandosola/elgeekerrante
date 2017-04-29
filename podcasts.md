@@ -8,6 +8,7 @@ title: Podcasts
 *(editado el 29/04/2017)*
 
 ### Actualidad & Reportajes
+- [The Command Line](http://thecommandline.net/)
 - [Control de Cambios](http://www.stitcher.com/podcast/control-de-cambios)
 - [Documentos RNE](http://www.rtve.es/alacarta/audios/documentos-rne/)
 - [El Valle de los Tercos](http://www.elvalledelostercos.com/)
@@ -24,12 +25,14 @@ title: Podcasts
 ### Ciencia & Pensamiento Crítico
 - [Los 3 chanchitos](https://3chanchitos.es/)
 - [60-Second Science](https://www.scientificamerican.com/podcast/60-second-science/)
+- [A Brief History of Mathematics](http://www.bbc.co.uk/programmes/b00srz5b/episodes/downloads)
 - [Catástrofe Ultravioleta](http://catastrofeultravioleta.com/)
 - [Coffee Break: Señal y Ruido](http://vivaldi.ll.iac.es/proyecto/coffeebreak/)
 - [A Hombros de Gigantes](http://www.rtve.es/alacarta/audios/a-hombros-de-gigantes/)
 - [Cienciaes.com](http://cienciaes.com/)
 - [Entre Probetas](http://www.rtve.es/alacarta/audios/entre-probetas)
 - [Math Mutation](http://mathmutation.blogspot.com.es/)
+- [El Método](http://elmetodo.fm/)
 - [More or Less: Behind the Stats](http://www.bbc.co.uk/programmes/p02nrss1/episodes/downloads)
 - [Pensando Críticamente](https://www.escepticos.es/)
 - [Radio Skylab](http://radioskylab.es/)

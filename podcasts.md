@@ -35,7 +35,7 @@ title: Podcasts
 - [Proyecto Terror](http://proyectoterror.blogspot.com.es/)
 - [Slice Of Sci-Fi](http://www.sliceofscifi.com/)
 - [Los VerdHugos](http://verdhugos.blogspot.com.es/)
-- [Verne y Wells Ciencia Ficción](http://verneywells.blogspot.com.es/)
+- [Verne y Wells Ciencia Ficción](https://www.ivoox.com/podcast-podcast-verne-wells-ciencia-ficcion_sq_f1100419_1.html)
 
 ### Desarrollo de Software & UN\*X
 - [BSD Now](http://www.jupiterbroadcasting.com/show/bsdnow/)

@@ -5,10 +5,12 @@ title: Podcasts
 ---
 
 # Podcasts Recomendados
+*(editado el 29/04/2017)*
 
 ### Actualidad & Reportajes
 - [Control de Cambios](http://www.stitcher.com/podcast/control-de-cambios)
 - [Documentos RNE](http://www.rtve.es/alacarta/audios/documentos-rne/)
+- [El Valle de los Tercos](http://www.elvalledelostercos.com/)
 - [Freakonomics Radio](http://freakonomics.com/)
 - [Radio Ambulante](http://radioambulante.org/)
 - [Radio War Nerd](https://www.patreon.com/radiowarnerd)
@@ -29,6 +31,7 @@ title: Podcasts
 - [Entre Probetas](http://www.rtve.es/alacarta/audios/entre-probetas)
 - [Math Mutation](http://mathmutation.blogspot.com.es/)
 - [More or Less: Behind the Stats](http://www.bbc.co.uk/programmes/p02nrss1/episodes/downloads)
+- [Pensando Críticamente](https://www.escepticos.es/)
 - [Radio Skylab](http://radioskylab.es/)
 - [Relatively Prime](http://relprime.com/)
 - [Science Talk](https://www.scientificamerican.com/podcast/science-talk/)

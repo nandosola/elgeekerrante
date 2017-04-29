@@ -19,7 +19,7 @@ title: Podcasts
 - [El Quijote del Siglo XXI](http://www.rtve.es/alacarta/audios/el-quijote-del-siglo-xxi-version-radiofonica/)
 - [V., las cloacas del Estado](http://www.podiumpodcast.com/v-las-cloacas-del-estado/)
 
-### Ciencia
+### Ciencia & Pensamiento Crítico
 - [Los 3 chanchitos](https://3chanchitos.es/)
 - [60-Second Science](https://www.scientificamerican.com/podcast/60-second-science/)
 - [Catástrofe Ultravioleta](http://catastrofeultravioleta.com/)
@@ -27,7 +27,10 @@ title: Podcasts
 - [A Hombros de Gigantes](http://www.rtve.es/alacarta/audios/a-hombros-de-gigantes/)
 - [Cienciaes.com](http://cienciaes.com/)
 - [Entre Probetas](http://www.rtve.es/alacarta/audios/entre-probetas)
+- [Math Mutation](http://mathmutation.blogspot.com.es/)
+- [More or Less: Behind the Stats](http://www.bbc.co.uk/programmes/p02nrss1/episodes/downloads)
 - [Radio Skylab](http://radioskylab.es/)
+- [Relatively Prime](http://relprime.com/)
 - [Science Talk](https://www.scientificamerican.com/podcast/science-talk/)
 
 ### Ciencia-ficción, Terror & Fantasía
@@ -63,6 +66,7 @@ title: Podcasts
 - [La Hora de Bach](http://www.rtve.es/alacarta/audios/la-hora-de-bach)
 - [Islas de Robinson](http://www.rtve.es/alacarta/audios/islas-de-robinson/)
 - [Música Antigua](http://www.rtve.es/alacarta/audios/musica-antigua/)
+- [El Sótano](http://www.rtve.es/alacarta/audios/el-sotano/)
 - [Sinfonía de la mañana](http://www.rtve.es/alacarta/audios/sinfonia-de-la-manana/)
 
 ### Seguridad & Hackers
@@ -75,4 +79,6 @@ title: Podcasts
 ### Videojuegos
 - [EliteCast](http://www.comunidadhispana.es/category/elite-dangerous/elitecast/)
 - [Game Over](http://www.portalgameover.com/)
+- [El Legado del Bit](https://www.ivoox.com/podcast-legado-del-bit_sq_f1168530_1.html)
+- [Retro Entre Amigos](http://www.retroentreamigos.com/)
 

@@ -17,11 +17,6 @@ title: Podcasts
 - [Radio War Nerd](https://www.patreon.com/radiowarnerd)
 - [Radiolab](http://www.radiolab.org/)
 
-### PodSeries
-- [El Gran Apagón](http://www.podiumpodcast.com/el-gran-apagon/)
-- [El Quijote del Siglo XXI](http://www.rtve.es/alacarta/audios/el-quijote-del-siglo-xxi-version-radiofonica/)
-- [V., las cloacas del Estado](http://www.podiumpodcast.com/v-las-cloacas-del-estado/)
-
 ### Ciencia & Pensamiento Crítico
 - [Los 3 chanchitos](https://3chanchitos.es/)
 - [60-Second Science](https://www.scientificamerican.com/podcast/60-second-science/)
@@ -73,6 +68,11 @@ title: Podcasts
 - [Música Antigua](http://www.rtve.es/alacarta/audios/musica-antigua/)
 - [El Sótano](http://www.rtve.es/alacarta/audios/el-sotano/)
 - [Sinfonía de la mañana](http://www.rtve.es/alacarta/audios/sinfonia-de-la-manana/)
+
+### PodSeries
+- [El Gran Apagón](http://www.podiumpodcast.com/el-gran-apagon/)
+- [El Quijote del Siglo XXI](http://www.rtve.es/alacarta/audios/el-quijote-del-siglo-xxi-version-radiofonica/)
+- [V., las cloacas del Estado](http://www.podiumpodcast.com/v-las-cloacas-del-estado/)
 
 ### Seguridad & Hackers
 - [Autodefensa Informática](https://autodefensainformatica.radioalmaina.org/)

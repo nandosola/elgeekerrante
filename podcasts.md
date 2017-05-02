@@ -18,7 +18,7 @@ title: Podcasts
 - [Radiolab](http://www.radiolab.org/)
 
 ### Ciencia & Pensamiento Crítico
-- [Los 3 chanchitos](https://3chanchitos.es/)
+- [3 chanchitos](https://3chanchitos.es/)
 - [60-Second Science](https://www.scientificamerican.com/podcast/60-second-science/)
 - [A Brief History of Mathematics](http://www.bbc.co.uk/programmes/b00srz5b/episodes/downloads)
 - [Catástrofe Ultravioleta](http://catastrofeultravioleta.com/)
@@ -43,12 +43,14 @@ title: Podcasts
 
 ### Desarrollo de Software & UN\*X
 - [BSD Now](http://www.jupiterbroadcasting.com/show/bsdnow/)
+- [Compilando Podcast](http://www.ivoox.com/podcast-compilando-podcast_sq_f1388684_1.html)
 - [DevOps Cafe](http://devopscafe.org/)
 - [The Changelog](https://changelog.com/podcast)
 - [FLOSS Weekly](https://twit.tv/shows/floss-weekly)
 - [Functional Geekery](https://www.functionalgeekery.com/)
 - [Late Night Linux](http://latenightlinux.com/)
 - [The Scalawags](http://www.scalawags.tv/)
+- [Software Engineering Daily](https://softwareengineeringdaily.com/)
 - [Software Engineering Radio](http://www.se-radio.net/)
 - [TechSNAP](http://www.jupiterbroadcasting.com/show/techsnap/)
 

@@ -43,7 +43,7 @@ title: Podcasts
 
 ### Desarrollo de Software & UN\*X
 - [BSD Now](http://www.jupiterbroadcasting.com/show/bsdnow/)
-- [Compilando Podcast](http://www.ivoox.com/podcast-compilando-podcast_sq_f1388684_1.html)
+- [Compilando Podcast](https://compilando.audio/)
 - [DevOps Cafe](http://devopscafe.org/)
 - [The Changelog](https://changelog.com/podcast)
 - [FLOSS Weekly](https://twit.tv/shows/floss-weekly)

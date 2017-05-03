@@ -84,7 +84,7 @@ title: Podcasts
 - [Seguridad Overflow](http://seguridadoverflow.com/)
 
 ### Videojuegos
-- [EliteCast](http://www.comunidadhispana.es/category/elite-dangerous/elitecast/)
+- [EliteCast](https://www.ivoox.com/perfil-elitecast-2-0_aj_5872963_1.html)
 - [Game Over](http://www.portalgameover.com/)
 - [El Legado del Bit](https://www.ivoox.com/podcast-legado-del-bit_sq_f1168530_1.html)
 - [Retro Entre Amigos](http://www.retroentreamigos.com/)

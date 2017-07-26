@@ -5,7 +5,7 @@ title: Podcasts
 ---
 
 # Podcasts Recomendados
-*(editado el 29/04/2017)*
+*(editado el 26/07/2017)*
 
 ### Actualidad & Reportajes
 - [The Command Line](http://thecommandline.net/)
@@ -13,6 +13,7 @@ title: Podcasts
 - [Documentos RNE](http://www.rtve.es/alacarta/audios/documentos-rne/)
 - [El Valle de los Tercos](http://www.elvalledelostercos.com/)
 - [Freakonomics Radio](http://freakonomics.com/)
+- [Pata de Cabra Radio](http://patadecabra.es/)
 - [Radio Ambulante](http://radioambulante.org/)
 - [Radio War Nerd](https://www.patreon.com/radiowarnerd)
 - [Radiolab](http://www.radiolab.org/)
@@ -30,6 +31,7 @@ title: Podcasts
 - [El Método](http://elmetodo.fm/)
 - [More or Less: Behind the Stats](http://www.bbc.co.uk/programmes/p02nrss1/episodes/downloads)
 - [Pensando Críticamente](https://www.escepticos.es/)
+- [Planeta Vivo Radio](http://planetavivoradio.es/)
 - [Radio Skylab](http://radioskylab.es/)
 - [Relatively Prime](http://relprime.com/)
 - [Science Talk](https://www.scientificamerican.com/podcast/science-talk/)
@@ -42,6 +44,7 @@ title: Podcasts
 - [Verne y Wells Ciencia Ficción](https://www.ivoox.com/podcast-podcast-verne-wells-ciencia-ficcion_sq_f1100419_1.html)
 
 ### Desarrollo de Software & UN\*X
+- [AWS Podcast](https://aws.amazon.com/es/podcasts/aws-podcast/)
 - [BSD Now](http://www.jupiterbroadcasting.com/show/bsdnow/)
 - [Compilando Podcast](https://compilando.audio/)
 - [DevOps Cafe](http://devopscafe.org/)
@@ -53,6 +56,7 @@ title: Podcasts
 - [Software Engineering Daily](https://softwareengineeringdaily.com/)
 - [Software Engineering Radio](http://www.se-radio.net/)
 - [TechSNAP](http://www.jupiterbroadcasting.com/show/techsnap/)
+- [The Women in Tech Show](https://thewomenintechshow.com/)
 
 ### Historia & Filosofía
 - [Los Crononautas](http://www.loscrononautas.com/)
@@ -60,11 +64,13 @@ title: Podcasts
 - [Zafarrancho Podcast](https://zafarranchopodcast.wordpress.com/)
 
 ### Inclasificable
+- [La Escóbula de la Brújula](http://www.laescobula.com/)
 - [In Our Time](http://www.bbc.co.uk/programmes/b006qykl/episodes/downloads)
 - [The Infinite Monkey Cage](http://www.bbc.co.uk/programmes/b00snr0w/episodes/downloads)
 - [Philip K. Dick Philosophical Podcast](http://pkdpp.tumblr.com/)
 
 ### Música
+- [Clásicos del jazz y del swing](http://www.rtve.es/alacarta/audios/clasicos-del-jazz-y-del-swing/)
 - [La Hora de Bach](http://www.rtve.es/alacarta/audios/la-hora-de-bach)
 - [Islas de Robinson](http://www.rtve.es/alacarta/audios/islas-de-robinson/)
 - [Música Antigua](http://www.rtve.es/alacarta/audios/musica-antigua/)

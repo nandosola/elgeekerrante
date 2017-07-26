@@ -35,6 +35,7 @@ title: Podcasts
 - [Radio Skylab](http://radioskylab.es/)
 - [Relatively Prime](http://relprime.com/)
 - [Science Talk](https://www.scientificamerican.com/podcast/science-talk/)
+- [You Are Not So Smart](https://youarenotsosmart.com/)
 
 ### Ciencia-ficción, Terror & Fantasía
 - [Lore](http://www.lorepodcast.com/)

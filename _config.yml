@@ -6,7 +6,7 @@ description: Life's a maze of twisty little passages, all alike
 timezone: Europe/Madrid
 
 # Url is currently only used only for the RSS feed in feed.xml
-url: http://elgeekerrante.com
+url: https://elgeekerrante.com
 
 # For a project page here should be a project name. Otherwise (for user's/organizaion's page leave it empty)
 baseurl: ""
@@ -45,7 +45,7 @@ twitter:
 
 # Podcasting
 podcast:
-  url: http://elgeekerrante.com
+  url: https://elgeekerrante.com
   album_art: /images/ege_itunes_logo.jpg
   title: El Geek Errante
   owner: The Crew

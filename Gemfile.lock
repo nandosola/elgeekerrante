@@ -47,7 +47,7 @@ DEPENDENCIES
   jekyll-sitemap (~> 1.0.0)
 
 RUBY VERSION
-   ruby 2.3.3p222
+   ruby 2.5.3p105
 
 BUNDLED WITH
-   1.13.7
+   1.17.1
